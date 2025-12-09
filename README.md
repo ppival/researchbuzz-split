@@ -14,3 +14,4 @@ Change it to your preferred schedule:
 '0 0 * * *' = once daily at midnight
 '0 9,15,21 * * *' = three times daily (9am, 3pm, 9pm)
 
+Thanks for the assistance in putting this together, Claude.
