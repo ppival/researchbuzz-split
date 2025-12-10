@@ -79,17 +79,30 @@ function transformFeed() {
             const url = linkMatch[1];
             const headline = linkMatch[2].replace(/<[^>]+>/g, '').trim();
             const textContent = pContent.replace(/<[^>]+>/g, '').trim();
-            const headlineIndex = textContent.indexOf(headline);
             
+            // Find the prefix (text before the link)
+            const headlineIndex = textContent.indexOf(headline);
+            let prefix = '';
+            if (headlineIndex > 0) {
+              prefix = textContent.substring(0, headlineIndex).trim();
+            }
+            
+            // Find annotation (text after headline)
             if (headlineIndex !== -1) {
               let annotation = textContent.substring(headlineIndex + headline.length).trim();
               annotation = annotation.replace(/^[.:\s]+/, '').trim();
               
-              if (headline && annotation && url) {
+              // Combine prefix with annotation
+              let fullDescription = annotation;
+              if (prefix) {
+                fullDescription = prefix + ' ' + annotation;
+              }
+              
+              if (headline && fullDescription && url) {
                 transformedItems.push({
                   title: headline,
                   link: url,
-                  description: annotation,
+                  description: fullDescription,
                   pubDate: pubDate
                 });
               }
