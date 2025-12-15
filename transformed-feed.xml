@@ -4,7 +4,98 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Mon, 15 Dec 2025 12:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 14:29:55 GMT</lastBuildDate>
+    <item>
+      <title>Avalanche Canada launches new database for fatal avalanche incidents</title>
+      <link>https://ntv.ca/news/avalanche-canada-launches-new-database-for-fatal-avalanche-incidents/</link>
+      <description>NTV: &amp;#8220;Avalanche Canada has just launched a new site documenting every known avalanche fatality in Canada since 1792. In addition to incident reports on these fatal incidents, the site also has expert incident analyses on most avalanches dating back to 1955, as well as interactive mapping, statistics and case studies.&amp;#8221;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://ntv.ca/news/avalanche-canada-launches-new-database-for-fatal-avalanche-incidents/</guid>
+    </item>
+    <item>
+      <title>New Website Lets You Scan Snaps for Known Security Vulnerabilities</title>
+      <link>https://www.omgubuntu.co.uk/2025/12/snapscope-snap-security-vulnerability-checker</link>
+      <description>OMG Ubuntu: &amp;#8220;Ever wondered how secure the apps you install from the Snap Store are? A new website from Ubuntu alumnus Alan Pope makes it easy to find out. The Snapscope website uses open-source security tool Grype to scan Snap package for CVEs and security vulnerabilities (critical, high, medium, low, actively exploited) which might affect those using them.&amp;#8221;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://www.omgubuntu.co.uk/2025/12/snapscope-snap-security-vulnerability-checker</guid>
+    </item>
+    <item>
+      <title>Reddit challenges Australia&amp;#8217;s law banning children under 16 from social media</title>
+      <link>https://abcnews.go.com/International/wireStory/reddit-challenges-australias-world-law-banning-children-16-128330665</link>
+      <description>ABC News: &amp;#8220;Global online forum Reddit on Friday filed a court challenge to Australia’s world-first law that bans Australian children younger than 16 from holding accounts on the world’s most popular social media platforms.&amp;#8221;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://abcnews.go.com/International/wireStory/reddit-challenges-australias-world-law-banning-children-16-128330665</guid>
+    </item>
+    <item>
+      <title>Reddit is starting to verify public figures</title>
+      <link>https://www.engadget.com/social-media/reddit-is-starting-to-verify-public-figures-170000833.html?src=rss</link>
+      <description>Engadget: &amp;#8220;Like it or not, the checkmark has become an almost universal symbol on most social platforms, even though its exact meaning can vary significantly between services. Now, Reddit, which historically hasn&amp;#8217;t cared that much about its users&amp;#8217; identity, is joining the club and starting to test verification for public figures on its platform.&amp;#8221;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://www.engadget.com/social-media/reddit-is-starting-to-verify-public-figures-170000833.html?src=rss</guid>
+    </item>
+    <item>
+      <title>A popular video of a priest blocking ICE agents isn’t real</title>
+      <link>https://www.poynter.org/fact-checking/2025/catholic-priest-blocks-ice-agents-church-video/</link>
+      <description>Poynter: &amp;#8220;Social media videos of a Catholic priest turning away Immigration and Customs Enforcement agents from his church are garnering support and thousands of shares, but they were generated with artificial intelligence tools.&amp;#8221;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://www.poynter.org/fact-checking/2025/catholic-priest-blocks-ice-agents-church-video/</guid>
+    </item>
+    <item>
+      <title>xAI Answers the Question, ‘What if Product Placement was Significantly Worse?’</title>
+      <link>https://gizmodo.com/xai-answers-the-question-what-if-product-placement-was-significantly-worse-2000697957</link>
+      <description>Gizmodo: &amp;#8220;The AI company owned by Elon Musk recently hosted a hackathon that invited people to build new features and functionality with the company’s AI models. One group of upstart engineers created Halftime, described as a tool that &amp;#8216;Dynamically weaves AI-generated ads into the scenes you’re watching, so breaks feel like part of the story instead of interruptions.&amp;#8217; It is, frankly, awful.&amp;#8221;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://gizmodo.com/xai-answers-the-question-what-if-product-placement-was-significantly-worse-2000697957</guid>
+    </item>
+    <item>
+      <title>Google to build subsea cables in Papua New Guinea under Australia defence treaty</title>
+      <link>https://www.thestandard.com.hk/world-news/article/319235/Google-to-build-subsea-cables-in-Papua-New-Guinea-under-Australia-defence-treaty</link>
+      <description>Reuters: &amp;#8220;Alphabet&amp;#8217;s Google will build three subsea cables in Papua New Guinea, which the largest Pacific Island nation said was funded by Australia under a mutual defence treaty, in a key upgrade to its digital backbone.&amp;#8221;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://www.thestandard.com.hk/world-news/article/319235/Google-to-build-subsea-cables-in-Papua-New-Guinea-under-Australia-defence-treaty</guid>
+    </item>
+    <item>
+      <title>New PyStoreRAT Malware Targets OSINT Researchers Through GitHub</title>
+      <link>https://hackread.com/pystorerat-rat-malware-github-osint-researchers/</link>
+      <description>HackRead: &amp;#8220;These convincing projects/repositories were so well-made that several quickly climbed high on GitHub’s trending lists. Only after gaining this traction and trust did the criminals introduce subtle code updates, disguised as simple ‘maintenance, to plant the PyStoreRAT backdoor.&amp;#8221;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://hackread.com/pystorerat-rat-malware-github-osint-researchers/</guid>
+    </item>
+    <item>
+      <title>Thai army accuses Cambodia of endangering cultural heritage sites, escalating tensions in border dispute</title>
+      <link>https://theindependent.sg/thai-army-accuses-cambodia-of-endangering-cultural-heritage-sites-escalating-tensions-in-border-dispute/</link>
+      <description>The Independent (Singapore): &amp;#8220;The Thai army has issued a stark warning to Cambodia, urging the neighbouring country not to turn cultural heritage sites into military strongholds. Maj. Gen. Winthai Suvaree, spokesperson for the Royal Thai Army, stressed Thursday that such actions violate the 1954 Hague Convention, which protects historical sites during armed conflict.&amp;#8221;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://theindependent.sg/thai-army-accuses-cambodia-of-endangering-cultural-heritage-sites-escalating-tensions-in-border-dispute/</guid>
+    </item>
+    <item>
+      <title>Banning under-16s from social media is a half-measure. We should ban toxic algorithms</title>
+      <link>https://www.thejournal.ie/readme/opinion-social-media-ban-australia-go-further-recommender-systems-algorithm-6901718-Dec2025/</link>
+      <description>The Journal (Ireland): &amp;#8220;We need to promote non-profit, decentralised alternatives such as the non-profit German social media network Mastodon, as well as other public, non-profit, and democratic alternatives which focus on building community, connecting people, and supporting culture and community, rather than maximising profit at all costs.&amp;#8221;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://www.thejournal.ie/readme/opinion-social-media-ban-australia-go-further-recommender-systems-algorithm-6901718-Dec2025/</guid>
+    </item>
+    <item>
+      <title>You Should Start a Blog Now (or Later)</title>
+      <link>https://chrisenns.com/2025/12/you-should-start-a-blog-now-or-later/</link>
+      <description>Faraway, So Close: &amp;#8220;There are a hundred ways to type into your computer or phone and have them appear on the internet. I&amp;#8217;m going to recommend two right now, but either will work just fine. And thanks to fancy words like &amp;#8216;data portability&amp;#8217;, you can change to a different way of publishing words on the internet if you decide to later.&amp;#8221;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://chrisenns.com/2025/12/you-should-start-a-blog-now-or-later/</guid>
+    </item>
+    <item>
+      <title>I&amp;#8217;m never getting any work done ever again, thanks to this website that lets me play thousands of user-made Doom levels in my browser</title>
+      <link>https://www.pcgamer.com/games/fps/im-never-getting-any-work-done-ever-again-thanks-to-this-website-that-lets-me-play-thousands-of-user-made-doom-levels-in-my-browser/</link>
+      <description>PC Gamer: &amp;#8220;&amp;#8230;an entire subculture of Doom modding has just been excavated in a way that might spell actual doom for my career. DoomScroll is a new website that lets users scroll through and play thousands (and I mean thousands) of user-made Doom WADs right in your browser.&amp;#8221; Good morning, Internet&amp;#8230;</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://www.pcgamer.com/games/fps/im-never-getting-any-work-done-ever-again-thanks-to-this-website-that-lets-me-play-thousands-of-user-made-doom-levels-in-my-browser/</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels. Nobody reads my nonsense. I think I need to order more boxes. I&amp;#8217;m playing box-chicken with the stuff I have left to pack. Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Mon, 15 Dec 2025 13:01:50 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>Launching CivicMapper: Visualizing Land Values in 3D</title>
       <link>https://progressandpoverty.substack.com/p/launching-civicmapper-visualizing</link>
@@ -738,97 +829,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels. Nobody reads my nonsense. I need more tea. Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Wed, 10 Dec 2025 19:51:30 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>Explore Your Archive: Newly Catalogued Archives</title>
-      <link>https://www.library.wales/news/article/explore-your-archive-your-archive</link>
-      <description>National Library of Wales: &amp;#8220;As well as the expertise of our staff, who have been exploring a variety of new cataloguing methodologies, we greatly appreciate the help of donors, owners, researchers, volunteers, students and external funding in enabling us to access, understand, arrange, describe and share archives. Here are some of the catalogues that we have completed during 2025; we intend to publish an update in the New Year.&amp;#8221;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://www.library.wales/news/article/explore-your-archive-your-archive</guid>
-    </item>
-    <item>
-      <title>Finding freedom: Trail Finder expands access to the outdoors</title>
-      <link>https://vtdigger.org/2025/12/08/finding-freedom-trail-finder-expands-access-to-the-outdoors/</link>
-      <description>New-to-me, from VT Digger: &amp;#8220;&amp;#8230;the Trail Finder team has been able to improve the descriptions and maps for over 125 miles of accessible pedestrian trails on the site. Routes of all types are continuously added, from rail trails to adaptive mountain biking. Website users can click the &amp;#8216;Access(ible) Experience&amp;#8217; search filter to find trails that offer greater levels of access.&amp;#8221;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://vtdigger.org/2025/12/08/finding-freedom-trail-finder-expands-access-to-the-outdoors/</guid>
-    </item>
-    <item>
-      <title>Curating in the crossfire: collecting in the time of war and crisis</title>
-      <link>https://www.bl.uk/stories/blogs/posts/curating-in-the-crossfire-collecting-in-the-time-of-war-conflict-and-crisis</link>
-      <description>British Library: &amp;#8220;From Cold War exchanges to documenting modern conflicts in Ukraine and Gaza, our recent conference examined historical and contemporary initiatives aimed at preserving diverse materials and heritage sites at risk of loss or destruction.&amp;#8221;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://www.bl.uk/stories/blogs/posts/curating-in-the-crossfire-collecting-in-the-time-of-war-conflict-and-crisis</guid>
-    </item>
-    <item>
-      <title>Discord Checkpoint is the end-of-year recap you never knew you needed</title>
-      <link>https://www.howtogeek.com/discord-checkpoint-is-the-end-of-year-recap-you-never-knew-you-needed/</link>
-      <description>How-To Geek: &amp;#8220;Discord has finally introduced its own version of the popular annual recap feature with the rollout of Discord Checkpoint for 2025 activity. This is the first time the platform has given users a comprehensive, personalized look back at their yearly habits, and the results are interesting.&amp;#8221;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://www.howtogeek.com/discord-checkpoint-is-the-end-of-year-recap-you-never-knew-you-needed/</guid>
-    </item>
-    <item>
-      <title>Russia continues tech crackdown by blocking Snapchat, FaceTime access</title>
-      <link>https://www.aljazeera.com/news/2025/12/5/russia-continues-tech-crackdown-by-blocking-snapchat-facetime-access</link>
-      <description>Al Jazeera: &amp;#8220;Russian authorities have blocked access to Snapchat and Apple’s video calling service FaceTime in the latest move by Moscow clamping down on foreign tech platforms as it tightens control over the country’s internet and online communications.&amp;#8221;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://www.aljazeera.com/news/2025/12/5/russia-continues-tech-crackdown-by-blocking-snapchat-facetime-access</guid>
-    </item>
-    <item>
-      <title>The Internet forgets, but I don’t want to</title>
-      <link>https://alexwlchan.net/2025/social-media-scrapbook/</link>
-      <description>Alex Chan: &amp;#8220;I want to remember social media, and not just as a vague memory. I want to remember exactly what I read, what I saw, what I wrote. If I was born 50 years ago, I’m the sort of person who’d keep a scrapbook full of letters and postcards – physical traces of the people who mattered to me. Today, those traces are digital. I don’t trust the Internet to remember for me, so I’ve built my own scrapbook of social media. It’s a place where I can save the posts that shaped me, delighted me, or just stuck in my mind.&amp;#8221;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://alexwlchan.net/2025/social-media-scrapbook/</guid>
-    </item>
-    <item>
-      <title>This self-hosted Linux app cut my subscription costs by $300</title>
-      <link>https://www.howtogeek.com/selfhosted-linux-app-cut-subscription-costs/</link>
-      <description>How-To Geek: &amp;#8220;Subscriptions are the new cable, and if you&amp;#8217;re not careful, you might find that your subscription costs wind up creeping higher than any cable subscription ever did. This open-source app is how I keep track of my subscriptions, and how I ultimately saved myself several hundred dollars per year.&amp;#8221;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://www.howtogeek.com/selfhosted-linux-app-cut-subscription-costs/</guid>
-    </item>
-    <item>
-      <title>Water leak at Paris Louvre Museum damages books at Egyptian antiquities department</title>
-      <link>https://uk.news.yahoo.com/water-leak-paris-louvre-museum-155655418.html</link>
-      <description>Reuters: &amp;#8220;A water leak last month damaged hundreds of books in the Egyptian ​antiquities department at the Louvre, underscoring the deteriorating ‌state of the world&amp;#8217;s most visited museum just weeks after a daring ‌jewel heist exposed security flaws.&amp;#8221;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://uk.news.yahoo.com/water-leak-paris-louvre-museum-155655418.html</guid>
-    </item>
-    <item>
-      <title>Why do Gen Z have a growing appetite for retro tech?</title>
-      <link>https://www.bbc.com/news/articles/ckgl8nj8nvzo?at_medium=RSS&amp;#038;at_campaign=rss</link>
-      <description>BBC: &amp;#8220;Gen Z are going retro. People in their teens and early 20s are increasingly turning to old school tech in a bid to unplug from the online world. Amazon UK told BBC Scotland News that retro-themed products surged in popularity during its Black Friday event, with portable vinyl turntables, Tamagotchis and disposable cameras among their best sellers.&amp;#8221;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://www.bbc.com/news/articles/ckgl8nj8nvzo?at_medium=RSS&amp;#038;at_campaign=rss</guid>
-    </item>
-    <item>
-      <title>Authorities monitor online criticism of New Orleans immigration crackdown</title>
-      <link>https://www.theguardian.com/us-news/2025/dec/08/new-orleans-immigration-online-criticism-tracking</link>
-      <description>The Guardian: &amp;#8220;State and federal authorities are closely tracking online criticism and protests against the Trump administration’s immigration crackdown in New Orleans, monitoring message boards around the clock for threats to agents while compiling regular updates on public “sentiment” surrounding the arrests, according to law enforcement records reviewed by the Associated Press.&amp;#8221;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://www.theguardian.com/us-news/2025/dec/08/new-orleans-immigration-online-criticism-tracking</guid>
-    </item>
-    <item>
-      <title>Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill</title>
-      <link>https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/</link>
-      <description>Krebs on Security: &amp;#8220;A sprawling academic cheating network turbocharged by Google Ads that has generated nearly $25 million in revenue has curious ties to a Kremlin-connected oligarch whose Russian university builds drones for Russia’s war against Ukraine.&amp;#8221;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/</guid>
-    </item>
-    <item>
-      <title>AI Listens For Mood Swings In The Voices Of Those With Bipolar Disorder</title>
-      <link>https://maniainsights.com/2025/12/06/ai-listens-for-mood-swings-in-the-voices-of-those-with-bipolar-disorder/</link>
-      <description>Mania Insights: &amp;#8220;A new study from China suggests that artificial intelligence may one day help doctors spot mood swings in people with bipolar disorder just by listening to how they talk. The experimental system correctly identified manic, depressed, and stable states in Mandarin-speaking patients with around 86% accuracy.&amp;#8221; Good morning, Internet&amp;#8230;</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
-      <guid>https://maniainsights.com/2025/12/06/ai-listens-for-mood-swings-in-the-voices-of-those-with-bipolar-disorder/</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels. Nobody reads my nonsense. The weirdest thing I&amp;#8217;ve found so far while packing is a Duke&amp;#8217;s Mayonnaise thimble (?) Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Wed, 10 Dec 2025 13:01:15 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
