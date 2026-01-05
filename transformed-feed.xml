@@ -4,7 +4,77 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Mon, 05 Jan 2026 20:30:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 22:25:41 GMT</lastBuildDate>
+    <item>
+      <title>India orders Musk’s X to fix Grok over ‘obscene’ AI content</title>
+      <link>https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/</link>
+      <description>TechCrunch: &amp;#8220;India has ordered Elon Musk’s X to make immediate technical and procedural changes to its AI chatbot Grok after users and lawmakers flagged the generation of &amp;#8216;obscene&amp;#8217; content, including AI-altered images of women created using the tool.&amp;#8221;</description>
+      <pubDate>Mon, 05 Jan 2026 20:37:56 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/</guid>
+    </item>
+    <item>
+      <title>How to use Plex and a spare computer to build a streaming movie service</title>
+      <link>https://www.tomshardware.com/service-providers/streaming/how-to-use-plex-and-a-spare-computer-to-build-a-streaming-movie-service</link>
+      <description>Tom&amp;#8217;s Hardware: &amp;#8220;In this how-to, I will show you how to create a Plex server on a spare computer running Debian Linux, in my case, a Raspberry Pi 4, but you could easily replace it with an old laptop, spare PC, or a dedicated mini PC.&amp;#8221;</description>
+      <pubDate>Mon, 05 Jan 2026 20:37:56 +0000</pubDate>
+      <guid>https://www.tomshardware.com/service-providers/streaming/how-to-use-plex-and-a-spare-computer-to-build-a-streaming-movie-service</guid>
+    </item>
+    <item>
+      <title>I tested 5 open-source music players and this is the only one I kept</title>
+      <link>https://www.makeuseof.com/i-tested-open-source-music-players-this-is-the-only-one-i-kept/</link>
+      <description>MakeUseOf: &amp;#8220;There are many open-source music players for Android out there, and I&amp;#8217;ve tried a handful of them, including Harmony Music, OuterTune, and PixelPlay. In fact, GitHub users rounded up 24 free and open-source music players for Android in a repository, so they&amp;#8217;re easy to find and navigate. However, if you&amp;#8217;re new to the world of FOSS players, you might be wondering where to start.&amp;#8221;</description>
+      <pubDate>Mon, 05 Jan 2026 20:37:56 +0000</pubDate>
+      <guid>https://www.makeuseof.com/i-tested-open-source-music-players-this-is-the-only-one-i-kept/</guid>
+    </item>
+    <item>
+      <title>How Good is AI at Making London Maps?</title>
+      <link>https://londonist.substack.com/p/how-good-is-ai-at-making-london-maps</link>
+      <description>Londonist: &amp;#8220;I think we can all agree that this is an attractive image. It’s got the basics right, too. There is the walled settlement of Londinium on the north bank of the Thames, with a single bridge spanning the water. That, however, is the sum of its fidelity. Everything else is a suitcase of piffle.&amp;#8221;</description>
+      <pubDate>Mon, 05 Jan 2026 20:37:56 +0000</pubDate>
+      <guid>https://londonist.substack.com/p/how-good-is-ai-at-making-london-maps</guid>
+    </item>
+    <item>
+      <title>Grok Is Being Used to Depict Horrific Violence Against Real Women</title>
+      <link>https://futurism.com/future-society/grok-violence-women</link>
+      <description>Futurism: &amp;#8220;When we dug through this content, we noticed another stomach-churning variation of the trend: Grok, at the request of users, altering images to depict real women being sexually abused, humiliated, hurt, and even killed. Much of this material was directed at online models and sex workers, who already face a disproportionately high risk of violence and homicide.&amp;#8221;</description>
+      <pubDate>Mon, 05 Jan 2026 20:37:56 +0000</pubDate>
+      <guid>https://futurism.com/future-society/grok-violence-women</guid>
+    </item>
+    <item>
+      <title>Pakistan sentences journalists, YouTubers and ex-military officers to life over inciting violence</title>
+      <link>https://www.courthousenews.com/pakistan-sentences-journalists-youtubers-and-ex-military-officers-to-life-over-inciting-violence/</link>
+      <description>Courthouse News Service: &amp;#8220;A court in Pakistan’s capital sentenced seven people, including three journalists, two YouTubers and two retired army officers, to life imprisonment on Friday, after convicting them of inciting violence during riots in 2023 and spreading hatred against state institutions.&amp;#8221;</description>
+      <pubDate>Mon, 05 Jan 2026 20:37:56 +0000</pubDate>
+      <guid>https://www.courthousenews.com/pakistan-sentences-journalists-youtubers-and-ex-military-officers-to-life-over-inciting-violence/</guid>
+    </item>
+    <item>
+      <title>Resisting AI slop</title>
+      <link>https://www.science.org/doi/10.1126/science.aee8267</link>
+      <description>Science.org: &amp;#8220;Science’s most recent policies allow the use of large language models for certain processes without any disclosure, such as editing the text in research papers to improve clarity and readability or assisting in the gathering of references. However, the use of AI beyond that—for example, in drafting manuscript text— must be declared.&amp;#8221;</description>
+      <pubDate>Mon, 05 Jan 2026 20:37:56 +0000</pubDate>
+      <guid>https://www.science.org/doi/10.1126/science.aee8267</guid>
+    </item>
+    <item>
+      <title>The hidden vulnerability: Why legacy government web forms demand urgent attention</title>
+      <link>https://federalnewsnetwork.com/commentary/2026/01/the-hidden-vulnerability-why-legacy-government-web-forms-demand-urgent-attention/</link>
+      <description>Federal News Network: &amp;#8220;Government agencies face a security challenge hiding in plain sight: outdated web forms that collect citizen data through systems built years — sometimes decades — ago. While agencies invest heavily in perimeter security and advanced threat detection, many continue using legacy forms lacking modern encryption, authentication capabilities and compliance features.&amp;#8221;</description>
+      <pubDate>Mon, 05 Jan 2026 20:37:56 +0000</pubDate>
+      <guid>https://federalnewsnetwork.com/commentary/2026/01/the-hidden-vulnerability-why-legacy-government-web-forms-demand-urgent-attention/</guid>
+    </item>
+    <item>
+      <title>Words.zip</title>
+      <link>https://words.zip/</link>
+      <description>Popped up in my RSS feeds: &amp;#8220;An infinite collaborative word search where anyone can find and submit words—no account required. Select letters and submit valid words to add them to the grid.&amp;#8221; You may have to scroll the word search some to find a spot with unfound words. You cannot use a letter that&amp;#8217;s already been used for another word. Good afternoon, Internet&amp;#8230;</description>
+      <pubDate>Mon, 05 Jan 2026 20:37:56 +0000</pubDate>
+      <guid>https://words.zip/</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Mon, 05 Jan 2026 20:37:56 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>Let’s Go! The Public Domain Game Jam Starts Today</title>
       <link>https://www.techdirt.com/2026/01/01/lets-go-the-public-domain-game-jam-starts-today/</link>
@@ -204,7 +274,7 @@
     <item>
       <title>Happy 16th Birthday, KrebsOnSecurity.com!</title>
       <link>https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/</link>
-      <description>Krebs on Security: &amp;#8220;KrebsOnSecurity.com celebrates its 16th anniversary today! A huge ���thank you” to all of our readers — newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.&amp;#8221;</description>
+      <description>Krebs on Security: &amp;#8220;KrebsOnSecurity.com celebrates its 16th anniversary today! A huge “thank you” to all of our readers — newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handful of dark days. Happily, comeuppance was a strong theme running through our coverage in 2025, with a primary focus on entities that enabled complex and globally-dispersed cybercrime services.&amp;#8221;</description>
       <pubDate>Fri, 02 Jan 2026 13:01:16 +0000</pubDate>
       <guid>https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/</guid>
     </item>
@@ -794,97 +864,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels. Nobody reads my nonsense. Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Thu, 25 Dec 2025 20:21:44 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>https://epsteinfilez.com/</title>
-      <link>https://epsteinfilez.com/</link>
-      <description>Because I am concerned that they might be taken down, I am going to mention all the Epstein Files sites I come across. The latest is From the About popup: &amp;#8220;Epstein Files Archive is a public interest project dedicated to making released court documents accessible and searchable. Our goal is to democratize access to these records, allowing journalists, researchers, and the public to verify claims directly from the source material rather than relying on hearsay.&amp;#8221;</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://epsteinfilez.com/</guid>
-    </item>
-    <item>
-      <title>Bundeslebensmittelschlüssel 4.0: Nutrient database now publicly available</title>
-      <link>https://www.heise.de/en/news/Bundeslebensmittelschluessel-4-0-Nutrient-database-now-publicly-available-11123877.html</link>
-      <description>Heise Online: &amp;#8220;The Bundeslebensmittelschlüssel (BLS), Germany&amp;#8217;s most comprehensive nutritional database, is now available free of charge in version 4.0. The previous license fees are completely waived for the database provided by the Max Rubner Institute (MRI), which contains detailed information on the ingredients and energy content of currently 7,140 foods and dishes.&amp;#8221; The BLS is available in English in addition to German.</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://www.heise.de/en/news/Bundeslebensmittelschluessel-4-0-Nutrient-database-now-publicly-available-11123877.html</guid>
-    </item>
-    <item>
-      <title>Labor launches national database to track hate crimes after Bondi Beach massacre</title>
-      <link>https://www.news.com.au/national/politics/labor-launches-national-database-to-track-hate-crimes-after-bondi-beach-massacre/news-story/ae0099410fe28557290da73f8f1bcc06</link>
-      <description>News.com (Australia): &amp;#8220;The National Hate Crimes and Incidents Database was jointly developed by the Australian Institute of Criminology (AIC), the Department of Home Affairs and police services across the country. It is set to be launched on Wednesday.&amp;#8221;</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://www.news.com.au/national/politics/labor-launches-national-database-to-track-hate-crimes-after-bondi-beach-massacre/news-story/ae0099410fe28557290da73f8f1bcc06</guid>
-    </item>
-    <item>
-      <title>Justice Department restores Trump photo to public database of Epstein files</title>
-      <link>https://www.msn.com/en-us/news/politics/justice-department-restores-trump-photo-to-public-database-of-epstein-files/ar-AA1SNXHf</link>
-      <description>Reuters: &amp;#8220;A photo of U.S. President Donald Trump that had been removed from the cache of Jeffrey Epstein files released by the Department of Justice was restored on Sunday after officials determined none of Epstein&amp;#8217;s victims were in the image, the department said.&amp;#8221;</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://www.msn.com/en-us/news/politics/justice-department-restores-trump-photo-to-public-database-of-epstein-files/ar-AA1SNXHf</guid>
-    </item>
-    <item>
-      <title>Spotify disables accounts after open-source group scrapes 86 million songs from platform</title>
-      <link>https://therecord.media/spotify-disables-scraping-annas</link>
-      <description>The Record: &amp;#8220;The spokesperson added that Anna’s Archive did not contact them before publishing the files. They also said it did not consider the incident a &amp;#8216;hack&amp;#8217; of Spotify. The people behind the leaked database systematically violated Spotify’s terms by stream-ripping some of the music from the platform over a period of months, a spokesperson said.&amp;#8221;</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://therecord.media/spotify-disables-scraping-annas</guid>
-    </item>
-    <item>
-      <title>Why I loved this app before it became the iPhone App of the Year</title>
-      <link>https://www.howtogeek.com/productivity-app-is-a-iphone-app-of-the-year-heres-why-i-love-it/</link>
-      <description>How-To Geek: &amp;#8220;The year is drawing to an end, which means Apple&amp;#8217;s 2025 App Store Awards have recognized the best apps for all your Apple devices. The contenders for iPhone&amp;#8217;s App of the Year were strong, but I was not surprised at which app emerged as the winner. This year&amp;#8217;s finalists made for an interesting roster, but I had my eyes on the productivity app that won this particular award for a reason. What is the app, and why is it worth trying out? Here&amp;#8217;s all you need to know.&amp;#8221;</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://www.howtogeek.com/productivity-app-is-a-iphone-app-of-the-year-heres-why-i-love-it/</guid>
-    </item>
-    <item>
-      <title>Facebook is testing a link-posting limit for professional accounts and pages</title>
-      <link>https://techcrunch.com/2025/12/17/facebook-is-testing-a-link-posting-limit-for-professional-accounts-and-pages/</link>
-      <description>TechCrunch: &amp;#8220;The company confirmed the test to TechCrunch and said it impacts those people using professional mode and Facebook Pages. Professional mode lets you convert your personal profile into a creator profile while making your content eligible for discovery by a wider audience.&amp;#8221;</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://techcrunch.com/2025/12/17/facebook-is-testing-a-link-posting-limit-for-professional-accounts-and-pages/</guid>
-    </item>
-    <item>
-      <title>These influencers are teaching Christianity online — and young people are listening</title>
-      <link>https://apnews.com/article/christian-influencers-girls-gone-bible-megan-ashley-1241a2e0e54fc9fb828734ea911dd77d?link_source=ta_bluesky_link&amp;#038;taid=69486df212b0720001eb8977&amp;#038;utm_campaign=trueanthem&amp;#038;utm_medium=social&amp;#038;utm_source=bluesky</link>
-      <description>Associated Press: &amp;#8220;Millennial and Generation Z Christian influencers are increasingly filling a void in American religion, growing audiences across digital platforms by steering young people to biblical answers to tough questions that aren’t always answered in Sunday sermons.&amp;#8221;</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://apnews.com/article/christian-influencers-girls-gone-bible-megan-ashley-1241a2e0e54fc9fb828734ea911dd77d?link_source=ta_bluesky_link&amp;#038;taid=69486df212b0720001eb8977&amp;#038;utm_campaign=trueanthem&amp;#038;utm_medium=social&amp;#038;utm_source=bluesky</guid>
-    </item>
-    <item>
-      <title>Italy watchdog orders Meta to halt WhatsApp terms barring rival AI chatbots</title>
-      <link>https://www.yahoo.com/news/articles/italy-watchdog-orders-meta-halt-083455197.html</link>
-      <description>Reuters: &amp;#8220;Italy&amp;#8217;s antitrust authority (AGCM) on Wednesday ordered Meta Platforms to suspend contractual terms that could ​shut rival AI chatbots out of WhatsApp, as it ‌investigates the U.S. tech group for suspected abuse of a dominant position.&amp;#8221;</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://www.yahoo.com/news/articles/italy-watchdog-orders-meta-halt-083455197.html</guid>
-    </item>
-    <item>
-      <title>Oklahoma Watch: Oklahoma&amp;#8217;s campaign finance database is back online</title>
-      <link>https://www.duncanbanner.com/news/oklahoma-watch-oklahomas-campaign-finance-database-is-back-online/article_4013f4da-bade-457c-ae6e-677c1685e371.html</link>
-      <description>Duncan Banner: &amp;#8220;The Oklahoma Ethics Commission voted unanimously Friday to restore public access to the state’s online campaign finance database and seek legal action against a software developer that failed to deliver on a revamped system.&amp;#8221;</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://www.duncanbanner.com/news/oklahoma-watch-oklahomas-campaign-finance-database-is-back-online/article_4013f4da-bade-457c-ae6e-677c1685e371.html</guid>
-    </item>
-    <item>
-      <title>NIST warns several of its Internet Time Service servers may be inaccurate due to a power outage — Boulder servers &amp;#8216;no longer have an accurate time reference&amp;#8217;</title>
-      <link>https://www.tomshardware.com/tech-industry/nist-warns-of-potential-inaccuracies-on-boulder-time-servers-after-power-failure</link>
-      <description>Tom&amp;#8217;s Hardware: &amp;#8220;The National Institute of Standards and Technology has warned that several of its Internet Time Service servers could be providing inaccurate time following a failure of the primary atomic time scale, NIST-F4, at its Boulder, Colorado campus.&amp;#8221;</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://www.tomshardware.com/tech-industry/nist-warns-of-potential-inaccuracies-on-boulder-time-servers-after-power-failure</guid>
-    </item>
-    <item>
-      <title>China&amp;#8217;s open AI models are in a dead heat with the West &amp;#8211; here&amp;#8217;s what happens next</title>
-      <link>https://www.zdnet.com/article/china-open-ai-models-versus-us-llms-power-performance-compared/</link>
-      <description>ZDNet: &amp;#8220;The US artificial intelligence startup OpenAI began with a mission of transparency in AI, a mission it abandoned in 2022 as the company began to withhold details of its technology. In the breach, Chinese companies and institutions have taken the lead.&amp;#8221; Good morning, Internet&amp;#8230;</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
-      <guid>https://www.zdnet.com/article/china-open-ai-models-versus-us-llms-power-performance-compared/</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels. Nobody reads my nonsense. Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Thu, 25 Dec 2025 13:48:52 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
