@@ -4,7 +4,77 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Thu, 19 Feb 2026 18:57:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 20:37:58 GMT</lastBuildDate>
+    <item>
+      <title>Mississippi auditor creates nonprofit spending database after finding state couldn’t tally funding</title>
+      <link>https://tippahnews.com/local-news/mississippi-auditor-creates-nonprofit-spending-database-after-finding-state-couldnt-tally-funding/</link>
+      <description>Tippah News: &amp;#8220;The Mississippi Office of the State Auditor said Wednesday it has launched an online Nonprofit Spending Dashboard after finding that no one in state government could determine the total amount of taxpayer money going to nonprofits or produce a complete list of recipients. The auditor’s office said the dashboard, on the agency’s website, allows any Mississippian to search every nonprofit that has received government funds since 2021.&amp;#8221;</description>
+      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
+      <guid>https://tippahnews.com/local-news/mississippi-auditor-creates-nonprofit-spending-database-after-finding-state-couldnt-tally-funding/</guid>
+    </item>
+    <item>
+      <title>ChatGPT&amp;#8217;s new Lockdown Mode can stop prompt injection &amp;#8211; here&amp;#8217;s how it works</title>
+      <link>https://www.zdnet.com/article/how-chatgpt-lockdown-mode-protects-prompt-injection-attacks/</link>
+      <description>ZDNet: &amp;#8220;Lockdown Mode enhances the protection against prompt injections and other advanced threats. With this setting enabled, ChatGPT is limited in the ways it can interact with external systems and data, thereby restricting an attacker&amp;#8217;s ability to exfiltrate sensitive files.&amp;#8221;</description>
+      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
+      <guid>https://www.zdnet.com/article/how-chatgpt-lockdown-mode-protects-prompt-injection-attacks/</guid>
+    </item>
+    <item>
+      <title>Google launches more visible links in AI Overviews and AI Mode</title>
+      <link>https://searchengineland.com/google-launches-more-visibile-links-in-ai-overviews-and-ai-mode-469441</link>
+      <description>Search Engine Land: &amp;#8220;Google is rolling out new, more visible links within AI Overviews and AI Mode. These new link cards appear in a pop-up window when you hover over them on desktop. They also show more prominent details about the website.&amp;#8221;</description>
+      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
+      <guid>https://searchengineland.com/google-launches-more-visibile-links-in-ai-overviews-and-ai-mode-469441</guid>
+    </item>
+    <item>
+      <title>Over 250,000 Korean cultural artifacts located overseas: heritage agency</title>
+      <link>https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260218/over-250000-korean-cultural-artifacts-located-overseas-heritage-agency</link>
+      <description>Korea Times: &amp;#8220;The Korea Heritage Service (KHS) and Overseas Korean Cultural Heritage Foundation (OKCHF) said a total of 121,143 cases of Korean artifacts, totaling 256,190 items, have been identified overseas as of the start of this year. The tally is based on a survey of 801 institutions, including museums and art galleries, across 29 countries, including Japan, the United States and Germany.&amp;#8221;</description>
+      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
+      <guid>https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260218/over-250000-korean-cultural-artifacts-located-overseas-heritage-agency</guid>
+    </item>
+    <item>
+      <title>U.S. court bars OpenAI from using ‘Cameo’</title>
+      <link>https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/</link>
+      <description>TechCrunch: I was wondering about that. &amp;#8220;A federal district court in Northern California ruled in favor of Cameo, a platform that allows users to get personalized video messages from celebrities, and ordered OpenAI to stop using &amp;#8216;Cameo&amp;#8217; in its products and features.&amp;#8221;</description>
+      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/</guid>
+    </item>
+    <item>
+      <title>Judge exposes AI-generated remorse letters in Michae Win arson sentencing</title>
+      <link>https://www.nzherald.co.nz/nz/judge-exposes-ai-generated-remorse-letters-in-michae-win-arson-sentencing/IR3EZQGZCZEXLCL5SLABQD73HM/</link>
+      <description>New Zealand Herald: &amp;#8220;An arsonist has been confronted at sentencing by a judge who found she used artificial intelligence to pen apology letters for burning down her rental property and assaulting first responders.&amp;#8221;</description>
+      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
+      <guid>https://www.nzherald.co.nz/nz/judge-exposes-ai-generated-remorse-letters-in-michae-win-arson-sentencing/IR3EZQGZCZEXLCL5SLABQD73HM/</guid>
+    </item>
+    <item>
+      <title>Password managers’ promise that they can’t see your vaults isn’t always true</title>
+      <link>https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/</link>
+      <description>Ars Technica: &amp;#8220;The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server—either administrative or the result of a compromise—can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext.&amp;#8221;</description>
+      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
+      <guid>https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/</guid>
+    </item>
+    <item>
+      <title>It Turns Out That Constantly Telling Workers They’re About to Be Replaced by AI Has Grim Psychological Effects</title>
+      <link>https://futurism.com/artificial-intelligence/ai-effects-workers-psychological</link>
+      <description>Futurism: &amp;#8220;Two researchers are warning of the devastating psychological impacts that AI automation, or the threat of it, can have on the workforce. The phenomenon, they argue in a new article published in the journal Cureus, warrants a new term: AI replacement dysfunction (AIRD).&amp;#8221;</description>
+      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
+      <guid>https://futurism.com/artificial-intelligence/ai-effects-workers-psychological</guid>
+    </item>
+    <item>
+      <title>How Much Does AI Really Understand: Stress-testing Neural Networks with 1,800 Language Patterns</title>
+      <link>https://ai.stonybrook.edu/about-us/News/how-much-does-ai-really-understand-stress-testing-neural-networks-1800-language</link>
+      <description>Stony Brook University: &amp;#8220;[Jeffrey] Heinz, a professor with a joint appointment in the Department of Linguistics and the Institute of Advanced Computational Science, usually studies the sound patterns of human language. In his latest project, he and his collaborators have built something that looks less like a traditional linguistics study and more like a stress test for modern AI.&amp;#8221; Good afternoon, Internet&amp;#8230;</description>
+      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
+      <guid>https://ai.stonybrook.edu/about-us/News/how-much-does-ai-really-understand-stress-testing-neural-networks-1800-language</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>New digital platform expands access to ancient New Testament manuscripts</title>
       <link>https://www.christiandaily.com/news/new-digital-platform-expands-access-to-ancient-new-testament-manuscripts</link>
@@ -738,83 +808,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Sun, 15 Feb 2026 19:55:48 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>Reddit says 80 million people now use its search weekly</title>
-      <link>https://searchengineland.com/reddit-search-80-million-people-468598</link>
-      <description>Search Engine Land: &amp;#8220;Eighty million people use Reddit search every week, Reddit said on its Q4 2025 earnings call last week. The increase followed a major change: Reddit merged its core search with its AI-powered Reddit Answers and began positioning the platform as a place where users can start — and finish — their searches.&amp;#8221;</description>
-      <pubDate>Sat, 14 Feb 2026 19:50:06 +0000</pubDate>
-      <guid>https://searchengineland.com/reddit-search-80-million-people-468598</guid>
-    </item>
-    <item>
-      <title>Russia’s occupiers had a 60-second Telegram kill chain. Their own government just turned it into a hours-long crawl</title>
-      <link>https://euromaidanpress.com/2026/02/12/russia-throttles-telegram-and-its-own-troops-say-targeting-now-takes-hours-instead-of-minutes/</link>
-      <description>Euromaidan: &amp;#8220;Before the slowdown, target data from a drone reportedly reached fire teams in under two minutes. Now, without Telegram, it crawls through layers of internal communication — arriving too late to matter, the occupiers themselves admit.&amp;#8221;</description>
-      <pubDate>Sat, 14 Feb 2026 19:50:06 +0000</pubDate>
-      <guid>https://euromaidanpress.com/2026/02/12/russia-throttles-telegram-and-its-own-troops-say-targeting-now-takes-hours-instead-of-minutes/</guid>
-    </item>
-    <item>
-      <title>Will MrBeast’s latest acquisition form the foundation of his rumored financial services firm?</title>
-      <link>https://www.tubefilter.com/2026/02/09/mrbeast-acquires-step-gen-z-financial-services-company/</link>
-      <description>Tubefilter: &amp;#8220;MrBeast‘s latest transaction will allow him to Step into the world of financial services. On X, the world’s most popular YouTube star announced that his company Beast Industries has acquired Step, a financial services app that appeals primarily to kids, teens, and young adults.&amp;#8221;</description>
-      <pubDate>Sat, 14 Feb 2026 19:50:06 +0000</pubDate>
-      <guid>https://www.tubefilter.com/2026/02/09/mrbeast-acquires-step-gen-z-financial-services-company/</guid>
-    </item>
-    <item>
-      <title>Dreaming of Creating a Giant Public Artwork With Google? Artist Judy Chicago Doesn’t Recommend It.</title>
-      <link>https://www.artnews.com/art-news/news/google-judy-chicago-artwork-canceled-1234772774/</link>
-      <description>ARTNews: &amp;#8220;The problems seem to have started right away. The artist writes that she and Woodman immediately had to travel to Chicago on their own dime, in the absence of a signed contract or any payment, for a meeting requested by Google—a company with a current market capitalization of about $3.9 trillion.&amp;#8221;</description>
-      <pubDate>Sat, 14 Feb 2026 19:50:06 +0000</pubDate>
-      <guid>https://www.artnews.com/art-news/news/google-judy-chicago-artwork-canceled-1234772774/</guid>
-    </item>
-    <item>
-      <title>Ukraine Says Russia Behind Fake Posts Targeting Winter Olympics Team</title>
-      <link>https://www.kyivpost.com/post/69954</link>
-      <description>Kyiv Post: &amp;#8220;Ukraine blamed a Russian disinformation campaign Thursday after fake news posted online about its Winter Olympics team, including a story criticizing an athlete disqualified for trying to highlight war deaths.&amp;#8221;</description>
-      <pubDate>Sat, 14 Feb 2026 19:50:06 +0000</pubDate>
-      <guid>https://www.kyivpost.com/post/69954</guid>
-    </item>
-    <item>
-      <title>Scammers are increasingly posing as loved ones, survey suggests</title>
-      <link>https://mashable.com/article/scammers-increasingly-posing-as-loved-ones</link>
-      <description>Mashable: &amp;#8220;Phone number verification tool ClarityCheck just conducted a survey of around 1,900 adults in the U.S., UK, and European Union, and found that 64 percent of respondents have encountered a suspicious message or call that seemed to come from someone they knew.&amp;#8221;</description>
-      <pubDate>Sat, 14 Feb 2026 19:50:06 +0000</pubDate>
-      <guid>https://mashable.com/article/scammers-increasingly-posing-as-loved-ones</guid>
-    </item>
-    <item>
-      <title>Google says attackers used 100,000+ prompts to try to clone AI chatbot Gemini</title>
-      <link>https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657</link>
-      <description>NBC News: &amp;#8220;Google says its flagship artificial intelligence chatbot, Gemini, has been inundated by &amp;#8216;commercially motivated&amp;#8217; actors who are trying to clone it by repeatedly prompting it, sometimes with thousands of different queries — including one campaign that prompted Gemini more than 100,000 times.&amp;#8221;</description>
-      <pubDate>Sat, 14 Feb 2026 19:50:06 +0000</pubDate>
-      <guid>https://www.nbcnews.com/tech/security/google-gemini-hit-100000-prompts-cloning-attempt-rcna258657</guid>
-    </item>
-    <item>
-      <title>Mocked on TikTok: How nursing incivility erodes patient trust and compromises health outcomes</title>
-      <link>https://www.pace.edu/news/mocked-tiktok-how-nursing-incivility-erodes-patient-trust-and-compromises-health-outcomes-0</link>
-      <description>Pace University: &amp;#8220;Mocking patients on social media erodes trust, discourages individuals from seeking timely medical care, and undermines the effectiveness of the provider–patient relationship. Patients may feel unsafe, judged, or ashamed, leading them to disengage from preventive care, withhold important information, or resist seeking treatment altogether.&amp;#8221;</description>
-      <pubDate>Sat, 14 Feb 2026 19:50:06 +0000</pubDate>
-      <guid>https://www.pace.edu/news/mocked-tiktok-how-nursing-incivility-erodes-patient-trust-and-compromises-health-outcomes-0</guid>
-    </item>
-    <item>
-      <title>University of Nebraska launches AI Institute to lead in ethical innovation, research and workforce development</title>
-      <link>https://news.unl.edu/article/university-of-nebraska-launches-ai-institute-to-lead-in-ethical-innovation-research-and</link>
-      <description>University of Nebraska-Lincoln: &amp;#8220;The AI Institute will harness emerging technologies to serve society, grow the economy and support future generations through education, interdisciplinary research, teaching, workforce development and public engagement. Its work will span sectors like healthcare, agriculture, rural and urban development, business and national security, placing Nebraska at the forefront of applied AI research and advancement.&amp;#8221;</description>
-      <pubDate>Sat, 14 Feb 2026 19:50:06 +0000</pubDate>
-      <guid>https://news.unl.edu/article/university-of-nebraska-launches-ai-institute-to-lead-in-ethical-innovation-research-and</guid>
-    </item>
-    <item>
-      <title>Welcome to the Whistle Resistance: How a Ragtag Group of People are 3D-Printing Whistles at Scale to Keep Communities Safe</title>
-      <link>https://irevolutions.org/2026/02/11/welcome-to-the-whistle-resistance/</link>
-      <description>iRevolutions: &amp;#8220;These Goblins &amp;#038; Avengers (there are nearly 200 of them) are 3D-printing free whistles at scale (500,000+ in less than 2 months and radically accelerating) and shipping them for free across 49 US states and Puerto Rico (80% of orders go out within 4 days) in response to requests from a wide range of individuals and local communities who use these whistles to alert their neighbors when ICE and Border Patrol are nearby.&amp;#8221; Good afternoon, Internet&amp;#8230;</description>
-      <pubDate>Sat, 14 Feb 2026 19:50:06 +0000</pubDate>
-      <guid>https://irevolutions.org/2026/02/11/welcome-to-the-whistle-resistance/</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Sat, 14 Feb 2026 19:50:06 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
