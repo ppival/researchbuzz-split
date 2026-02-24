@@ -4,7 +4,84 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Tue, 24 Feb 2026 19:08:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 20:41:30 GMT</lastBuildDate>
+    <item>
+      <title>This AI Image Detector Checks a Global Database of Debunked Pictures</title>
+      <link>https://petapixel.com/2026/02/23/ai-image-whisperer-detector-debunked/</link>
+      <description>PetaPixel: &amp;#8220;AI image detectors are notoriously imperfect, giving an estimated score rather than concrete answers. But a new tool called Image Whisperer checks to see if a picture has been debunked elsewhere — acting more like a human researcher.&amp;#8221;</description>
+      <pubDate>Tue, 24 Feb 2026 20:28:19 +0000</pubDate>
+      <guid>https://petapixel.com/2026/02/23/ai-image-whisperer-detector-debunked/</guid>
+    </item>
+    <item>
+      <title>‘Safety was someone else’s problem,’ ex-Facebook VP says in teen social media trial</title>
+      <link>https://www.courthousenews.com/safety-was-someone-elses-problem-ex-facebook-vp-says-in-teen-social-media-trial/</link>
+      <description>Courthouse News: &amp;#8220;While Meta CEO Mark Zuckerberg and Instagram head Adam Mosseri have insisted their companies take seriously the mental health effects of their products on teen users, former Facebook vice president Brian Boylan testified the company&amp;#8217;s safety team was kept in a &amp;#8216;silo&amp;#8217; and that it was never much of a priority during his 11-year tenure at the tech giant.&amp;#8221;</description>
+      <pubDate>Tue, 24 Feb 2026 20:28:19 +0000</pubDate>
+      <guid>https://www.courthousenews.com/safety-was-someone-elses-problem-ex-facebook-vp-says-in-teen-social-media-trial/</guid>
+    </item>
+    <item>
+      <title>The British Newspaper Archive reaches 100 million pages</title>
+      <link>https://www.bl.uk/stories/blogs/posts/the-british-newspaper-archive-reaches-100-million-pages</link>
+      <description>British Library: &amp;#8220;This week the British Newspaper Archive hits the milestone of 100 million digitised pages. We in the British Library news team are celebrating this achievement and our long partnership with Find My Past by picking a few highlights from the BNA.&amp;#8221;</description>
+      <pubDate>Tue, 24 Feb 2026 20:28:19 +0000</pubDate>
+      <guid>https://www.bl.uk/stories/blogs/posts/the-british-newspaper-archive-reaches-100-million-pages</guid>
+    </item>
+    <item>
+      <title>Thousands of early modern Japanese books from UCLA, Berkeley, UCSF to be digitized in Yanai Initiative project</title>
+      <link>https://newsroom.ucla.edu/releases/early-modern-japanese-books-digitized-yanai-initiative-project-ucla-ucb-ucsf-</link>
+      <description>UCLA: &amp;#8220;An expansive project led by UCLA’s Yanai Initiative is digitizing thousands of early modern Japanese books and manuscripts housed across the University of California system. The project, a collaboration with the Art Research Center at Ritsumeikan University in Kyoto, Japan, will create what could become the largest digital collection of its kind outside of Japan.&amp;#8221;</description>
+      <pubDate>Tue, 24 Feb 2026 20:28:19 +0000</pubDate>
+      <guid>https://newsroom.ucla.edu/releases/early-modern-japanese-books-digitized-yanai-initiative-project-ucla-ucb-ucsf-</guid>
+    </item>
+    <item>
+      <title>How AI is transforming freelance journalism</title>
+      <link>https://www.niemanlab.org/2026/02/how-ai-is-transforming-freelance-journalism/</link>
+      <description>NiemanLab: &amp;#8220;How are commissioning editors navigating an environment where anybody can generate an AI alter ego and produce articles at the push of a prompt? On the other hand, how is the ease with which text and images can be created affecting freelancers themselves? With these questions in mind, I put out an open call to our audience in the hope of hearing from freelancers and commissioning editors on how their day-to-day is changing because of generative AI.&amp;#8221;</description>
+      <pubDate>Tue, 24 Feb 2026 20:28:19 +0000</pubDate>
+      <guid>https://www.niemanlab.org/2026/02/how-ai-is-transforming-freelance-journalism/</guid>
+    </item>
+    <item>
+      <title>Musk&amp;#8217;s xAI and Pentagon reach deal to use Grok in classified systems</title>
+      <link>https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok</link>
+      <description>Axios: Yikes. &amp;#8220;Elon Musk&amp;#8217;s artificial intelligence company xAI has signed an agreement to allow the military to use its model, Grok, in classified systems, a Defense official confirmed to Axios.&amp;#8221;</description>
+      <pubDate>Tue, 24 Feb 2026 20:28:19 +0000</pubDate>
+      <guid>https://www.axios.com/2026/02/23/ai-defense-department-deal-musk-xai-grok</guid>
+    </item>
+    <item>
+      <title>Microsoft deletes blog telling users to train AI on pirated Harry Potter books</title>
+      <link>https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/</link>
+      <description>Ars Technica: &amp;#8220;Following backlash in a Hacker News thread, Microsoft deleted a blog post that critics said encouraged developers to pirate Harry Potter books to train AI models that could then be used to create AI slop.&amp;#8221;</description>
+      <pubDate>Tue, 24 Feb 2026 20:28:19 +0000</pubDate>
+      <guid>https://arstechnica.com/tech-policy/2026/02/microsoft-removes-guide-on-how-to-train-llms-on-pirated-harry-potter-books/</guid>
+    </item>
+    <item>
+      <title>Exposed Database Was Storing More Than 1 Billion Social Security Numbers</title>
+      <link>https://www.pcmag.com/news/exposed-database-was-storing-more-than-1-billion-social-security-numbers</link>
+      <description>PC Magazine: &amp;#8220;A database indexed using Elasticsearch was left open on the internet, according to security provider UpGuard. The stockpile contained 3 billion records, including email addresses and passwords, along with another dataset of 2.7 billion records, including SSNs.&amp;#8221;</description>
+      <pubDate>Tue, 24 Feb 2026 20:28:19 +0000</pubDate>
+      <guid>https://www.pcmag.com/news/exposed-database-was-storing-more-than-1-billion-social-security-numbers</guid>
+    </item>
+    <item>
+      <title>Towards an operational European Drought Impacts Database (EDID)</title>
+      <link>https://nhess.copernicus.org/articles/26/845/2026/</link>
+      <description>European Geosciences Union: &amp;#8220;Based on experience and content of several regional research databases, the development of a European Drought Impact Database (EDID) explicitly aims for operational application within the framework of the Copernicus European Drought Observatory.&amp;#8221;</description>
+      <pubDate>Tue, 24 Feb 2026 20:28:19 +0000</pubDate>
+      <guid>https://nhess.copernicus.org/articles/26/845/2026/</guid>
+    </item>
+    <item>
+      <title>44% of ChatGPT citations come from the first third of content: Study</title>
+      <link>https://searchengineland.com/chatgpt-citations-content-study-469483</link>
+      <description>Search Engine Land: &amp;#8220;ChatGPT heavily favors the top of content when selecting citations, according to an analysis of 1.2 million AI answers and 18,012 verified citations by Kevin Indig, Growth Advisor.&amp;#8221; Good afternoon, Internet&amp;#8230;</description>
+      <pubDate>Tue, 24 Feb 2026 20:28:19 +0000</pubDate>
+      <guid>https://searchengineland.com/chatgpt-citations-content-study-469483</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Tue, 24 Feb 2026 20:28:19 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>DeadStack</title>
       <link>https://deadstack.net/</link>
@@ -463,7 +540,7 @@
     <item>
       <title>Turkey reviews six online platforms for children&amp;#8217;s data-processing practices</title>
       <link>https://www.yahoo.com/news/articles/turkey-reviews-six-online-platforms-093510817.html</link>
-      <description>Reuters: &amp;#8220;In a statement, the ​Personal ​Data ​Protection Authority ‌said the move aims to protect children from potential risks in digital environments ‌and will ​examine data-processing ​practices ​and safety ‌measures on social ​media ​platforms TikTok, Instagram, Facebook, YouTube, X ​and ‌Discord.&amp;#8221;</description>
+      <description>Reuters: &amp;#8220;In a statement, the ​Personal ​Data ​Protection Authority ‌said the move aims to protect children from potential risks in digital environments ‌and will ​examine data-processing ​practices ​and safety ‌measures on social ���media ​platforms TikTok, Instagram, Facebook, YouTube, X ​and ‌Discord.&amp;#8221;</description>
       <pubDate>Sun, 22 Feb 2026 13:01:01 +0000</pubDate>
       <guid>https://www.yahoo.com/news/articles/turkey-reviews-six-online-platforms-093510817.html</guid>
     </item>
@@ -731,76 +808,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>Mississippi auditor creates nonprofit spending database after finding state couldn’t tally funding</title>
-      <link>https://tippahnews.com/local-news/mississippi-auditor-creates-nonprofit-spending-database-after-finding-state-couldnt-tally-funding/</link>
-      <description>Tippah News: &amp;#8220;The Mississippi Office of the State Auditor said Wednesday it has launched an online Nonprofit Spending Dashboard after finding that no one in state government could determine the total amount of taxpayer money going to nonprofits or produce a complete list of recipients. The auditor’s office said the dashboard, on the agency’s website, allows any Mississippian to search every nonprofit that has received government funds since 2021.&amp;#8221;</description>
-      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
-      <guid>https://tippahnews.com/local-news/mississippi-auditor-creates-nonprofit-spending-database-after-finding-state-couldnt-tally-funding/</guid>
-    </item>
-    <item>
-      <title>ChatGPT&amp;#8217;s new Lockdown Mode can stop prompt injection &amp;#8211; here&amp;#8217;s how it works</title>
-      <link>https://www.zdnet.com/article/how-chatgpt-lockdown-mode-protects-prompt-injection-attacks/</link>
-      <description>ZDNet: &amp;#8220;Lockdown Mode enhances the protection against prompt injections and other advanced threats. With this setting enabled, ChatGPT is limited in the ways it can interact with external systems and data, thereby restricting an attacker&amp;#8217;s ability to exfiltrate sensitive files.&amp;#8221;</description>
-      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
-      <guid>https://www.zdnet.com/article/how-chatgpt-lockdown-mode-protects-prompt-injection-attacks/</guid>
-    </item>
-    <item>
-      <title>Google launches more visible links in AI Overviews and AI Mode</title>
-      <link>https://searchengineland.com/google-launches-more-visibile-links-in-ai-overviews-and-ai-mode-469441</link>
-      <description>Search Engine Land: &amp;#8220;Google is rolling out new, more visible links within AI Overviews and AI Mode. These new link cards appear in a pop-up window when you hover over them on desktop. They also show more prominent details about the website.&amp;#8221;</description>
-      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
-      <guid>https://searchengineland.com/google-launches-more-visibile-links-in-ai-overviews-and-ai-mode-469441</guid>
-    </item>
-    <item>
-      <title>Over 250,000 Korean cultural artifacts located overseas: heritage agency</title>
-      <link>https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260218/over-250000-korean-cultural-artifacts-located-overseas-heritage-agency</link>
-      <description>Korea Times: &amp;#8220;The Korea Heritage Service (KHS) and Overseas Korean Cultural Heritage Foundation (OKCHF) said a total of 121,143 cases of Korean artifacts, totaling 256,190 items, have been identified overseas as of the start of this year. The tally is based on a survey of 801 institutions, including museums and art galleries, across 29 countries, including Japan, the United States and Germany.&amp;#8221;</description>
-      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
-      <guid>https://www.koreatimes.co.kr/lifestyle/koreanheritage/20260218/over-250000-korean-cultural-artifacts-located-overseas-heritage-agency</guid>
-    </item>
-    <item>
-      <title>U.S. court bars OpenAI from using ‘Cameo’</title>
-      <link>https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/</link>
-      <description>TechCrunch: I was wondering about that. &amp;#8220;A federal district court in Northern California ruled in favor of Cameo, a platform that allows users to get personalized video messages from celebrities, and ordered OpenAI to stop using &amp;#8216;Cameo&amp;#8217; in its products and features.&amp;#8221;</description>
-      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/02/17/u-s-court-bars-openai-from-using-cameo/</guid>
-    </item>
-    <item>
-      <title>Judge exposes AI-generated remorse letters in Michae Win arson sentencing</title>
-      <link>https://www.nzherald.co.nz/nz/judge-exposes-ai-generated-remorse-letters-in-michae-win-arson-sentencing/IR3EZQGZCZEXLCL5SLABQD73HM/</link>
-      <description>New Zealand Herald: &amp;#8220;An arsonist has been confronted at sentencing by a judge who found she used artificial intelligence to pen apology letters for burning down her rental property and assaulting first responders.&amp;#8221;</description>
-      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
-      <guid>https://www.nzherald.co.nz/nz/judge-exposes-ai-generated-remorse-letters-in-michae-win-arson-sentencing/IR3EZQGZCZEXLCL5SLABQD73HM/</guid>
-    </item>
-    <item>
-      <title>Password managers’ promise that they can’t see your vaults isn’t always true</title>
-      <link>https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/</link>
-      <description>Ars Technica: &amp;#8220;The researchers reverse-engineered or closely analyzed Bitwarden, Dashlane, and LastPass and identified ways that someone with control over the server—either administrative or the result of a compromise—can, in fact, steal data and, in some cases, entire vaults. The researchers also devised other attacks that can weaken the encryption to the point that ciphertext can be converted to plaintext.&amp;#8221;</description>
-      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
-      <guid>https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/</guid>
-    </item>
-    <item>
-      <title>It Turns Out That Constantly Telling Workers They’re About to Be Replaced by AI Has Grim Psychological Effects</title>
-      <link>https://futurism.com/artificial-intelligence/ai-effects-workers-psychological</link>
-      <description>Futurism: &amp;#8220;Two researchers are warning of the devastating psychological impacts that AI automation, or the threat of it, can have on the workforce. The phenomenon, they argue in a new article published in the journal Cureus, warrants a new term: AI replacement dysfunction (AIRD).&amp;#8221;</description>
-      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
-      <guid>https://futurism.com/artificial-intelligence/ai-effects-workers-psychological</guid>
-    </item>
-    <item>
-      <title>How Much Does AI Really Understand: Stress-testing Neural Networks with 1,800 Language Patterns</title>
-      <link>https://ai.stonybrook.edu/about-us/News/how-much-does-ai-really-understand-stress-testing-neural-networks-1800-language</link>
-      <description>Stony Brook University: &amp;#8220;[Jeffrey] Heinz, a professor with a joint appointment in the Department of Linguistics and the Institute of Advanced Computational Science, usually studies the sound patterns of human language. In his latest project, he and his collaborators have built something that looks less like a traditional linguistics study and more like a stress test for modern AI.&amp;#8221; Good afternoon, Internet&amp;#8230;</description>
-      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
-      <guid>https://ai.stonybrook.edu/about-us/News/how-much-does-ai-really-understand-stress-testing-neural-networks-1800-language</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Thu, 19 Feb 2026 20:27:39 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
