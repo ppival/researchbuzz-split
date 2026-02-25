@@ -4,7 +4,84 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Tue, 24 Feb 2026 22:38:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 02:35:11 GMT</lastBuildDate>
+    <item>
+      <title>WordPress 7.0 Beta 1</title>
+      <link>https://wordpress.org/news/2026/02/wordpress-7-0-beta-1/</link>
+      <description>WordPress: &amp;#8220;WordPress 7.0 boasts numerous upgrades in the editing and admin experience, delivering enhanced real time collaboration, refined customizability, new dashboard styles, and an expanded developer toolbox for people who create, design, and build with WordPress every day.&amp;#8221;</description>
+      <pubDate>Wed, 25 Feb 2026 00:30:21 +0000</pubDate>
+      <guid>https://wordpress.org/news/2026/02/wordpress-7-0-beta-1/</guid>
+    </item>
+    <item>
+      <title>Google Made an iPhone Camera App That Might Be Even Better Than Apple’s</title>
+      <link>https://lifehacker.com/tech/google-made-an-iphone-camera-app-that-might-be-even-better-than-apples?utm_medium=RSS</link>
+      <description>Lifehacker: &amp;#8220;Snapseed&amp;#8217;s latest update for iOS, version 3.15.0, comes with a full camera app inside—and there&amp;#8217;s a case to be made that it&amp;#8217;s better than Apple&amp;#8217;s default Camera app. It certainly offers more in the way of manual shooting controls, with the added benefit of an entire integrated suite of editing features.&amp;#8221;</description>
+      <pubDate>Wed, 25 Feb 2026 00:30:21 +0000</pubDate>
+      <guid>https://lifehacker.com/tech/google-made-an-iphone-camera-app-that-might-be-even-better-than-apples?utm_medium=RSS</guid>
+    </item>
+    <item>
+      <title>The San Francisco Standard gets $150K to build an AI-powered news app</title>
+      <link>https://www.niemanlab.org/2026/02/the-san-francisco-standard-gets-150k-to-build-an-ai-powered-news-app/</link>
+      <description>NiemanLab: &amp;#8220;The Lenfest Institute is giving The San Francisco Standard a $150,000 grant as part of its ongoing AI Collaborative and Fellowship Program. The local publication, which launched in 2021, will use the funding to develop a mobile news app with a host of AI-powered features.&amp;#8221;</description>
+      <pubDate>Wed, 25 Feb 2026 00:30:21 +0000</pubDate>
+      <guid>https://www.niemanlab.org/2026/02/the-san-francisco-standard-gets-150k-to-build-an-ai-powered-news-app/</guid>
+    </item>
+    <item>
+      <title>Inside the DHS forum where ICE agents trash talk one another</title>
+      <link>https://arstechnica.com/tech-policy/2026/02/inside-the-dhs-forum-where-ice-agents-trash-talk-one-another/</link>
+      <description>Ars Technica: &amp;#8220;Every day, people log into an online forum for current and former Homeland Security Investigations (HSI) officers to share their thoughts on the news of the day and complain about their colleagues in Immigration and Customs Enforcement (ICE).&amp;#8221;</description>
+      <pubDate>Wed, 25 Feb 2026 00:30:21 +0000</pubDate>
+      <guid>https://arstechnica.com/tech-policy/2026/02/inside-the-dhs-forum-where-ice-agents-trash-talk-one-another/</guid>
+    </item>
+    <item>
+      <title>Belgian Pirate Site Blocking Order Targets Cloudflare and Google, But Not Their DNS</title>
+      <link>https://torrentfreak.com/belgian-pirate-site-blocking-order-targets-cloudflare-and-google-but-not-their-dns/</link>
+      <description>TorrentFreak: &amp;#8220;Belgium&amp;#8217;s site-blocking machine keeps turning. A new order, obtained by local broadcasters RTL Belgium and RTBF, compels ISPs, Cloudflare, and Google to restrict access to five illegal IPTV services. Importantly, the latter two are not required to block content through their DNS resolvers, which is likely the result of an ongoing legal challenge.&amp;#8221;</description>
+      <pubDate>Wed, 25 Feb 2026 00:30:21 +0000</pubDate>
+      <guid>https://torrentfreak.com/belgian-pirate-site-blocking-order-targets-cloudflare-and-google-but-not-their-dns/</guid>
+    </item>
+    <item>
+      <title>Texas sues TP-Link over China links and security vulnerabilities</title>
+      <link>https://www.theregister.com/2026/02/18/texas_sues_tplink_over_china/</link>
+      <description>The Register: &amp;#8220;TP-Link is facing legal action from the state of Texas for allegedly misleading consumers with &amp;#8216;Made in Vietnam&amp;#8217; claims despite China-dominated manufacturing and supply chains, and for marketing its devices as secure despite reported firmware vulnerabilities exploited by Chinese state-sponsored actors.&amp;#8221;</description>
+      <pubDate>Wed, 25 Feb 2026 00:30:21 +0000</pubDate>
+      <guid>https://www.theregister.com/2026/02/18/texas_sues_tplink_over_china/</guid>
+    </item>
+    <item>
+      <title>Social media suspended in Gabon for &amp;#8216;spreading of false information&amp;#8217;</title>
+      <link>https://www.bbc.com/news/articles/cx2rg2vndk1o</link>
+      <description>BBC: &amp;#8220;Gabon&amp;#8217;s media regulator has announced the suspension of social media platforms &amp;#8216;until further notice&amp;#8217;, saying online content has fuelled conflict and deepened divisions in the country.&amp;#8221;</description>
+      <pubDate>Wed, 25 Feb 2026 00:30:21 +0000</pubDate>
+      <guid>https://www.bbc.com/news/articles/cx2rg2vndk1o</guid>
+    </item>
+    <item>
+      <title>Setting off on a self-hosting journey</title>
+      <link>https://shellsharks.com/notes/2026/02/20/setting-off-on-a-self-hosting-journey</link>
+      <description>Shellsharks: &amp;#8220;I want to self-host a bunch of things. Why? Let’s see here… techno-fascism, privacy disasters, tech companies randomly sunsetting things, enshittification spirals, etc… I’m tired of it. I want to run some stuff myself, own the data, and be happy with my tech.&amp;#8221;</description>
+      <pubDate>Wed, 25 Feb 2026 00:30:21 +0000</pubDate>
+      <guid>https://shellsharks.com/notes/2026/02/20/setting-off-on-a-self-hosting-journey</guid>
+    </item>
+    <item>
+      <title>New KISS Report Presents Blueprint for Combining Greenhouse Gas and Wind Data</title>
+      <link>https://www.caltech.edu/about/news/new-kiss-report-presents-blueprint-for-combining-greenhouse-gas-and-wind-data</link>
+      <description>Caltech: &amp;#8220;A new study published by the Keck Institute for Space Studies (KISS), in collaboration with Caltech, Rutgers University, and NASA&amp;#8217;s Jet Propulsion Laboratory (JPL), which is managed by Caltech for NASA, presents a roadmap for simultaneously combining data on the abundance of greenhouses gases with data on winds to better pinpoint emission sources.&amp;#8221;</description>
+      <pubDate>Wed, 25 Feb 2026 00:30:21 +0000</pubDate>
+      <guid>https://www.caltech.edu/about/news/new-kiss-report-presents-blueprint-for-combining-greenhouse-gas-and-wind-data</guid>
+    </item>
+    <item>
+      <title>30 years later, the iconic &amp;#8216;Bliss&amp;#8217; green hill from Windows XP is still thriving — lucky passerby captures the hill looking almost identical to the 1996 photograph in &amp;#8216;super rare&amp;#8217; event</title>
+      <link>https://www.tomshardware.com/software/windows/30-years-later-the-iconic-green-hill-from-windows-xps-bliss-wallpaper-is-still-thriving-new-picture-captures-the-hill-looking-almost-identical-to-the-original</link>
+      <description>Tom&amp;#8217;s Hardware: &amp;#8220;For the release of Windows XP, Microsoft picked out a default wallpaper featuring a then-random rolling green hill and named it &amp;#8216;Bliss.&amp;#8217; &amp;#8230; Decades later, it&amp;#8217;s hard to find that hill in the same condition because it&amp;#8217;s usually covered in dead grass, but one lucky Redditor managed to capture it at the perfect time of the year.&amp;#8221; Good evening, Internet&amp;#8230;</description>
+      <pubDate>Wed, 25 Feb 2026 00:30:21 +0000</pubDate>
+      <guid>https://www.tomshardware.com/software/windows/30-years-later-the-iconic-green-hill-from-windows-xps-bliss-wallpaper-is-still-thriving-new-picture-captures-the-hill-looking-almost-identical-to-the-original</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Wed, 25 Feb 2026 00:30:21 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>This AI Image Detector Checks a Global Database of Debunked Pictures</title>
       <link>https://petapixel.com/2026/02/23/ai-image-whisperer-detector-debunked/</link>
@@ -731,83 +808,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Sat, 21 Feb 2026 11:27:35 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>New Database Documents a Century of Court Decisions on Forensic Expert Evidence Testimony</title>
-      <link>https://wcsj.law.duke.edu/news/new-database-documents-a-century-of-court-decisions-on-forensic-expert-evidence-testimony/</link>
-      <description>Duke Law: &amp;#8220;The Wilson Center for Science and Justice at Duke Law is excited to announce the launch of a new public resource: the Forensic Expert Evidence Database, a searchable collection of court decisions addressing when and how forensic expert testimony is admitted in criminal cases. The database brings together reported decisions from courts across all fifty states and the federal system. The cases span more than 100 years and focus on the admissibility of expert testimony regarding three important disciplines: firearms, fingerprint, and shoeprint analysis.&amp;#8221;</description>
-      <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
-      <guid>https://wcsj.law.duke.edu/news/new-database-documents-a-century-of-court-decisions-on-forensic-expert-evidence-testimony/</guid>
-    </item>
-    <item>
-      <title>Mastodon, a decentralized alternative to X, plans to target creators with new features</title>
-      <link>https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/</link>
-      <description>TechCrunch: &amp;#8220;Today, Mastodon sees somewhere between 750,000 and 1 million monthly active users, depending on the source. One third-party tracker puts the figure closer to 750,000, while another estimates as many as 1 million. Mastodon’s own site says the figure is around 785,000. As part of its coming updates, the organization says it will try to make this onboarding process more understandable, while also promoting smaller servers.&amp;#8221;</description>
-      <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/</guid>
-    </item>
-    <item>
-      <title>Google Maps ‘limited view’ now hides reviews, images for signed-out users</title>
-      <link>https://9to5google.com/2026/02/18/google-maps-limited-view-signed-out/</link>
-      <description>9to5 Google: &amp;#8220;Google Maps is more than just a navigation app, as it contains a treasure trove of data about locations across the globe. But, suddenly, Google Maps appears to be changing how it functions for users who are signed out, including hiding reviews and images.&amp;#8221;</description>
-      <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
-      <guid>https://9to5google.com/2026/02/18/google-maps-limited-view-signed-out/</guid>
-    </item>
-    <item>
-      <title>Apple’s AI Pendant Sounds Like a Watered-Down Humane Ai Pin</title>
-      <link>https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-2000723004</link>
-      <description>Gizmodo: &amp;#8220;If you were tempted to make the comparison between Apple’s rumored AI pin and Humane’s notorious Ai Pin, let me stop you right there. There’s (reportedly) a big difference, and that difference is that Humane’s defunct AI gadget actually tried to be something other than an accessory to your phone.&amp;#8221;</description>
-      <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
-      <guid>https://gizmodo.com/apples-ai-pendant-sounds-like-a-watered-down-humane-ai-pin-2000723004</guid>
-    </item>
-    <item>
-      <title>Night raises $70 million to “build, operate and acquire businesses embedded in internet culture”</title>
-      <link>https://www.tubefilter.com/2026/02/17/night-70-million-funding-round/</link>
-      <description>Tubefilter: &amp;#8220;Night, the Dallas-based talent management company that reps creators like Kai Cenat, Sam &amp;#038; Colby, and Safiya Nygaard, has raised $70 million to &amp;#8216;build, operate and acquire businesses embedded in internet culture across all facets of media and entertainment, including digital media, music, sports, gaming, podcasting, streaming and live events,&amp;#8217; it says.&amp;#8221;</description>
-      <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
-      <guid>https://www.tubefilter.com/2026/02/17/night-70-million-funding-round/</guid>
-    </item>
-    <item>
-      <title>What happens to a car when the company behind its software goes under?</title>
-      <link>https://arstechnica.com/cars/2026/02/what-happens-to-a-car-when-the-company-behind-its-software-goes-under/</link>
-      <description>Ars Technica: &amp;#8220;As vehicles become platforms for software and subscriptions, their longevity is increasingly tied to the survival of the companies behind their code. When those companies fail, the consequences ripple far beyond a bad app update and into the basic question of whether a car still functions as a car.&amp;#8221;</description>
-      <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
-      <guid>https://arstechnica.com/cars/2026/02/what-happens-to-a-car-when-the-company-behind-its-software-goes-under/</guid>
-    </item>
-    <item>
-      <title>Job scam uses fake Google Forms site to harvest Google logins</title>
-      <link>https://www.malwarebytes.com/blog/scams/2026/02/job-scam-uses-fake-google-forms-site-to-harvest-google-logins</link>
-      <description>MalwareBytes: &amp;#8220;The whole web page emulates Google Forms, including logo images, color schemes, a notice about not &amp;#8216;submitting passwords,&amp;#8217; and legal links. At the bottom, it even includes the typical Google Forms disclaimer (&amp;#8216;This content is neither created nor endorsed by Google.&amp;#8217;) for authenticity.&amp;#8221;</description>
-      <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
-      <guid>https://www.malwarebytes.com/blog/scams/2026/02/job-scam-uses-fake-google-forms-site-to-harvest-google-logins</guid>
-    </item>
-    <item>
-      <title>As crypto industry expands, U.S. slashes office examining dirty money safeguards of cryptocurrency exchanges</title>
-      <link>https://www.icij.org/investigations/coin-laundry/as-crypto-industry-expands-u-s-slashes-office-examining-dirty-money-safeguards-of-cryptocurrency-exchanges/</link>
-      <description>ICIJ: &amp;#8220;The cuts weaken the anti-money laundering watchdog’s office within the U.S. Internal Revenue Service, which is tasked with overseeing protections against dirty money in crypto exchanges and other firms registered as so-called money service businesses. Even before the recent reductions, the IRS struggled to oversee dirty money in the fast-growing crypto sector, according to experts.&amp;#8221;</description>
-      <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
-      <guid>https://www.icij.org/investigations/coin-laundry/as-crypto-industry-expands-u-s-slashes-office-examining-dirty-money-safeguards-of-cryptocurrency-exchanges/</guid>
-    </item>
-    <item>
-      <title>Passive RFIDs can now stream telemetry data from sensors</title>
-      <link>https://www.theregister.com/2026/02/17/ambient_iot_japan_standard/</link>
-      <description>The Register: &amp;#8220;The new standard makes it possible to stream data from sensors married to passive tags, by allocating a frequency channel to each device. When radio waves reaches a tag, the device wakes up and broadcasts the basic info it contains and then negotiates a clear channel on which to stream data.&amp;#8221;</description>
-      <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
-      <guid>https://www.theregister.com/2026/02/17/ambient_iot_japan_standard/</guid>
-    </item>
-    <item>
-      <title>A gel for wounds that won’t heal</title>
-      <link>https://news.ucr.edu/articles/2026/02/17/gel-wounds-wont-heal</link>
-      <description>UC Riverside: &amp;#8220;As aging populations and rising diabetes rates drive an increase in chronic wounds, more patients face the risk of amputations. UC Riverside researchers have developed an oxygen-delivering gel capable of healing injuries that might otherwise progress to limb loss.&amp;#8221; Good afternoon, Internet&amp;#8230;</description>
-      <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
-      <guid>https://news.ucr.edu/articles/2026/02/17/gel-wounds-wont-heal</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Fri, 20 Feb 2026 20:09:47 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
