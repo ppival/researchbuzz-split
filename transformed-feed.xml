@@ -4,7 +4,98 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Thu, 09 Apr 2026 11:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 13:52:28 GMT</lastBuildDate>
+    <item>
+      <title>Google quietly launched an AI dictation app that works offline</title>
+      <link>https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/</link>
+      <description>TechCrunch: &amp;#8220;Google on Monday quietly released an offline-first dictation app called &amp;#8216;Google AI Edge Eloquent&amp;#8217; on iOS to take on the likes of Wispr Flow, SuperWhisper, Willow, and others. The app is free to download, and once its Gemma-based automatic speech recognition (ASR) models are downloaded, you can start dictating on your phone.&amp;#8221;</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/</guid>
+    </item>
+    <item>
+      <title>When Satellite Imagery Goes Dark: New Tool Shows Damage in Iran and the Gulf</title>
+      <link>https://www.bellingcat.com/resources/2026/04/07/tool-damage-assessment-destruction-sentinel-satellite-imagery-iran-us-gulf/</link>
+      <description>Bellingcat: &amp;#8220;Shortly after the war in Gaza began in 2023, Bellingcat introduced a free tool authored by University College London lecturer and Bellingcat contributor, Ollie Ballinger, that was able to estimate the number of damaged buildings in a given area. &amp;#8230; Bellingcat is now introducing an updated version of the open source tool — called the Iran Conflict Damage Proxy Map — focused on destruction in Iran and the wider Gulf region.&amp;#8221;</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://www.bellingcat.com/resources/2026/04/07/tool-damage-assessment-destruction-sentinel-satellite-imagery-iran-us-gulf/</guid>
+    </item>
+    <item>
+      <title>FBI: Americans lost a record $21 billion to cybercrime last year</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/</link>
+      <description>Bleeping Computer: &amp;#8220;U.S. victims lost nearly $21 billion to cyber-enabled crimes last year, driven primarily by investment scams, business email compromise, tech support fraud, and data breaches, the Federal Bureau of Investigation says. The figure continues the year-over-year record trend as it is up 26% compared to 2024, when Americans lost $16.6 billion to cybercrime.&amp;#8221;</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://www.bleepingcomputer.com/news/security/fbi-americans-lost-a-record-21-billion-to-cybercrime-last-year/</guid>
+    </item>
+    <item>
+      <title>Google Chrome&amp;#8217;s vertical tabs are here: How to opt in and use the new Reading Mode</title>
+      <link>https://www.zdnet.com/article/google-chrome-vertical-tabs/</link>
+      <description>ZDNet: &amp;#8220;Instead of forcing you to work with all your open pages at the top of the screen, the vertical tabs layout displays them in a sidebar. This means you can open and view more tabs without them getting lost in the shuffle. Plus, you can easily see the full titles of each page and quickly switch to a specific page.&amp;#8221;</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://www.zdnet.com/article/google-chrome-vertical-tabs/</guid>
+    </item>
+    <item>
+      <title>Fake Videos Are Already Spreading After Two US Air Force Planes Go Down Near Iran</title>
+      <link>https://gizmodo.com/fake-videos-are-already-spreading-after-two-us-air-force-planes-go-down-near-iran-2000742160</link>
+      <description>Gizmodo: &amp;#8220;Photos and videos circulating online show pieces of the wreckage from the first plane, reportedly an F-15E, that appear to be legitimate. But fake images and video about the downed jet are also starting to spread on social media, including one video that purports to show an American pilot captured by pro-Iran forces.&amp;#8221; I know everybody&amp;#8217;s been rescued, I just think the disinformation / deepfake angle is important.</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://gizmodo.com/fake-videos-are-already-spreading-after-two-us-air-force-planes-go-down-near-iran-2000742160</guid>
+    </item>
+    <item>
+      <title>I Found A Terminal Tool That Makes CSV Files Look Stunning</title>
+      <link>https://itsfoss.com/tennis-csv-tool/</link>
+      <description>It&amp;#8217;s FOSS: &amp;#8220;You can totally read CSV files in the terminal. After all, it&amp;#8217;s a text file. You can use cat and then parse it with the column command. That works. No doubt. But it is hard to scan and certainly not easy to follow. I came across a tool that made CSV files look surprisingly beautiful in the terminal.&amp;#8221;</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://itsfoss.com/tennis-csv-tool/</guid>
+    </item>
+    <item>
+      <title>Social media posts educating public about illicit drugs being removed by Meta, Australian health experts say</title>
+      <link>https://www.abc.net.au/news/2026-04-07/meta-censoring-posts-about-illicit-drugs-advocates-say/106537316</link>
+      <description>ABC News (Australia): &amp;#8220;Australian drug checking services say their Facebook and Instagram posts warning the community about dangerous substances are being removed by Meta. Organisations such as Canberra&amp;#8217;s CanTEST use social media to distribute public health warnings when dangerous drug combinations are circulating.&amp;#8221;</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://www.abc.net.au/news/2026-04-07/meta-censoring-posts-about-illicit-drugs-advocates-say/106537316</guid>
+    </item>
+    <item>
+      <title>I Tried ChatGPT in CarPlay, and It Immediately Hallucinated</title>
+      <link>https://lifehacker.com/tech/i-tried-chatgpt-in-carplay-and-it-hallucinated-immediately?utm_medium=RSS</link>
+      <description>Lifehacker: &amp;#8220;I don&amp;#8217;t really have many more takeaways here, other than this: In my very short time testing the feature, the AI began hallucinating almost immediately. I asked if it knew what I was doing, and it said it didn&amp;#8217;t. When I pressed that I thought it&amp;#8217;d be able to guess given the context, it admitted it did know I was using CarPlay, so I was probably driving.&amp;#8221;</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://lifehacker.com/tech/i-tried-chatgpt-in-carplay-and-it-hallucinated-immediately?utm_medium=RSS</guid>
+    </item>
+    <item>
+      <title>Historians, watchdog group sue Trump to preserve White House records</title>
+      <link>https://www.yahoo.com/news/articles/historians-watchdog-group-sue-trump-053420067.html</link>
+      <description>Reuters: &amp;#8220;The American Historical Association and ‌American Oversight on Monday asked the federal court in Washington to declare the nearly 50-year-old Presidential Records Act to be lawful ​and to bar federal agencies from relying on the Justice Department’s legal memo that deemed it illegal. The lawsuit also asked the court for an injunction that would require Trump to comply with the law after he leaves office.&amp;#8221;</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://www.yahoo.com/news/articles/historians-watchdog-group-sue-trump-053420067.html</guid>
+    </item>
+    <item>
+      <title>Wisconsin city passes nation’s first anti-data center referendum</title>
+      <link>https://www.politico.com/news/2026/04/08/wisconsin-city-passes-nations-first-anti-data-center-referendum-00863432?utm_source=dlvr.it&amp;#038;utm_medium=bluesky</link>
+      <description>Politico: &amp;#8220;A small Wisconsin city home to a data center project backed by President Donald Trump voted overwhelmingly Tuesday to restrict future data centers, in a first-of-its-kind referendum that backers said could offer a blueprint for AI infrastructure opponents around the country.&amp;#8221;</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://www.politico.com/news/2026/04/08/wisconsin-city-passes-nations-first-anti-data-center-referendum-00863432?utm_source=dlvr.it&amp;#038;utm_medium=bluesky</guid>
+    </item>
+    <item>
+      <title>Scientists invented a fake disease. AI told people it was real</title>
+      <link>https://www.nature.com/articles/d41586-026-01100-y</link>
+      <description>Nature: &amp;#8220;The problem was that the experiment worked too well. Within weeks of her uploading information about the condition, attributed to a fictional author, major artificial-intelligence systems began repeating the invented condition as if it were real. Even more troublingly, other researchers say, the fake papers were then cited in peer-reviewed literature. Osmanovic Thunström says this suggests that some researchers are relying on AI-generated references without reading the underlying papers.&amp;#8221;</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://www.nature.com/articles/d41586-026-01100-y</guid>
+    </item>
+    <item>
+      <title>‘Vibe coding’ may offer insight into our AI future</title>
+      <link>https://news.harvard.edu/gazette/story/2026/04/vibe-coding-may-offer-insight-into-our-ai-future/</link>
+      <description>Harvard Gazette: &amp;#8220;Among those exploring the new practice is Karen Brennan, Timothy E. Wirth Professor of Practice in Learning Technologies at the Harvard Graduate School of Education, who taught a six-week course on vibe coding beginning late last fall. In this edited interview, Brennan details what she tells students and insights she’s gained about what our future with AI may look like.&amp;#8221; Good morning, Internet&amp;#8230;</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://news.harvard.edu/gazette/story/2026/04/vibe-coding-may-offer-insight-into-our-ai-future/</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Thu, 09 Apr 2026 12:01:31 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>BATH</title>
       <link>https://ancientbaths.com/</link>
@@ -675,83 +766,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Sat, 04 Apr 2026 19:02:02 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>Explore Benjamin Franklin’s scientific discoveries on NotebookLM</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/benjamin-franklin-notebooklm/</link>
-      <description>Google Blog: &amp;#8220;A true polymath, his ingenuity shaped American democracy and human knowledge. This spirit of innovation drives a new collaboration between the Royal Society (the UK&amp;#8217;s national academy of sciences), Google Arts &amp;#038; Culture and Google NotebookLM to launch a Featured Notebook called The Science of Benjamin Franklin.&amp;#8221;</description>
-      <pubDate>Sat, 04 Apr 2026 12:01:40 +0000</pubDate>
-      <guid>https://blog.google/company-news/outreach-and-initiatives/arts-culture/benjamin-franklin-notebooklm/</guid>
-    </item>
-    <item>
-      <title>New Quebec tool lets you track gas prices in real time across the province</title>
-      <link>https://www.timeout.com/montreal/news/new-quebec-tool-lets-you-track-gas-prices-in-real-time-across-the-province-040226</link>
-      <description>TimeOut: &amp;#8220;Quebec drivers can now instantly compare gas prices at over 2,000 gas stations in order to make more informed choices.&amp;#8221;</description>
-      <pubDate>Sat, 04 Apr 2026 12:01:40 +0000</pubDate>
-      <guid>https://www.timeout.com/montreal/news/new-quebec-tool-lets-you-track-gas-prices-in-real-time-across-the-province-040226</guid>
-    </item>
-    <item>
-      <title>Oregon Department of Forestry, wildfire protection partners provide new tool to help the public prevent escaped debris burns</title>
-      <link>https://ktvz.com/news/2026/04/02/oregon-department-of-forestry-wildfire-protection-partners-provide-new-tool-to-help-the-public-prevent-escaped-debris-burns/</link>
-      <description>KTVZ: &amp;#8220;Users are prompted to enter their address to receive immediate information on whether burning is allowed in their specific location. If permitted, the site provides instructions on local regulations, such as how to register a burn or file for a permit.&amp;#8221;</description>
-      <pubDate>Sat, 04 Apr 2026 12:01:40 +0000</pubDate>
-      <guid>https://ktvz.com/news/2026/04/02/oregon-department-of-forestry-wildfire-protection-partners-provide-new-tool-to-help-the-public-prevent-escaped-debris-burns/</guid>
-    </item>
-    <item>
-      <title>Google is now letting users in the US change their Gmail address</title>
-      <link>https://techcrunch.com/2026/03/31/google-is-now-letting-users-in-the-us-change-their-gmail-address/</link>
-      <description>TechCrunch: &amp;#8220;Google said on Tuesday that it is now rolling out a way for users in the U.S. to change their Gmail address without starting over or losing access to their data.&amp;#8221;</description>
-      <pubDate>Sat, 04 Apr 2026 12:01:40 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/03/31/google-is-now-letting-users-in-the-us-change-their-gmail-address/</guid>
-    </item>
-    <item>
-      <title>Proton just launched a Google Workspace alternative &amp;#8211; and it&amp;#8217;s fully encrypted</title>
-      <link>https://www.zdnet.com/article/proton-workspace-boasts-privacy-first-alternative-to-google-microsoft/</link>
-      <description>ZDNet: &amp;#8220;Proton, the organization behind the popular Proton VPN service, is carving a foothold in the productivity arena with the launch of Proton Workspace, available today. Proton, based in Switzerland and subject to the country&amp;#8217;s strict privacy and data protection laws, calls its new offering a &amp;#8216;private alternative to Google Workspace and Microsoft 365.&apos;&amp;#8221;</description>
-      <pubDate>Sat, 04 Apr 2026 12:01:40 +0000</pubDate>
-      <guid>https://www.zdnet.com/article/proton-workspace-boasts-privacy-first-alternative-to-google-microsoft/</guid>
-    </item>
-    <item>
-      <title>‘Secret Lives of Mormon Wives’ cast aren’t the only influencers sowing curiosity about the church</title>
-      <link>https://apnews.com/article/secret-lives-of-mormon-wives-influencers-623d803c1f32c55af9c6cdf1a024df77</link>
-      <description>Associated Press: &amp;#8220;Until quite recently, the prevailing image to outsiders of The Church of Jesus Christ of Latter-day Saints has been male missionaries wearing white shirts and name tags, evoked by the hit Broadway show &amp;#8216;The Book of Mormon.&amp;#8217; But another unofficial face of the male-led church has emerged in American pop culture: digitally savvy, female influencers, often seen sporting athleisure, a giant soda in hand — and varying degrees of adherence to church teachings.&amp;#8221;</description>
-      <pubDate>Sat, 04 Apr 2026 12:01:40 +0000</pubDate>
-      <guid>https://apnews.com/article/secret-lives-of-mormon-wives-influencers-623d803c1f32c55af9c6cdf1a024df77</guid>
-    </item>
-    <item>
-      <title>China moves to regulate digital humans, bans addictive services for children</title>
-      <link>https://www.yahoo.com/news/articles/china-moves-regulate-digital-humans-100718773.html</link>
-      <description>Reuters: &amp;#8220;The Cyberspace ‌Administration of China&amp;#8217;s proposed rules would require prominent &amp;#8216;digital human&amp;#8217; labels on all virtual human content and ​prohibit digital humans from providing &amp;#8216;virtual intimate relationships&amp;#8217; to those under 18, according to rules published for public comment until May 6.&amp;#8221;</description>
-      <pubDate>Sat, 04 Apr 2026 12:01:40 +0000</pubDate>
-      <guid>https://www.yahoo.com/news/articles/china-moves-regulate-digital-humans-100718773.html</guid>
-    </item>
-    <item>
-      <title>World’s oldest tortoise caught in viral crypto death scam</title>
-      <link>https://www.theguardian.com/world/2026/apr/02/worlds-oldest-tortoise-crypto-death-scam</link>
-      <description>The Guardian: To the tune of Master Ninja Theme Song: VIRAL CRYPTO DEATH SCAM &amp;#8220;At 194 years old, Jonathan the giant tortoise was a youngster when Queen Victoria ascended to the throne – and has now lived long enough to fall victim to a crypto scam. News outlets including the BBC, Daily Mail and USA Today falsely reported his death after an X account posing as Jonathan’s vet broke the news.&amp;#8221;</description>
-      <pubDate>Sat, 04 Apr 2026 12:01:40 +0000</pubDate>
-      <guid>https://www.theguardian.com/world/2026/apr/02/worlds-oldest-tortoise-crypto-death-scam</guid>
-    </item>
-    <item>
-      <title>Judge Allows BitTorrent Seeding Claims Against Meta, Despite Lawyers ‘Lame Excuses’</title>
-      <link>https://torrentfreak.com/judge-allows-bittorrent-seeding-claims-against-meta-despite-lawyers-lame-excuses/</link>
-      <description>TorrentFreak: &amp;#8220;In an effort to gather material for its LLM training, Meta used BitTorrent to download pirated books from Anna’s Archive and other shadow libraries. According to several authors, Meta facilitated the infringement of others by &amp;#8216;seeding&amp;#8217; these torrents. This week, the court granted the authors permission to add these claims to their complaint, despite openly scolding their counsel for &amp;#8220;lame excuses&amp;#8221; and &amp;#8216;Meta bashing.&apos;&amp;#8221;</description>
-      <pubDate>Sat, 04 Apr 2026 12:01:40 +0000</pubDate>
-      <guid>https://torrentfreak.com/judge-allows-bittorrent-seeding-claims-against-meta-despite-lawyers-lame-excuses/</guid>
-    </item>
-    <item>
-      <title>Super scrollers sour on democracy: poll</title>
-      <link>https://www.axios.com/2026/03/31/democracy-social-media-heavy-users</link>
-      <description>Axios: &amp;#8220;Heavy social media users are less likely to think democracy is the best form of government and more likely to stray from democratic norms, according to a newly released study from the Charles F. Kettering Foundation and Gallup.&amp;#8221; Good morning, Internet&amp;#8230;</description>
-      <pubDate>Sat, 04 Apr 2026 12:01:40 +0000</pubDate>
-      <guid>https://www.axios.com/2026/03/31/democracy-social-media-heavy-users</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Sat, 04 Apr 2026 12:01:40 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
