@@ -4,7 +4,77 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Sun, 03 May 2026 19:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 20:50:56 GMT</lastBuildDate>
+    <item>
+      <title>Transcribing historical Canadian weather data</title>
+      <link>https://www.nature.com/articles/s41597-025-06036-y#code-availability</link>
+      <description>Scientific Data: &amp;#8220;Historical weather journals from across Canada, spanning 1768–1884, have been transcribed from handwritten records into machine readable formats. The NORTHERN (Nineteenth-century Overseas Records Transcribed for Historical Environmental Reconstruction in the North) project transcribed nearly 2 million weather observations from 46 locations.&amp;#8221;</description>
+      <pubDate>Sun, 03 May 2026 19:26:39 +0000</pubDate>
+      <guid>https://www.nature.com/articles/s41597-025-06036-y#code-availability</guid>
+    </item>
+    <item>
+      <title>Elon Musk appeared more petty than prepared</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InBrV1FGdGtlcEEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkyMDE5MS9lbG9uLW11c2stc2FtLWFsdG1hbi10cmlhbC1kYXktb25lIiwiZXhwIjoxNzc3OTA1NDgxLCJpYXQiOjE3Nzc0NzM0ODF9.FkMZ8-YRv8q3d7n6p8q_scJaERWtNumD9pK7kONpTE4</link>
+      <description>The Verge: &amp;#8220;Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I’ve seen Musk in court. During his defamation suit, he turned on the charm and the jury responded by finding him not guilty. Today he looked adrift and unprepared. The only times he showed real animation were when he was bragging about how much he’d done for OpenAI.&amp;#8221;</description>
+      <pubDate>Sun, 03 May 2026 19:26:39 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InBrV1FGdGtlcEEiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzkyMDE5MS9lbG9uLW11c2stc2FtLWFsdG1hbi10cmlhbC1kYXktb25lIiwiZXhwIjoxNzc3OTA1NDgxLCJpYXQiOjE3Nzc0NzM0ODF9.FkMZ8-YRv8q3d7n6p8q_scJaERWtNumD9pK7kONpTE4</guid>
+    </item>
+    <item>
+      <title>Microsoft opens door to the past by releasing 86-DOS and PC-DOS 1.00</title>
+      <link>go.theregister.com/feed/www.theregister.com/2026/04/29/microsoft_pc_dos_1_point_oh/</link>
+      <description>The Register: &amp;#8220;Antiques code show Microsoft has released the source for another of its relics. This time, it&amp;#8217;s 86-DOS 1.00 getting the open source treatment, and a whole lot more for retro enthusiasts. The release comes a year after Microsoft set the source for MS-DOS 4.0 free, but it includes a lot more than just the bones of an old operating system.&amp;#8221;</description>
+      <pubDate>Sun, 03 May 2026 19:26:39 +0000</pubDate>
+      <guid>go.theregister.com/feed/www.theregister.com/2026/04/29/microsoft_pc_dos_1_point_oh/</guid>
+    </item>
+    <item>
+      <title>OpenAI is reportedly building a smartphone where AI agents replace apps</title>
+      <link>https://www.techspot.com/news/112231-openai-reportedly-building-smartphone-where-ai-agents-replace.html</link>
+      <description>TechSpot: &amp;#8220;OpenAI is reportedly working on a smartphone, but with a new approach: the project centers on AI agents as the primary interface, not apps. Apple analyst Ming-Chi Kuo said in a post that the company is developing a device designed to &amp;#8216;deliver a comprehensive AI agent service.&apos;&amp;#8221;</description>
+      <pubDate>Sun, 03 May 2026 19:26:39 +0000</pubDate>
+      <guid>https://www.techspot.com/news/112231-openai-reportedly-building-smartphone-where-ai-agents-replace.html</guid>
+    </item>
+    <item>
+      <title>6 face federal charges for crypto-seeking Winnetka home invasion</title>
+      <link>https://www.therecordnorthshore.org/2026/04/29/6-face-federal-charges-for-crypto-seeking-winnetka-home-invasion/</link>
+      <description>The Record North Shore: &amp;#8220;In a Tuesday press release, the attorney’s office wrote that the six men — one of whom is Isaiah Duke, also known as Chicago rapper Lil Zay Osama — face robbery and kidnapping conspiracy charges for the incident on March 8, when several armed individuals stormed into a Winnetka home in the 700 block of Rosewood Avenue, held a resident at gunpoint and demanded &amp;#8216;specific items.&apos;&amp;#8221;</description>
+      <pubDate>Sun, 03 May 2026 19:26:39 +0000</pubDate>
+      <guid>https://www.therecordnorthshore.org/2026/04/29/6-face-federal-charges-for-crypto-seeking-winnetka-home-invasion/</guid>
+    </item>
+    <item>
+      <title>Can a fake brand win in AI search? New experiment says yes</title>
+      <link>https://searchengineland.com/fake-brand-ai-search-experiment-475947</link>
+      <description>Search Engine Land: &amp;#8220;We wanted to look beyond rankings and understand how AI systems discover, interpret, and cite information. So we expanded the project into a more ambitious set of experiments on AI search and LLM visibility. For the next phase, we created a new fictional brand in a real niche with real competition to see how quickly AI systems would pick it up and whether it could be cited alongside or above trusted industry leaders and government sources.&amp;#8221;</description>
+      <pubDate>Sun, 03 May 2026 19:26:39 +0000</pubDate>
+      <guid>https://searchengineland.com/fake-brand-ai-search-experiment-475947</guid>
+    </item>
+    <item>
+      <title>Hampton University, 14 HBCUs Launch National Research Coalition to Accelerate Innovation and Expand Impact</title>
+      <link>https://home.hamptonu.edu/blog/2026/04/29/hampton-university-14-hbcus-launch-national-research-coalition-to-accelerate-innovation-and-expand-impact/</link>
+      <description>Hampton University: &amp;#8220;Several Historically Black Colleges and Universities (HBCUs), including Hampton University, today launched the Association of HBCU Research Institutions (AHRI), a national coalition designed to accelerate world-class research, expand institutional capacity, and elevate HBCU leadership in addressing society’s most pressing challenges.&amp;#8221;</description>
+      <pubDate>Sun, 03 May 2026 19:26:39 +0000</pubDate>
+      <guid>https://home.hamptonu.edu/blog/2026/04/29/hampton-university-14-hbcus-launch-national-research-coalition-to-accelerate-innovation-and-expand-impact/</guid>
+    </item>
+    <item>
+      <title>misogyny in the blogosphere</title>
+      <link>https://blog.avas.space/misogyny/</link>
+      <description>Hi, This is Ava: &amp;#8220;When a man writes confidently like an expert about something, it matters less to people when he doesn’t have (or doesn’t immediately offer up) official credentials (like certificates, degrees, work, etc.) about it. As a woman, you are asked more for these and even have to offer up this information upfront to be believed. Even then, this is not enough for some people.&amp;#8221;</description>
+      <pubDate>Sun, 03 May 2026 19:26:39 +0000</pubDate>
+      <guid>https://blog.avas.space/misogyny/</guid>
+    </item>
+    <item>
+      <title>It runs Doom: AI chatbot edition</title>
+      <link>https://www.engadget.com/2160249/it-runs-doom-ai-chatbot-edition/</link>
+      <description>Engadget: &amp;#8220;AI chatbots can answer random questions, create travel itineraries, write code and even &amp;#8216;date&amp;#8217; users. But can they run Doom? Apparently, yes, yes they can.&amp;#8221;  Good afternoon, Internet&amp;#8230;</description>
+      <pubDate>Sun, 03 May 2026 19:26:39 +0000</pubDate>
+      <guid>https://www.engadget.com/2160249/it-runs-doom-ai-chatbot-edition/</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Sun, 03 May 2026 19:26:39 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>Check out the new ways to explore Route 66 on Google Maps.</title>
       <link>https://blog.google/products-and-platforms/products/maps/route-66/</link>
@@ -626,69 +696,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Wed, 29 Apr 2026 19:14:51 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>New Nationwide Tool Helps Answer: Do We Have Enough Water?</title>
-      <link>https://www.usgs.gov/news/national-news-release/new-nationwide-tool-helps-answer-do-we-have-enough-water</link>
-      <description>USGS: &amp;#8220;The USGS National Water Availability Assessment Data Companion provides water managers, agricultural communities and researchers with detailed information about water supply and demand across approximately 80,000 watersheds nationwide.&amp;#8221;</description>
-      <pubDate>Wed, 29 Apr 2026 12:01:38 +0000</pubDate>
-      <guid>https://www.usgs.gov/news/national-news-release/new-nationwide-tool-helps-answer-do-we-have-enough-water</guid>
-    </item>
-    <item>
-      <title>Grassroots Canadian Peace Museum grows with new digital archive partnerships</title>
-      <link>https://www.thewhig.com/news/canadian-peace-museum-new-digital-archive</link>
-      <description>The Whig: &amp;#8220;The Canadian Peace Museum has launched a new web archive, preserving and creating a partnership with two peace-related websites. In January 2026, the museum was contacted by Michael Cooke, founding member and chair emeritus of PeaceQuest, based out of the Kingston. Cooke explained that the current digital homes for the PeaceQuest archive and the website War And Children were at risk of being lost, as the current hosts were going through a restructure, which would see the end of their hosting.&amp;#8221;</description>
-      <pubDate>Wed, 29 Apr 2026 12:01:38 +0000</pubDate>
-      <guid>https://www.thewhig.com/news/canadian-peace-museum-new-digital-archive</guid>
-    </item>
-    <item>
-      <title>Rolling out the next version of our digital archive</title>
-      <link>https://gamehistory.org/archive-portal-update-2026/</link>
-      <description>Video Game History Foundation: &amp;#8220;The digital archive interface has been rebuilt from scratch to improve the browsing experience. We’ve made images larger to make it clearer what you’re looking at, and to differentiate what’s a folder versus a file. This new interface also loads faster than the previous version, has improved loading states, and does a better job keeping track of your navigation when moving between pages.&amp;#8221;</description>
-      <pubDate>Wed, 29 Apr 2026 12:01:38 +0000</pubDate>
-      <guid>https://gamehistory.org/archive-portal-update-2026/</guid>
-    </item>
-    <item>
-      <title>Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic&amp;#8217;s Claude goes rogue</title>
-      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue</link>
-      <description>Tom&amp;#8217;s Hardware: &amp;#8220;Jer Crane was inspired to write a public response after an AI coding agent deleted his firm’s entire production database. The AI agent’s misdemeanors were then hugely amplified by a cloud infrastructure provider’s API wiping all backups after the main database was zapped. This tag team of digital trouble has wiped out months of consumer data essential to the firm’s, and its customers, businesses.&amp;#8221;</description>
-      <pubDate>Wed, 29 Apr 2026 12:01:38 +0000</pubDate>
-      <guid>https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue</guid>
-    </item>
-    <item>
-      <title>College students are changing course in search of ‘AI-proof’ majors. But no one knows what they are</title>
-      <link>https://apnews.com/article/ai-anxiety-college-major-4af9a0a8caae1d302acb5aadcf0c68ba?link_source=rss</link>
-      <description>Associated Press: &amp;#8220;About 70% of college students see AI as a threat to their job prospects, according to a 2025 poll by the Institute of Politics at the Harvard Kennedy School, while recent Gallup polling finds U.S. workers are increasingly concerned about being replaced by new technologies.&amp;#8221;</description>
-      <pubDate>Wed, 29 Apr 2026 12:01:38 +0000</pubDate>
-      <guid>https://apnews.com/article/ai-anxiety-college-major-4af9a0a8caae1d302acb5aadcf0c68ba?link_source=rss</guid>
-    </item>
-    <item>
-      <title>Home security giant ADT data breach affects 5.5 million people</title>
-      <link>https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/</link>
-      <description>Bleeping Computer: &amp;#8220;The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I Been Pwned.&amp;#8221;</description>
-      <pubDate>Wed, 29 Apr 2026 12:01:38 +0000</pubDate>
-      <guid>https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/</guid>
-    </item>
-    <item>
-      <title>Study Finds A Third of New Websites are AI-Generated</title>
-      <link>https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/</link>
-      <description>404 Media: &amp;#8220;Researchers working with data from the Internet Archive have discovered that a third of websites created since 2022 are AI-generated. The team of researchers—which includes people from Stanford, the Imperial College London, and the Internet Archive—published their findings online in a paper titled &amp;#8216;The Impact of AI-Generated Text on the Internet.&amp;#8217; The research also found that all this AI-generated text is making the web more cheery and less verbose.&amp;#8221;</description>
-      <pubDate>Wed, 29 Apr 2026 12:01:38 +0000</pubDate>
-      <guid>https://www.404media.co/study-finds-a-third-of-new-websites-are-ai-generated/</guid>
-    </item>
-    <item>
-      <title>This New Tool Makes AI’s Role in Student Writing Visible</title>
-      <link>https://s5.sandbox.research.gatech.edu/2026/04/15/new-tool-makes-ais-role-student-writing-visible</link>
-      <description>Georgia Tech: &amp;#8220;DraftMarks, a new open‑source tool developed by Georgia Tech and Stanford researchers, makes the writing process itself visible. Instead of trying to assess how much of a finished document was written by AI, DraftMarks shows where a student iterated with AI prompts, what is fully AI, and how a piece evolved — illuminating the often-invisible collaboration between human writers and AI.&amp;#8221; Good morning, Internet&amp;#8230;</description>
-      <pubDate>Wed, 29 Apr 2026 12:01:38 +0000</pubDate>
-      <guid>https://s5.sandbox.research.gatech.edu/2026/04/15/new-tool-makes-ais-role-student-writing-visible</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Wed, 29 Apr 2026 12:01:38 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
