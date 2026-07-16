@@ -4,7 +4,91 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Thu, 16 Jul 2026 10:12:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:01:49 GMT</lastBuildDate>
+    <item>
+      <title>FAQ</title>
+      <link>https://reciprocard.com/faq</link>
+      <description>Spotted in my RSS feeds: ReciproCard. From the &amp;#8220;ReciproCard is a discovery engine that helps you figure out exactly how many library cards you qualify for. By mapping overlapping networks and reciprocal agreements across the country, we help you get more library cards so you can skip the wait for popular titles and unlock more free ebooks and audiobooks on the Libby app.&amp;#8221;</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://reciprocard.com/faq</guid>
+    </item>
+    <item>
+      <title>You can now chat using RSS</title>
+      <link>https://coywolf.com/news/social-media/you-can-now-chat-using-rss-well-sort-of/</link>
+      <description>Coywolf: &amp;#8220;Dave Winer, the person who made Really Simple Syndication (RSS 2.0) the standard for following blogs in feed readers, asked whether RSS could be used for online chat, and quickly concluded that it could. &amp;#8230; The rss.chat site shows public chats using the new approach that look similar to social media posts and support message threads.&amp;#8221;</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://coywolf.com/news/social-media/you-can-now-chat-using-rss-well-sort-of/</guid>
+    </item>
+    <item>
+      <title>Free Web-Based Logic Software (guest post)</title>
+      <link>https://dailynous.com/2026/07/13/free-web-based-logic-software-guest-post/</link>
+      <description>Daily Nous: &amp;#8220;I taught introductory logic to large classes (400-500 students) for over a decade. The desktop software I inherited worked, but supporting it was a headache: install conflicts, only supported on certain devices, students fighting IT on shared machines. In 2014 a student in my class and I started building a web-based replacement. That became Elogic. It’s a browser-based environment for logic exercises with immediate, automated feedback. There’s nothing to install, and it works on anything with a browser.&amp;#8221;</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://dailynous.com/2026/07/13/free-web-based-logic-software-guest-post/</guid>
+    </item>
+    <item>
+      <title>Google and Epic give up fighting — third-party Android app stores are coming next week</title>
+      <link>https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play</link>
+      <description>The Verge: &amp;#8220;Epic Games and Google have just jointly withdrawn their attempt to retroactively settle the lawsuit that’s changing how Android app stores work in the United States — and that means Google will be forced to carry rival app stores inside of its own. In fact, Google tells the court, it’s ready to begin carrying third-party app stores on Wednesday, July 22nd.&amp;#8221;</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://www.theverge.com/policy/965792/google-epic-withdraw-injunction-third-party-app-stores-coming-google-play</guid>
+    </item>
+    <item>
+      <title>Google Images Is Trying to Be… Pinterest?</title>
+      <link>https://gizmodo.com/google-images-is-trying-to-be-pinterest-2000785569</link>
+      <description>Gizmodo: &amp;#8220;Google Images’s latest update appears to be taking some inspiration from the digital pinboard platform Pinterest. The company is celebrating Google Images’s 25th anniversary this week by looking back at its history and announcing a major redesign that turns the search engine into more of a personalized visual feed.&amp;#8221;</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://gizmodo.com/google-images-is-trying-to-be-pinterest-2000785569</guid>
+    </item>
+    <item>
+      <title>Firefox is switching to a faster release schedule, just like Chrome and Edge</title>
+      <link>https://www.techspot.com/news/113091-firefox-switching-faster-release-schedule-like-chrome-edge.html</link>
+      <description>TechSpot: &amp;#8220;Google recently announced an accelerated Chrome release schedule. Now, another major player in the browser market, Mozilla, is doing the same. The company plans to drop two updates for its open-source browser every month across both desktop and Android devices.&amp;#8221;</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://www.techspot.com/news/113091-firefox-switching-faster-release-schedule-like-chrome-edge.html</guid>
+    </item>
+    <item>
+      <title>‘A very good clone’: news stories faked to lure victims to scam investment sites</title>
+      <link>https://www.theguardian.com/money/2026/jul/12/clone-news-sites-faked-scam-investment-sites-social-media</link>
+      <description>The Guardian: &amp;#8220;The Guardian is one of many news organisations that fraudsters are using in a bid to find victims. Respected news sites are mirrored then manipulated with fake information in the hope that readers will not be able to tell the difference.&amp;#8221;</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://www.theguardian.com/money/2026/jul/12/clone-news-sites-faked-scam-investment-sites-social-media</guid>
+    </item>
+    <item>
+      <title>Is that QR code a trap? How to spot quishing scams before it&amp;#8217;s too late</title>
+      <link>https://www.zdnet.com/article/how-to-spot-quishing-qr-code-scams/</link>
+      <description>ZDNet: &amp;#8220;Quishing, or QR code-based phishing, embeds malicious links in QR codes to bypass traditional phishing filters and slip through security nets. The lure is the same: create a sense of urgency, appeal to our greed, instill fear and panic, or promise rewards for scanning the QR code with our phones and clicking the embedded link to visit an online page or platform.&amp;#8221;</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://www.zdnet.com/article/how-to-spot-quishing-qr-code-scams/</guid>
+    </item>
+    <item>
+      <title>UK plans default midnight social media curfew for teens aged 16-17</title>
+      <link>https://www.reuters.com/technology/uk-plans-default-midnight-social-media-curfew-16-17-year-olds-2026-07-14/</link>
+      <description>Reuters: &amp;#8220;Older teenagers in Britain will ‌have to switch the settings on social media apps to be able to use them after midnight under new safeguarding rules planned by the government. A month after it announced plans to introduce a sweeping ban on social media for ​young people under 16, the government said on Tuesday it also planned a default overnight ​curfew for young people aged 16 and 17.&amp;#8221;</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://www.reuters.com/technology/uk-plans-default-midnight-social-media-curfew-16-17-year-olds-2026-07-14/</guid>
+    </item>
+    <item>
+      <title>FSU researcher creates seawater isotope database to improve climate reconstructions, projections</title>
+      <link>https://news.fsu.edu/news/science-technology/2026/07/13/fsu-researcher-creates-seawater-isotope-database-to-improve-climate-reconstructions-projections/</link>
+      <description>Florida State University: &amp;#8220;A Florida State University paleoclimatologist led the creation of a global database hosting thousands of seawater isotope measurements collected over almost 50 years that will aid scientists in generating more accurate climate reconstructions and predictions.&amp;#8221;</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://news.fsu.edu/news/science-technology/2026/07/13/fsu-researcher-creates-seawater-isotope-database-to-improve-climate-reconstructions-projections/</guid>
+    </item>
+    <item>
+      <title>Chronically online criticism: how we’re archiving the video essay boom</title>
+      <link>https://www.bfi.org.uk/features/chronically-online-criticism-how-were-archiving-video-essay-boom</link>
+      <description>British Film Institute: &amp;#8220;Pithy, playful, provocative – video essays have emerged as a major form of cultural commentary since the dawn of online video sites in the mid 2000s. Here we introduce the five video essay makers whose work we’ve selected for preserving in the BFI National Archive.&amp;#8221; Good morning, Internet&amp;#8230;</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://www.bfi.org.uk/features/chronically-online-criticism-how-were-archiving-video-essay-boom</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Thu, 16 Jul 2026 12:01:35 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>Citrus crate label collection offers a slice of Inland Empire and California history</title>
       <link>https://www.pressenterprise.com/2026/07/09/citrus-crate-label-collection-offers-a-slice-of-inland-empire-and-california-history/</link>
@@ -106,7 +190,7 @@
     <item>
       <title>North Dakota AI committee releases agenda for first meeting next week</title>
       <link>https://northdakotamonitor.com/briefs/north-dakota-ai-committee-releases-agenda-for-first-meeting-next-week/</link>
-      <description>North Dakota Monitor: &amp;#8220;The new committee tasked with studying artificial intelligence and data centers ahead of North Dakota’s 2027 legislative session has released the agenda for its first meeting.  The inaugural meeting of the committee is scheduled for 9 a.m. Wednesday in Bismarck.&amp;#8221; Today.</description>
+      <description>North Dakota Monitor: &amp;#8220;The new committee tasked with studying artificial intelligence and data centers ahead of North Dakota���s 2027 legislative session has released the agenda for its first meeting.  The inaugural meeting of the committee is scheduled for 9 a.m. Wednesday in Bismarck.&amp;#8221; Today.</description>
       <pubDate>Wed, 15 Jul 2026 15:17:00 +0000</pubDate>
       <guid>https://northdakotamonitor.com/briefs/north-dakota-ai-committee-releases-agenda-for-first-meeting-next-week/</guid>
     </item>
@@ -766,118 +850,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Sun, 12 Jul 2026 12:01:37 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>How Flock Cameras Wrongly Tracked Me for Days Over ‘Stolen’ Plates and Sent Police After Me</title>
-      <link>https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me</link>
-      <description>The Drive: &amp;#8220;The Plymouth Police Department had been tracking me for days using Flock license plate cameras, waiting for the right moment to strike, because they thought I’d stolen the Range Rover. And the reason I was ID’d as a dangerous car thief was a simple data error made 2,000 miles away in California, creating an edge case within an edge case that Flock’s AI camera network was unable to handle.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me</guid>
-    </item>
-    <item>
-      <title>Microsoft&amp;#8217;s AI drive saw its carbon emissions grow by 25 percent in 2025</title>
-      <link>https://www.engadget.com/2212136/microsoft-ai-drive-carbon-emissions-grow-25-percent-2025/</link>
-      <description>Engadget: &amp;#8220;Microsoft&amp;#8217;s carbon emissions grew 25 percent year over year in 2025, the company has revealed in its 2026 environmental sustainability report. The report covers the company&amp;#8217;s 2025 fiscal year and measures its progress against its 2020 baseline. Microsoft says this growth in emissions is mostly caused by the expansion of its investments in AI data center infrastructure.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://www.engadget.com/2212136/microsoft-ai-drive-carbon-emissions-grow-25-percent-2025/</guid>
-    </item>
-    <item>
-      <title>New Mexico AG to investigate ‘alleged fraudulent’ letters supporting Project Jupiter data center</title>
-      <link>https://sourcenm.com/2026/07/09/new-mexico-ag-to-investigate-alleged-fraudulent-letters-supporting-project-jupiter-data-center/</link>
-      <description>Source New Mexico: &amp;#8220;New Mexico Attorney General Raúl Torrez opened an investigation Thursday into allegations that written public comments supporting a pending air quality permit application for Project Jupiter, the Oracle and OpenAI data center campus under construction in Doña Ana County, were &amp;#8216;fraudulently&amp;#8217; submitted under residents’ names without their knowledge or consent.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://sourcenm.com/2026/07/09/new-mexico-ag-to-investigate-alleged-fraudulent-letters-supporting-project-jupiter-data-center/</guid>
-    </item>
-    <item>
-      <title>Plug pulled on Bonner data center</title>
-      <link>https://thepulp.org/plug-pulled-on-bonner-data-center/</link>
-      <description>The Pulp: &amp;#8220;Mike Heisey, general manager of the Bonner Mill Industrial Park, said in a message to the county that he decided to withdraw his signature on Krambu’s application after hearing the public’s concerns about the proposed facility’s potential impacts on the environment.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://thepulp.org/plug-pulled-on-bonner-data-center/</guid>
-    </item>
-    <item>
-      <title>Education tech purchases on pause as NYC schools wrestle with AI</title>
-      <link>https://gothamist.com/news/all-education-tech-purchases-on-pause-as-nyc-schools-wrestle-with-ai</link>
-      <description>Gothamist: &amp;#8220;New York City principals have been ordered to pause purchases of any new education technology software as the nation’s largest school system continues to wrestle with an AI policy amid a growing backlash.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://gothamist.com/news/all-education-tech-purchases-on-pause-as-nyc-schools-wrestle-with-ai</guid>
-    </item>
-    <item>
-      <title>Division of Arkansas Heritage inexplicably uses AI to generate misspelled Declaration of Independence</title>
-      <link>https://arktimes.com/arkansas-blog/2026/07/09/dept-of-heritage-inexplicably-uses-ai-to-generate-misspelled-declaration-of-independence</link>
-      <description>Arkansas Times: &amp;#8220;Where you or I might choose to adorn such a post with an actual picture of the Declaration — readily available to use for free from the Library of Congress, the Smithsonian and dozens of other repositories – the social media experts at the Division of Heritage went a different route: AI slop.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://arktimes.com/arkansas-blog/2026/07/09/dept-of-heritage-inexplicably-uses-ai-to-generate-misspelled-declaration-of-independence</guid>
-    </item>
-    <item>
-      <title>Oregon approves PGE’s 29.7% rate hike for data centers under landmark law</title>
-      <link>https://www.opb.org/article/2026/07/07/oregon-data-center-general-electric-rate-hikes/</link>
-      <description>OPB: &amp;#8220;The Oregon Public Utility Commission on Tuesday unanimously approved PGE’s 29.7% rate increase for data centers, cryptocurrency companies and large industrial energy users.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://www.opb.org/article/2026/07/07/oregon-data-center-general-electric-rate-hikes/</guid>
-    </item>
-    <item>
-      <title>AI and Job Postings: From Destruction to Creation?</title>
-      <link>https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/</link>
-      <description>Indeed Hiring Lab: &amp;#8220;US software development job postings have grown by almost 15% since the launch of Claude Code in late February, 2025, while overall job postings fell by 7% over the same period. Job postings for occupations with more potential exposure to AI-driven change, including software development, generally fell the most between 2022 and 2026. But over the past year, the most AI-exposed occupations have generally seen the largest rebound in postings.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://www.hiringlab.org/2026/07/08/ai-and-job-postings-from-destruction-to-creation/</guid>
-    </item>
-    <item>
-      <title>US appeals court rebukes lawyer over ‘fake and hallucinated’ case citations</title>
-      <link>https://www.reuters.com/legal/litigation/us-appeals-court-rebukes-lawyer-over-fake-hallucinated-case-citations-2026-07-10/</link>
-      <description>Reuters: &amp;#8220;A U.S. appeals court on Friday rebuked a Florida lawyer and ​county official for filing briefs riddled with what it called &amp;#8216;fake and hallucinated&amp;#8217; material generated by ‌artificial intelligence and issued a broad warning against outsourcing legal work carelessly to AI.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://www.reuters.com/legal/litigation/us-appeals-court-rebukes-lawyer-over-fake-hallucinated-case-citations-2026-07-10/</guid>
-    </item>
-    <item>
-      <title>The AI-Generated Taylor Swift Wedding Photos Are Getting Debunked Really Quickly</title>
-      <link>https://petapixel.com/2026/07/09/the-ai-generated-taylor-swift-wedding-photos-are-getting-debunked-really-quickly/</link>
-      <description>PetaPixel: &amp;#8220;Is the Taylor Swift wedding a major turning point? No, I’m not talking about what it means for Miss Americana and her NFL husband — I’m talking about how quickly fake photos from the event last weekend are being refuted.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://petapixel.com/2026/07/09/the-ai-generated-taylor-swift-wedding-photos-are-getting-debunked-really-quickly/</guid>
-    </item>
-    <item>
-      <title>Watch Three Chatty AI Agents Completely Overthink Counting to 100</title>
-      <link>https://www.geeksaresexy.net/2026/07/07/watch-three-chatty-ai-agents-completely-overthink-counting-to-100/</link>
-      <description>Geeks Are Sexy: &amp;#8220;In this hilarious experiment, YouTuber Gamer Husk IRL lines up three phones, each running a different AI assistant, and gives them one incredibly simple mission: take turns counting to 100. Sounds easy, right? Instead, the three AIs spend an absurd amount of time politely introducing themselves, confirming the plan, complimenting each other’s suggestions, and repeatedly explaining how they’ll count… without actually doing much counting.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://www.geeksaresexy.net/2026/07/07/watch-three-chatty-ai-agents-completely-overthink-counting-to-100/</guid>
-    </item>
-    <item>
-      <title>The Logo for Donald Trump International Airport Appears to Be AI Slop</title>
-      <link>https://futurism.com/artificial-intelligence/trump-airport-logo-ai</link>
-      <description>Futurism: &amp;#8220;In response to a request for comment, the airport directed us to a local official who pointedly did not deny that the logo was AI generated. &amp;#8216;The logo was provided to the airport,&amp;#8217; a representative for the Palm Beach County Department of Airports told us. &amp;#8216;We do not have information regarding its production.&apos;&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://futurism.com/artificial-intelligence/trump-airport-logo-ai</guid>
-    </item>
-    <item>
-      <title>Microsoft warns customers AI will mean busier Patch Tuesdays</title>
-      <link>https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618</link>
-      <description>The Register: &amp;#8220;&amp;#8216;As AI helps defenders discover more issues, customers will see a higher volume of security updates included in each security release,&amp;#8217; the company’s executive veep for Windows + Devices, Pavan Davuluri, wrote in a Thursday post that describes how Microsoft is changing its internal processes to spot software vulnerabilities using AI.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618</guid>
-    </item>
-    <item>
-      <title>Content creator ‘Planet Hank’ sues Vermont attorney general over AI video probe</title>
-      <link>https://vtdigger.org/2026/07/09/content-creator-planet-hank-sues-vermont-attorney-general-over-ai-video-probe/</link>
-      <description>VT Digger: &amp;#8220;Hank Poitras, better known by his social media moniker &amp;#8216;Planet Hank,&amp;#8217; filed a lawsuit in federal court Wednesday against the Vermont attorney general’s office, arguing that the law, which went into effect this year, is unconstitutional.&amp;#8221;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://vtdigger.org/2026/07/09/content-creator-planet-hank-sues-vermont-attorney-general-over-ai-video-probe/</guid>
-    </item>
-    <item>
-      <title>CMU Researchers Help Close a Critical Security Gap Across AI Platforms</title>
-      <link>https://www.cmu.edu/news/stories/archives/2026/july/cmu-researchers-help-close-a-critical-security-gap-across-ai-platforms</link>
-      <description>Carnegie Mellon: &amp;#8220;Flaw Reporting for AI (FLARE-AI) is a new open-source platform that lets anyone report an AI vulnerability and route it to developers, vendors and government agencies equipped to act.&amp;#8221; Good afternoon, Internet&amp;#8230;</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
-      <guid>https://www.cmu.edu/news/stories/archives/2026/july/cmu-researchers-help-close-a-critical-security-gap-across-ai-platforms</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Sat, 11 Jul 2026 21:22:37 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
