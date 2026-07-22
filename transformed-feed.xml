@@ -4,7 +4,112 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Tue, 21 Jul 2026 23:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 02:55:59 GMT</lastBuildDate>
+    <item>
+      <title>Don&amp;#8217;t let an AI chatbot pick your password, ever</title>
+      <link>https://www.zdnet.com/article/dont-let-an-ai-chatbot-pick-your-password-ever/</link>
+      <description>ZDNet: &amp;#8220;According to research conducted earlier this year by Irregular, popular AI chatbots such as Claude, ChatGPT, and Gemini tend to produce passwords that aren&amp;#8217;t truly random. After testing these models with 50 password-generation requests, the researchers found &amp;#8216;noticeable patterns&amp;#8217; indicating that the passwords didn&amp;#8217;t fit the definition of truly random, secure credentials.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.zdnet.com/article/dont-let-an-ai-chatbot-pick-your-password-ever/</guid>
+    </item>
+    <item>
+      <title>AI spam filters are getting suckered by old-school text salting</title>
+      <link>https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434</link>
+      <description>The Register: &amp;#8220;Notice more spam getting through that corporate email filter lately? Attackers are using a technique known as &amp;#8216;text salting,&amp;#8217; which hides benign-looking words intended to confuse some AI-powered email filters, says cybersecurity firm Barracuda.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.theregister.com/security/2026/07/17/ai-spam-filters-are-getting-suckered-by-old-school-text-salting/5274434</guid>
+    </item>
+    <item>
+      <title>The fight against AI datacenters is important – but it’s just a starting point</title>
+      <link>https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics</link>
+      <description>The Guardian: &amp;#8220;Opposition to AI datacenters has emerged as a primary theme in US politics, one that – surprisingly – doesn’t fall along party lines. We applaud people coming together for constructive debate on any issue, and agree that communities need to evaluate whether any economic benefits these datacenters bring is worth their costs. Still, we worry that a focus on datacenters obscures the larger impacts of AI on people’s lives: the concentration of power of AI companies, and their widespread political and financial influence.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.theguardian.com/commentisfree/2026/jul/09/ai-datacenter-company-politics</guid>
+    </item>
+    <item>
+      <title>Schools face soaring laptop costs as AI data centers squeeze supply</title>
+      <link>https://www.idahoednews.org/top-news/schools-face-soaring-laptop-costs-as-ai-data-centers-squeeze-supply/</link>
+      <description>Idaho Ed News: &amp;#8220;Idaho schools are seeing rapid price increases for Google Chromebooks and other tech after Micron Technology shifted its computer parts business away from consumers and toward AI data centers.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.idahoednews.org/top-news/schools-face-soaring-laptop-costs-as-ai-data-centers-squeeze-supply/</guid>
+    </item>
+    <item>
+      <title>The secret Trump administration battle to fight Chinese AI</title>
+      <link>https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi</link>
+      <description>Axios: &amp;#8220;Parts of the administration have tried to implement de facto bans on foreign open-source models before, knowledgeable sources tell Axios. Last week&amp;#8217;s rise of Chinese model Kimi is reigniting those efforts. Pro-competition voices fear the implications.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi</guid>
+    </item>
+    <item>
+      <title>Trump administration’s head of AI safety agency resigns after 3 months on job</title>
+      <link>https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html</link>
+      <description>CNBC: &amp;#8220;Chris Fall, the head of the Center for AI Standards and Innovation, resigned from his role as director just three months after he was picked for the job by the Trump administration, CNBC confirmed on Monday.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html</guid>
+    </item>
+    <item>
+      <title>My local LLM struggles with big questions—here&amp;#8217;s what it&amp;#8217;s actually good at</title>
+      <link>https://www.howtogeek.com/what-local-llm-is-actually-good-at/</link>
+      <description>How-To Geek: &amp;#8220;When I first installed a local LLM, I expected to use it the same way that I&amp;#8217;d been using ChatGPT. It soon became apparent that on my modest hardware, this wasn&amp;#8217;t going to work. By changing the way I use my local LLMs, they&amp;#8217;ve become much more useful.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.howtogeek.com/what-local-llm-is-actually-good-at/</guid>
+    </item>
+    <item>
+      <title>OpenAI Appears to Be Missing Its Sales Goals by a Vast Margin</title>
+      <link>https://futurism.com/artificial-intelligence/openai-ad-revenue-ai-advertising-financial-projection</link>
+      <description>Futurism: &amp;#8220;That massive gulf was observed in a new analysis from marketing consulting firm Emarketer, first flagged by AdWeek, which found OpenAI is on pace to undershoot its own five-year ad revenue projections by a whopping 90 percent. In fact, Emarketer’s take is even more devastating than that: it estimates that the entire addressable market for chatbot advertising — the maximum amount of money up for grabs overall — at $5.4 billion.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://futurism.com/artificial-intelligence/openai-ad-revenue-ai-advertising-financial-projection</guid>
+    </item>
+    <item>
+      <title>How To Train a Generative Kick Drum Model on Your Old Linux Desktop With 6GB of VRAM</title>
+      <link>https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model</link>
+      <description>Zhinit: &amp;#8220;This article goes through how I trained and deployed a generative latent diffusion kick drum model from scratch on more than 13,000 kick drums from my personal sample library on a local Linux machine with a 7-year-old NVIDIA GeForce GTX 1660 SUPER (6GB of VRAM).</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model</guid>
+    </item>
+    <item>
+      <title>Kevin O&amp;#8217;Leary, Fox News sued over claims data center critics had China ties</title>
+      <link>https://www.courthousenews.com/kevin-oleary-fox-news-sued-over-claims-data-center-critics-had-china-ties/</link>
+      <description>Courthouse News: &amp;#8220;A Utah nonprofit and a political consulting firm sued Canadian businessman and TV personality Kevin O’Leary and Fox News Media over since-corrected claims O’Leary made that they were working for the Chinese Communist Party in opposing a data center he wants to build in Utah.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.courthousenews.com/kevin-oleary-fox-news-sued-over-claims-data-center-critics-had-china-ties/</guid>
+    </item>
+    <item>
+      <title>These are the most urgent AI risks, according to 272 experts</title>
+      <link>https://mitsloan.mit.edu/ideas-made-to-matter/these-are-most-urgent-ai-risks-according-to-272-experts</link>
+      <description>MIT: &amp;#8220;For &amp;#8216;Prioritization of Risks From Artificial Intelligence,&amp;#8217; a research team that included MIT Sloan School of Management principal research scientist Neil Thompson asked 272 international AI experts to evaluate 24 AI risks based on their likelihood and severity of harm, and to note which sectors and actors are most vulnerable and who should bear responsibility for addressing the risks.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://mitsloan.mit.edu/ideas-made-to-matter/these-are-most-urgent-ai-risks-according-to-272-experts</guid>
+    </item>
+    <item>
+      <title>Voters in Colorado’s battleground district are wary of AI — and party affiliation doesn’t much matter</title>
+      <link>https://www.denverpost.com/2026/07/20/colorado-8th-congressional-district-artificial-intelligence-poll/</link>
+      <description>Denver Post: &amp;#8220;Voters in Colorado’s 8th Congressional District want more oversight and regulation of artificial intelligence — regardless of which major party they most align with, according to a recent poll conducted in the ultracompetitive district north of Denver.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.denverpost.com/2026/07/20/colorado-8th-congressional-district-artificial-intelligence-poll/</guid>
+    </item>
+    <item>
+      <title>Google Is AI Mode’s No. 2 Cited Domain, Data Shows</title>
+      <link>https://www.searchenginejournal.com/google-is-ai-modes-no-2-cited-domain-data-shows/582941/</link>
+      <description>Search Engine Journal: &amp;#8220;Google.com has become the second most-cited domain in Google’s AI Mode, according to a new report from Profound, an AI-visibility platform that sells tools for tracking brand presence in AI search. The report shows citation share for google.com rose 8.4x between April 15 and June 30, with almost all of that increase going to two Google-hosted surfaces, Business Profile cards and Product Knowledge Panels.&amp;#8221;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.searchenginejournal.com/google-is-ai-modes-no-2-cited-domain-data-shows/582941/</guid>
+    </item>
+    <item>
+      <title>Are AI chatbots a threat to democracy? New study explores their persuasive power</title>
+      <link>https://www.psypost.org/are-ai-chatbots-a-threat-to-democracy-new-study-explores-their-persuasive-power/</link>
+      <description>PsyPost: &amp;#8220;Two survey experiments comparing the cost-effectiveness of using LLM chatbots to persuade voters estimated that LLM-based persuasion costs $48 to $75 per voter, versus $100 for traditional methods, while being equally persuasive. However, they also found that traditional methods currently scale more effectively. The paper was published in the Journal of Experimental Political Science.&amp;#8221; Good evening, Internet&amp;#8230;</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.psypost.org/are-ai-chatbots-a-threat-to-democracy-new-study-explores-their-persuasive-power/</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Wed, 22 Jul 2026 00:19:32 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>Poynter’s PolitiFact launches service providing reliable, engaging health information to consumers and news organizations</title>
       <link>https://www.poynter.org/news-release/2026/poynters-politifact-launches-service-providing-reliable-engaging-health-information-to-consumers-and-news-organizations/</link>
@@ -738,97 +843,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Sat, 18 Jul 2026 14:29:18 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>Tallahassee neighbor launches ItsMyScene to connect local bands, venues, and fans all in one place</title>
-      <link>https://www.wtxl.com/college-town/tallahassee-neighbor-launches-itsmyscene-to-connect-local-bands-venues-and-fans-all-in-one-place</link>
-      <description>WTXL: &amp;#8220;Jacob Sanford launched ItsMyScene, a community-driven website putting local bands, venues, and shows in one place. Sanford first tried the idea in the early 2000s with TallahasseeShows.com. More than two decades later, he&amp;#8217;s bringing it back with new technology and a bigger vision.&amp;#8221; Early days but looks promising.</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://www.wtxl.com/college-town/tallahassee-neighbor-launches-itsmyscene-to-connect-local-bands-venues-and-fans-all-in-one-place</guid>
-    </item>
-    <item>
-      <title>NCDOT Launches Interactive ‘Projects Near Me’ Tool</title>
-      <link>https://www.ncdot.gov/news/press-releases/Pages/2026/2026-07-15-ncdot-launches-projects-near-me-online-tool.aspx</link>
-      <description>North Carolina Department of Transportation: &amp;#8220;The N.C. Department of Transportation recently launched an interactive online tool called Projects Near Me, where people can explore a map featuring a wide range of state transportation project data.  The map is searchable by address, making it easy to find projects near any location, and by project identification number in the State Transportation Improvement Program (STIP). It can also display projects by county or NCDOT Highway Division.&amp;#8221;</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://www.ncdot.gov/news/press-releases/Pages/2026/2026-07-15-ncdot-launches-projects-near-me-online-tool.aspx</guid>
-    </item>
-    <item>
-      <title>YouTube clarifies that creators can’t monetize “generic or repetitive content,” content that’s “unsatisfying or off-putting,” or content with fake AI “experts”</title>
-      <link>https://www.tubefilter.com/2026/07/13/youtube-inauthentic-content-monetization-policy-update/</link>
-      <description>Tubefilter: &amp;#8220;To be clear, this is not a new policy. The update is a communications fix: clearer, more actionable language so creators know why a channel gets flagged. The rules themselves haven’t changed, and creators are not facing demonetization for new reasons.&amp;#8221;</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://www.tubefilter.com/2026/07/13/youtube-inauthentic-content-monetization-policy-update/</guid>
-    </item>
-    <item>
-      <title>KnuckleBonz reveal details of a 3D digital museum in collaboration with the late Metallica bassist&amp;#8217;s estate</title>
-      <link>https://www.loudersound.com/bands-artists/cliff-burton-3d-digital-museum-knucklebonz360</link>
-      <description>Louder: &amp;#8220;KnuckleBonz, the company which creates officially licensed statues of musical icons, has announced details of a &amp;#8216;first-of-its-kind immersive 3D digital platform&amp;#8217; celebrating the life of the late Metallica bassist Cliff Burton.&amp;#8221;</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://www.loudersound.com/bands-artists/cliff-burton-3d-digital-museum-knucklebonz360</guid>
-    </item>
-    <item>
-      <title>Trump Media to sell instant access to &amp;#8216;market-moving&amp;#8217; social posts</title>
-      <link>https://www.bbc.com/news/articles/c79gw4lj89eo</link>
-      <description>BBC: &amp;#8220;Trump Media &amp;#038; Technology Group, which owns Truth Social, is launching a paid service to give Wall Street firms high-speed access to its most influential posts. From 1 August, instant updates will be delivered from &amp;#8216;the highest-ranking&amp;#8217; accounts, it said. US President Donald Trump currently has the most followers on the platform.&amp;#8221;</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://www.bbc.com/news/articles/c79gw4lj89eo</guid>
-    </item>
-    <item>
-      <title>Musk promises purge after Grok Build caught sending entire repos to the cloud</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/07/14/musk-promises-purge-after-grok-build-caught-sending-entire-repos-to-the-cloud/5271123</link>
-      <description>The Register: &amp;#8220;The researcher who exposed Grok Build uploading users&amp;#8217; entire repositories to cloud storage says the transfers have stopped after a server-side change. Elon Musk has separately promised that all previously uploaded user data will be deleted.&amp;#8221;</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://www.theregister.com/ai-and-ml/2026/07/14/musk-promises-purge-after-grok-build-caught-sending-entire-repos-to-the-cloud/5271123</guid>
-    </item>
-    <item>
-      <title>US judge blocks Trump administration&amp;#8217;s visa limits for social media researchers</title>
-      <link>https://ca.news.yahoo.com/us-judge-blocks-trump-administrations-191600777.html</link>
-      <description>Reuters: &amp;#8220;A federal judge on ‌Tuesday blocked U.S. ‌President Donald Trump&amp;#8217;s administration ​from enforcing a policy that targets foreign nationals who study ‌disinformation ⁠and hate speech on social media ⁠for visa denials and deportation.&amp;#8221;</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://ca.news.yahoo.com/us-judge-blocks-trump-administrations-191600777.html</guid>
-    </item>
-    <item>
-      <title>She knew he wasn’t real. She was in love with him anyway. One woman’s story of a romance scam</title>
-      <link>https://apnews.com/article/romance-scams-victim-113a86b0591cead3d5eac52d06510b6f</link>
-      <description>Associated Press: &amp;#8220;Romance scams are on the rise across the United States. Last year, more than 49,000 Americans reported losing a collective $1.3 billion to romance scams, according to available FTC data shared with The Associated Press. That’s an increase of at least 14% and likely more from the previous year. In the aftermath of the COVID-19 lockdowns that fractured communities and frayed the social fabric of society, there are more lonely people than ever.&amp;#8221;</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://apnews.com/article/romance-scams-victim-113a86b0591cead3d5eac52d06510b6f</guid>
-    </item>
-    <item>
-      <title>He saw a pit on Google Maps. It turned out to be a 390-million-year-old meteor crater</title>
-      <link>https://www.cbc.ca/news/canada/montreal/meteor-crater-quebec-discovery-390-million-years-old-9.7268583</link>
-      <description>CBC: &amp;#8220;Amateur astronomer Joël Lapointe stumbled upon what he thought looked like a suspicious pit in Quebec&amp;#8217;s Côte-Nord region while he was wandering with his Google Maps cursor in 2024.  He was simply trying to plan his camping vacation when he spotted something unexpected on his screen — what researchers recently confirmed is a previously unidentified, 390-million-year-old meteor crater.&amp;#8221;</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://www.cbc.ca/news/canada/montreal/meteor-crater-quebec-discovery-390-million-years-old-9.7268583</guid>
-    </item>
-    <item>
-      <title>Kalshi to offer betting on drug trial results and FDA regulatory decisions</title>
-      <link>https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results</link>
-      <description>The Guardian: &amp;#8220;Kalshi is expanding its wagers to include bets on drug trial results, an expansion into new predictions territory as platforms continue to rapidly gain popularity and offer opportunities to bet on virtually anything.&amp;#8221;</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results</guid>
-    </item>
-    <item>
-      <title>Cambridge and Oxford join forces to unlock over a million biological records for climate research</title>
-      <link>https://www.cam.ac.uk/research/news/cambridge-and-oxford-join-forces-to-unlock-over-a-million-biological-records-for-climate-research</link>
-      <description>University of Cambridge: &amp;#8220;The University of Cambridge and the University of Oxford will lead a major new partnership to digitise over 1.1 million natural history specimens, creating a step-change in how researchers and conservationists access vital biodiversity data.&amp;#8221;</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://www.cam.ac.uk/research/news/cambridge-and-oxford-join-forces-to-unlock-over-a-million-biological-records-for-climate-research</guid>
-    </item>
-    <item>
-      <title>Legendary Livermore lamp reaches 125-year milestone</title>
-      <link>https://www.danvillesanramon.com/family-lifestyle/2026/07/15/legendary-livermore-lamp-reaches-125-year-milestone/</link>
-      <description>Danville SanRamon: &amp;#8220;Since 1901, the [Centennial Light Bulb] has burned for over 1.5 million hours with intermittent outs, according to retired deputy fire chief Tom Bramell of the Livermore-Pleasanton Fire Department. Besides in-person visits to its home at LPFD’s Fire Station No. 6, the bulb has grown its following with its own website, livestream camera feed, email address and social media account, not to mention its features in film, TV shows and international news.&amp;#8221; Good morning, Internet&amp;#8230;</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
-      <guid>https://www.danvillesanramon.com/family-lifestyle/2026/07/15/legendary-livermore-lamp-reaches-125-year-milestone/</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Sat, 18 Jul 2026 12:01:44 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
