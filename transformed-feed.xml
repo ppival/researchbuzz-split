@@ -4,7 +4,112 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Sun, 02 Aug 2026 13:36:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 15:05:22 GMT</lastBuildDate>
+    <item>
+      <title>Google Pulls Down Feature for AI-Generating Fake Satellite Images on Google Earth After It’s Immediately Used to Fake Terror Attacks</title>
+      <link>https://futurism.com/artificial-intelligence/google-pulls-down-google-earth-ai-feature</link>
+      <description>Futurism: &amp;#8220;On Thursday, Google announced that it added an image generation tool straight into the web browser version of the app, allowing anyone to fabricate made-up satellite images of anywhere in the world. It was clearly a misinformation disaster. The AI tool, powered by Google’s Nano Banana 2 model, could make a neighborhood look like it’d suffered aerial strikes, turn unsuspecting locales into a warzone, and depict a city as the site of a natural disaster.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://futurism.com/artificial-intelligence/google-pulls-down-google-earth-ai-feature</guid>
+    </item>
+    <item>
+      <title>Data centers have a politics problem — and industry knows it</title>
+      <link>https://www.politico.com/news/2026/08/01/data-centers-have-a-politics-problem-and-industry-knows-it-01020412</link>
+      <description>Politico: &amp;#8220;Fears that the server-packed data hubs will drive up electricity prices, deplete water supplies and gobble farmland have prompted people across the country to pack meetings of zoning boards and county commissions to oppose the projects, while fueling calls from leaders in both parties for state or national moratoriums.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://www.politico.com/news/2026/08/01/data-centers-have-a-politics-problem-and-industry-knows-it-01020412</guid>
+    </item>
+    <item>
+      <title>OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs</title>
+      <link>https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html</link>
+      <description>CNBC: &amp;#8220;The company said Thursday that it’s reducing the price of Terra by 20% to $2 per million input tokens and $12 per million output tokens. It’s cutting the cost of Luna by 80% to 20 cents per million input tokens and $1.20 per million output tokens. Sol’s pricing remains the same.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html</guid>
+    </item>
+    <item>
+      <title>Chinese AI models are getting better and cheaper and Australian businesses are taking notice</title>
+      <link>https://www.abc.net.au/news/2026-08-01/chinese-ai-moonshot-openai-anthropic-sovereignty/106957944</link>
+      <description>ABC News (Australia): &amp;#8220;Chinese-developed AI models are becoming more advanced and cheaper to deploy, which is threatening US dominance. Financial markets are rattled, adding to concerns about whether massive investment in AI will generate adequate returns.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://www.abc.net.au/news/2026-08-01/chinese-ai-moonshot-openai-anthropic-sovereignty/106957944</guid>
+    </item>
+    <item>
+      <title>AI authentication tools are built without adequate journalist input, new report finds</title>
+      <link>https://www.niemanlab.org/2026/07/ai-authentication-tools-are-built-without-proper-journalist-input-new-report-finds/</link>
+      <description>NiemanLab: &amp;#8220;In June, dozens of journalists, technologists, and academics gathered at NYU’s Arthur L. Carter Journalism Institute in Manhattan to discuss this growing threat to authentication and verification work. Hosted by Princeton’s Center for Information Technology Policy (CITP), the day-long workshop included expert panels, presentations, and breakout discussions.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://www.niemanlab.org/2026/07/ai-authentication-tools-are-built-without-proper-journalist-input-new-report-finds/</guid>
+    </item>
+    <item>
+      <title>Dwindling cash and soaring memory costs: Tech’s AI buildout has ballooning price tag</title>
+      <link>https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html</link>
+      <description>CNBC: &amp;#8220;AI spending among the megacaps is projected to reach $765 billion this year, before rising to nearly $1.2 trillion in 2027, according to Goldman Sachs. Amazon boosted its capital spending forecast for the year on Thursday to $220 billion, the highest among the four hyperscalers.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html</guid>
+    </item>
+    <item>
+      <title>EU to crack down on AI deepfakes, illicit imagery and hacking with new team in Brussels</title>
+      <link>https://apnews.com/article/eu-ai-regulation-deepfakes-hacking-f4fcee1f9750e2b32cdf26ad73ee5ec2</link>
+      <description>Associated Press: &amp;#8220;The European Union rolled out a new team on Friday to rein in AI companies across the world, in one of the most aggressive regulations the high-tech sector has so far faced as fears rise over the risks the rapidly advancing technology poses to people, politics and prosperity.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://apnews.com/article/eu-ai-regulation-deepfakes-hacking-f4fcee1f9750e2b32cdf26ad73ee5ec2</guid>
+    </item>
+    <item>
+      <title>Amazon finds cases of AI causing runaway spending on tech projects</title>
+      <link>https://www.ft.com/content/77baac40-d803-4084-94f3-a133653072cf?syn-25a6b1a6=1</link>
+      <description>Financial Times: &amp;#8220;Amazon staff have identified cases of what they called “catastrophically expensive” cost overruns caused by mistakes in how the company has deployed AI and a lack of spending controls. Senior engineers told colleagues in a staff meeting on Tuesday that attempts to switch tasks from conventional programming to using AI models had led to “unplanned” spending, said multiple people familiar with the matter.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://www.ft.com/content/77baac40-d803-4084-94f3-a133653072cf?syn-25a6b1a6=1</guid>
+    </item>
+    <item>
+      <title>When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic</title>
+      <link>https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html?unlocked_article_code=1.1lA.HuPv.i-2NDnqGWEIE&amp;#038;smid=url-share</link>
+      <description>New York Times: This link goes to a gift article. &amp;#8220;The document was a systematic takedown of writers of fan fiction inspired by &amp;#8216;Heated Rivalry&amp;#8217; — the enemies-to-lovers male-male hockey romance — who had used artificial intelligence to generate parts of their stories. It named 38 popular fan stories that had taken text from Anthropic’s Claude chatbot, including works by some of the community’s most read writers.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html?unlocked_article_code=1.1lA.HuPv.i-2NDnqGWEIE&amp;#038;smid=url-share</guid>
+    </item>
+    <item>
+      <title>Reddit&amp;#8217;s CEO sure seems frustrated with Google&amp;#8217;s AI overviews</title>
+      <link>https://www.engadget.com/2227553/reddit-s-ceo-sure-seems-frustrated-with-google-s-ai-overviews/</link>
+      <description>Engadget: &amp;#8220;You can add Reddit CEO Steve Huffman to the growing list of publishers, platforms and others who are frustrated with the state of Google search and AI Overviews. &amp;#8216;People don&amp;#8217;t want a summary of Reddit; they want Reddit,&amp;#8217; he wrote in a letter to shareholders ahead of the company&amp;#8217;s second-quarter earnings call.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://www.engadget.com/2227553/reddit-s-ceo-sure-seems-frustrated-with-google-s-ai-overviews/</guid>
+    </item>
+    <item>
+      <title>US court revives lawsuit claiming AI software fueled price-gouging by New Jersey casinos</title>
+      <link>https://www.reuters.com/legal/government/us-court-revives-lawsuit-claiming-ai-software-fueled-price-gouging-by-new-jersey-2026-07-29/</link>
+      <description>Reuters: &amp;#8220;A federal appeals court on Wednesday revived a proposed antitrust class action that alleges ​major casino operators in Atlantic City, New Jersey, ‌used an AI-powered revenue management platform to coordinate on room prices and overcharge guests.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://www.reuters.com/legal/government/us-court-revives-lawsuit-claiming-ai-software-fueled-price-gouging-by-new-jersey-2026-07-29/</guid>
+    </item>
+    <item>
+      <title>Meta is bragging about how its AI keeps people on Instagram, while facing lawsuits over addiction</title>
+      <link>https://www.techspot.com/news/113295-meta-bragging-about-how-ai-keeps-people-instagram.html</link>
+      <description>TechSpot: &amp;#8220;Social media addiction has been a subject of public debate for years, but time spent on apps like TikTok and Instagram keeps climbing. Meta has now confirmed it&amp;#8217;s using AI to personalize the Instagram feed, and that shift is driving a sharp increase in the amount of time users spend on the platform.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://www.techspot.com/news/113295-meta-bragging-about-how-ai-keeps-people-instagram.html</guid>
+    </item>
+    <item>
+      <title>Why eGoT gets better answers: Scientists teach AI to connect the dots across domains</title>
+      <link>https://news.northeastern.edu/2026/07/30/ai-reasoning-algorithm-research/</link>
+      <description>Northeastern University: &amp;#8220;Northeastern scientists from the Neural Dynamics Group develop an algorithm that allows machines to link information in different fields and extract more nuanced responses.&amp;#8221;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://news.northeastern.edu/2026/07/30/ai-reasoning-algorithm-research/</guid>
+    </item>
+    <item>
+      <title>AI models favor familiar brands in search: Study</title>
+      <link>https://searchengineland.com/ai-models-favor-familiar-brands-search-study-484054</link>
+      <description>Search Engine Land: &amp;#8220;AI models searched for brands they already knew 3.2 times more often than unfamiliar brands, according to a new study. Models searched for familiar brands 55.7% of the time, compared with 17.4% for brands outside their top 10, geoSurge found.&amp;#8221; Good morning, Internet&amp;#8230;</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://searchengineland.com/ai-models-favor-familiar-brands-search-study-484054</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Sun, 02 Aug 2026 14:37:06 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>Portage history goes digital with Manitoba photo archive</title>
       <link>https://www.winnipegsun.com/news/portage/portage-history-goes-digital-with-manitoba-photo-archive/article_0747b125-37e1-54fb-95bb-d778d24d87d3.html</link>
@@ -477,7 +582,7 @@
     <item>
       <title>Artist sues AI meme generator for selling deeply personal comic as ad template</title>
       <link>https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/</link>
-      <description>Ars Technica: &amp;#8220;Artist Elmer Saflor, who goes by the online handle “Superelmer,” loves that millions of people have shared his “Running Away Balloon” comic since it became a popular meme in 2017. However, just because lots of people have copied it, that doesn’t mean it’s OK for an AI meme generator to commercialize his copyrighted meme as a template for who knows how many ads, he told Ars.&amp;#8221;</description>
+      <description>Ars Technica: &amp;#8220;Artist Elmer Saflor, who goes by the online handle ��Superelmer,” loves that millions of people have shared his “Running Away Balloon” comic since it became a popular meme in 2017. However, just because lots of people have copied it, that doesn’t mean it’s OK for an AI meme generator to commercialize his copyrighted meme as a template for who knows how many ads, he told Ars.&amp;#8221;</description>
       <pubDate>Thu, 30 Jul 2026 20:56:04 +0000</pubDate>
       <guid>https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/</guid>
     </item>
@@ -738,118 +843,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Wed, 29 Jul 2026 19:31:46 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>As Gallup officials respond to recent flooding, they say an AI news outlet is getting in the way</title>
-      <link>https://sourcenm.com/2026/07/27/as-gallup-officials-respond-to-recent-flooding-they-say-an-ai-news-outlet-is-getting-in-the-way/</link>
-      <description>Source NM: &amp;#8220;Local officials said in addition to grappling with natural disasters, they were also responding to a new AI news outlet named Prism McKinley County that they say has regularly published false and misleading information in a time of crisis. For instance, within the last week, Prism published a story about a woman drowning in floods, but the death occurred last year, according to Matt Robinson, Gallup’s tourism and marketing manager.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://sourcenm.com/2026/07/27/as-gallup-officials-respond-to-recent-flooding-they-say-an-ai-news-outlet-is-getting-in-the-way/</guid>
-    </item>
-    <item>
-      <title>Misleading AI-generated doctors pose ‘huge danger to public safety’</title>
-      <link>https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok</link>
-      <description>The Guardian: &amp;#8220;Misleading health claims online pose a &amp;#8216;huge danger to public safety&amp;#8217;, experts have warned, after research has shown that AI-generated doctors are gaining millions of views on TikTok by spreading dubious health advice.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok</guid>
-    </item>
-    <item>
-      <title>China&amp;#8217;s new challenge as natural disasters strike &amp;#8211; fake AI videos</title>
-      <link>https://www.bbc.com/news/articles/cx27mjvxgg1o</link>
-      <description>BBC: &amp;#8220;Powerful storms and flooding incidents over the last few months have seen fake videos inundating social media platforms – these include images of dead bodies floating in floodwaters, the false depiction of severe flooding in areas actually not affected and others with blatantly fake details of emergency response efforts. In some areas, videos containing false information about power outages prompted residents to panic buy emergency supplies.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://www.bbc.com/news/articles/cx27mjvxgg1o</guid>
-    </item>
-    <item>
-      <title>NV Energy sues to block private arbitration for 2-gigawatt data center projects</title>
-      <link>https://thisisreno.com/2026/07/nv-energy-data-center-lawsuit/</link>
-      <description>This is Reno: &amp;#8220;NV Energy filed a lawsuit Friday in Washoe County Second Judicial District Court seeking to block a private arbitration involving a large proposed data center development. The public utility argues that decisions about electric service, utility planning and customer costs belong exclusively before state utility regulators rather than a private arbitrator.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://thisisreno.com/2026/07/nv-energy-data-center-lawsuit/</guid>
-    </item>
-    <item>
-      <title>Is Hawthorne Race Course being torn down for a data center? Cicero thinks so.</title>
-      <link>https://chicago.suntimes.com/2026/07/27/hawthorne-race-course-horse-track-buyer-data-center-developer-stickney-cicero-ai-artificial-intelligence</link>
-      <description>Chicago Sun-Times: &amp;#8220;Cicero officials believe there could be plans in the works for a data center to replace the Hawthorne Race Course, which recently closed after 135 years of horse racing. In a symbol of how unpopular data center developments have become, the trustees of the near western suburb are expected to consider two resolutions opposing data centers when they meet Tuesday — even though no official announcements have been made about any projects.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://chicago.suntimes.com/2026/07/27/hawthorne-race-course-horse-track-buyer-data-center-developer-stickney-cicero-ai-artificial-intelligence</guid>
-    </item>
-    <item>
-      <title>Professor&amp;#8217;s invisible prompt trap catches 32 students cheating on their midterm with AI</title>
-      <link>https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html</link>
-      <description>TechSpot: &amp;#8220;Modern problems require modern solutions – according to the meme. In this case, the issue is students using AI to cheat on assignments. The solution, used to great effect by one professor, was to hide a white-colored font in the assignment prompt telling the AI to talk nonsense about an unrelated subject.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://www.techspot.com/news/113243-professor-invisible-prompt-trap-catches-32-students-cheating.html</guid>
-    </item>
-    <item>
-      <title>Texas’ multibillion-dollar sales tax exemption for data centers is growing, while audits lag</title>
-      <link>https://www.texastribune.org/2026/07/27/texas-data-centers-sales-tax-break-audits/</link>
-      <description>Texas Tribune: &amp;#8220;Texas’ multibillion-dollar estimate for what it will lose on sales tax breaks for data centers is growing, but the Comptroller’s Office warned lawmakers on Monday they have little information about whether data centers are meeting their promises to be eligible for the exemption.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://www.texastribune.org/2026/07/27/texas-data-centers-sales-tax-break-audits/</guid>
-    </item>
-    <item>
-      <title>Gov. Kemp backs Georgia data centers despite worries about AI’s risks</title>
-      <link>https://thecurrentga.org/2026/07/27/gov-kemp-backs-georgia-data-centers-despite-worries-about-ais-risks/</link>
-      <description>The Current Georgia: &amp;#8220;Gov. Brian Kemp weighed in on the rush to develop artificial intelligence, calling the technology &amp;#8216;scary&amp;#8217; while also welcoming data centers to Georgia and criticizing others who would pause their development.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://thecurrentga.org/2026/07/27/gov-kemp-backs-georgia-data-centers-despite-worries-about-ais-risks/</guid>
-    </item>
-    <item>
-      <title>A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands</title>
-      <link>https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html?unlocked_article_code=1.1VA.e8sV.PdyR8boC53M4&amp;#038;smid=nytcore-ios-share</link>
-      <description>New York Times: This link goes to a gift article. &amp;#8220;There is no parallel in American history for the boom underway in the construction of data centers, fueled by companies with functionally unlimited cash that are racing to supply skyrocketing demand for their A.I. models. The explosion has offset flagging activity in other sectors, like office construction, which never recovered after the pandemic. Housing has been depressed by high interest rates, and offshore wind felled by political opposition. Still, competition for labor — never mind land and materials — is starting to weigh on other parts of the industry.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html?unlocked_article_code=1.1VA.e8sV.PdyR8boC53M4&amp;#038;smid=nytcore-ios-share</guid>
-    </item>
-    <item>
-      <title>PwC published reports on AI marred by AI hallucinations</title>
-      <link>https://www.ft.com/content/7e149ac8-2ce2-4266-8940-192f9821b33c?countryCode=USA&amp;#038;multistepRegForm=multistep&amp;#038;syn-25a6b1a6=1</link>
-      <description>Financial Times: &amp;#8220;PwC published reports on AI and electric vehicles riddled with fake footnotes, misattributed claims and unverifiable information, the latest example of a Big Four firm’s slapdash use of AI-generated content. The AI hallucinations were contained in &amp;#8216;thought leadership&amp;#8217; reports designed to drum up consulting work for partners in the Middle East, according to an investigation by researchers at GPTZero verified by the FT.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://www.ft.com/content/7e149ac8-2ce2-4266-8940-192f9821b33c?countryCode=USA&amp;#038;multistepRegForm=multistep&amp;#038;syn-25a6b1a6=1</guid>
-    </item>
-    <item>
-      <title>Firefox&amp;#8217;s New Tab page is getting a daily crossword built from AI-summarized news</title>
-      <link>https://www.techspot.com/news/113244-firefox-adding-ai-powered-daily-crossword-turns-news.html</link>
-      <description>TechSpot: &amp;#8220;Mozilla is adding new widgets to Firefox&amp;#8217;s New Tab page, including an AI-powered crossword puzzle tied to current news. The feature is powered by Particle, an AI news reader that summarizes articles and uses that material to build a daily puzzle based on the day&amp;#8217;s headlines.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://www.techspot.com/news/113244-firefox-adding-ai-powered-daily-crossword-turns-news.html</guid>
-    </item>
-    <item>
-      <title>Indexed Claude Chats Show Why Disallow Is Not Noindex</title>
-      <link>https://www.searchenginejournal.com/indexed-claude-chats-show-why-disallow-is-not-noindex/583852/</link>
-      <description>Search Engine Journal: &amp;#8220;Anthropic told TechCrunch that share links will appear in search results only if people post them in accessible locations for crawlers, and that links sent through private messages won’t be indexed&amp;#8230;. Google spokesperson Ned Adriance stated that search engines do not determine which pages are made public, and that Google provides site owners with control over crawling and indexing and follows those controls.&amp;#8221; You&amp;#8217;d think a company awash with so much money would make more effort to protect user privacy.</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://www.searchenginejournal.com/indexed-claude-chats-show-why-disallow-is-not-noindex/583852/</guid>
-    </item>
-    <item>
-      <title>Nvidia forms industry alliance for open AI security after Hugging Face hack</title>
-      <link>https://www.reuters.com/business/nvidia-forms-industry-alliance-open-ai-security-after-hugging-face-hack-2026-07-27/</link>
-      <description>Reuters: &amp;#8220;Nvidia said on Monday it had formed a coalition with other companies to develop and share tools for AI safety ​and cybersecurity, days after the Hugging Face incident drew attention to ‌the dangers of losing control of autonomous AI agents.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://www.reuters.com/business/nvidia-forms-industry-alliance-open-ai-security-after-hugging-face-hack-2026-07-27/</guid>
-    </item>
-    <item>
-      <title>AI chatbots citing Russian propaganda sourced from EU-sanctioned outlet</title>
-      <link>https://www.euronews.com/my-europe/2026/07/27/ai-chatbots-citing-russian-propaganda-sourced-from-eu-sanctioned-outlet</link>
-      <description>Euronews: &amp;#8220;AI chatbots are citing Russia propaganda from EU-sanctioned outlets, researchers say, raising questions about how hybrid warfare is expanding to influence large language models (LLMs). Mainstream large language models (LLMs) such as Google Gemini have reportedly cited pro-Russian propaganda from an EU-sanctioned outlet when generating responses, including claims that Ukraine is using the bodies of dead soldiers in meat products.&amp;#8221;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://www.euronews.com/my-europe/2026/07/27/ai-chatbots-citing-russian-propaganda-sourced-from-eu-sanctioned-outlet</guid>
-    </item>
-    <item>
-      <title>Working to Combat Propaganda in Overlooked Languages</title>
-      <link>https://home.dartmouth.edu/news/2026/07/working-combat-propaganda-overlooked-languages</link>
-      <description>Dartmouth College: &amp;#8220;Anew study led by Fabrice Niyigaba ’27 reports the first digital tool for identifying online propaganda in Kinyarwanda, the national language of Rwanda’s 15 million people—and possibly the first for any of the Bantu languages spoken by 350 million Africans.&amp;#8221; Good afternoon, Internet&amp;#8230;</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
-      <guid>https://home.dartmouth.edu/news/2026/07/working-combat-propaganda-overlooked-languages</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Wed, 29 Jul 2026 17:51:26 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
