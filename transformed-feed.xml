@@ -4,7 +4,119 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 14:39:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:38:07 GMT</lastBuildDate>
+    <item>
+      <title>Three more NC localities weigh pauses on data centers as developer backs away from Raleigh project</title>
+      <link>https://ncnewsline.com/2026/08/17/three-more-nc-localities-weigh-pauses-on-data-centers-as-developer-backs-away-from-raleigh-project/</link>
+      <description>NC Newsline: &amp;#8220;Recent polling shows growing opposition to data centers in North Carolina.  That trend is being reflected across the state Monday, with three more cities and counties considering putting data project developments on pause, while a proposal to build one in Raleigh was withdrawn Saturday.&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://ncnewsline.com/2026/08/17/three-more-nc-localities-weigh-pauses-on-data-centers-as-developer-backs-away-from-raleigh-project/</guid>
+    </item>
+    <item>
+      <title>Exclusive: GOP issues stark warning to AI companies</title>
+      <link>https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election</link>
+      <description>Axios: &amp;#8220;AI CEOs and top Republicans share in the rising panic. They tell us internal polls show data centers are as popular as spent nuclear waste, and more broadly have become a proxy for feelings about AI.&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://www.axios.com/2026/08/19/gop-data-center-memo-ai-election</guid>
+    </item>
+    <item>
+      <title>Cherokee Nation bans hyperscale data centers on its lands, won&amp;#8217;t support projects without consultation — energy and water consumption, air quality, noise, and cultural resource protection among concerns</title>
+      <link>https://www.tomshardware.com/tech-industry/data-centers/largest-tribe-in-the-us-bans-hyperscale-data-centers-on-its-lands</link>
+      <description>Tom&amp;#8217;s Hardware: &amp;#8220;Cherokee Nation, the largest tribe in the U.S. with more than 475,000 citizens, has banned hyperscale data center development on its tribally owned and trust lands, after a task force convened by Principal Chief Chuck Hoskin Jr. found that 64% of 1,593 surveyed citizens opposed construction of the facilities inside the tribe&amp;#8217;s 14-county reservation in northeastern Oklahoma.&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://www.tomshardware.com/tech-industry/data-centers/largest-tribe-in-the-us-bans-hyperscale-data-centers-on-its-lands</guid>
+    </item>
+    <item>
+      <title>I didn&amp;#8217;t think an ESP32 could run an LLM — until it did</title>
+      <link>https://www.makeuseof.com/didnt-think-esp32-run-llm-it-did/</link>
+      <description>MakeUseOf: &amp;#8220;A developer going by slvDev shipped a project that runs a 28.9-million-parameter model on the same class of $8 chip, at around 9.5 tokens per second, with nothing sent to a server. That&amp;#8217;s roughly a hundred times more parameters than Bennett&amp;#8217;s model, on similar hardware. What changed is the assumption that every parameter needs to be fast.&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://www.makeuseof.com/didnt-think-esp32-run-llm-it-did/</guid>
+    </item>
+    <item>
+      <title>Binance now lets AI agents trade, but keeping them in check is largely up to users</title>
+      <link>https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/</link>
+      <description>TechCrunch: &amp;#8220;Binance, the world’s largest crypto exchange with more than 300 million registered users, on Thursday launched a platform that lets AI agents analyze markets and execute trades on users’ behalf, bringing autonomous AI directly into the business of managing real money.&amp;#8221; Today in &amp;#8220;what could possibly go wrong?&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/</guid>
+    </item>
+    <item>
+      <title>Cornell Tech’s New Faculty Are Changing How AI Learns, Reasons, and Solves Problems</title>
+      <link>https://tech.cornell.edu/news/cornell-tech-new-faculty-2026-2027/</link>
+      <description>Cornell University: &amp;#8220;Six new faculty members will join Cornell Tech during the coming year, bringing expertise in artificial intelligence, machine learning, programming languages, and operations research at a pivotal moment for the future of computing. Their work tackles some of the field’s most pressing questions: How can AI systems become more trustworthy, adaptable, and efficient? How can they learn from data more responsibly and sustainably? And how can advances in computing drive breakthroughs across science, industry, and society?&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://tech.cornell.edu/news/cornell-tech-new-faculty-2026-2027/</guid>
+    </item>
+    <item>
+      <title>Nvidia’s AI moat is shifting from chips to capital</title>
+      <link>https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html</link>
+      <description>CNBC: &amp;#8220;Following last week’s pact with Wall Street firms to pursue $500 billion worth of financing for Nvidia’s graphics processing units, Nvidia said Monday that it’s providing up to $105 billion for a giant OpenAI data center in Ohio, offering a backstop of sorts should the ChatGPT creator see its fortunes turn.&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html</guid>
+    </item>
+    <item>
+      <title>Gov. Josh Shapiro takes a hard line against ‘predatory’ data center developers in Pennsylvania</title>
+      <link>https://www.nbcnews.com/politics/2028-election/gov-josh-shapiro-executive-order-data-centers-pennsylvania-rcna593177</link>
+      <description>NBC News: &amp;#8220;Pennsylvania Gov. Josh Shapiro announced significant restrictions on data center projects Tuesday, signing an executive order to stop &amp;#8216;predatory&amp;#8217; backers and &amp;#8216;bad proposals from infecting our commonwealth.&apos;&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://www.nbcnews.com/politics/2028-election/gov-josh-shapiro-executive-order-data-centers-pennsylvania-rcna593177</guid>
+    </item>
+    <item>
+      <title>Opinion | An FT column was condensed with AI. It crossed a novel ethical line.</title>
+      <link>https://www.poynter.org/commentary/2026/financial-times-column-ai-column-condensed/</link>
+      <description>Poynter: &amp;#8220;Every week seems to bring a new scandal at the crossroads of journalism and artificial intelligence: plagiarism, outright fabrication, em dashes and &amp;#8216;not this but that&amp;#8217; galore. Using AI to condense a writer’s work, though, is a somewhat novel addition to the genre.&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://www.poynter.org/commentary/2026/financial-times-column-ai-column-condensed/</guid>
+    </item>
+    <item>
+      <title>Google’s new AI tool helps fact-checkers investigate AI fakes</title>
+      <link>https://www.niemanlab.org/2026/08/googles-new-ai-tool-helps-fact-checkers-investigate-ai-fakes/</link>
+      <description>NiemanLab: &amp;#8220;Every day the fact-checking team for one of India’s largest news organizations works to debunk a slew of false and misleading images circulating across social media. For the six-person team at India Today, that might include addressing an AI-generated archival photograph of a politician, a clip of deadly flooding ripped from its original context, or a full-on deepfake of India’s richest man. Backstory, an experimental tool from Google’s AI research lab, Google DeepMind, is helping India Today sort through this stream of slop, scams, and disinformation.&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://www.niemanlab.org/2026/08/googles-new-ai-tool-helps-fact-checkers-investigate-ai-fakes/</guid>
+    </item>
+    <item>
+      <title>Chatbots Are Pushing Us Toward a Post-Human Internet</title>
+      <link>https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html?unlocked_article_code=1.51A.lYk6.lvNYTv7QIlHE&amp;#038;smid=url-share</link>
+      <description>New York Times: This link goes to a gift article. &amp;#8220;Depending on whom you ask, bot loops might be banal, dystopian or genuinely useful. No matter how people feel about them, researchers say we’re going to see bot loops much more often as we deputize A.I. systems to do our bidding.&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html?unlocked_article_code=1.51A.lYk6.lvNYTv7QIlHE&amp;#038;smid=url-share</guid>
+    </item>
+    <item>
+      <title>Google Search pauses AI-generated images within AI Overviews</title>
+      <link>https://searchengineland.com/google-search-pauses-ai-generated-images-within-ai-overviews-485148</link>
+      <description>Search Engine Land: &amp;#8220;Google has paused an experiment within Google Search to create AI-generated images within AI Overviews for recipe results. Robby Stein, VP of Product at Google, replied to this test minutes ago saying, &amp;#8216;This was a small experiment we’re no longer running.&apos;&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://searchengineland.com/google-search-pauses-ai-generated-images-within-ai-overviews-485148</guid>
+    </item>
+    <item>
+      <title>Anthropic Explains Its Watermark System as Some Claude Users Loudly Revolt</title>
+      <link>https://gizmodo.com/anthropic-explains-its-watermark-system-as-some-claude-users-loudly-revolt-2000799022</link>
+      <description>Gizmodo: &amp;#8220;In a blog post on Friday, Anthropic elaborated on its controversial watermarking system, announced earlier this week as an effort to comply with the European Union’s Artificial Intelligence Act. Watermarking will make it harder for users to get away with pretending they wrote AI-generated text.&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://gizmodo.com/anthropic-explains-its-watermark-system-as-some-claude-users-loudly-revolt-2000799022</guid>
+    </item>
+    <item>
+      <title>Cargo thieves are staging car crashes to steal AI data center hardware</title>
+      <link>https://www.techspot.com/news/113463-cargo-thieves-staging-car-crashes-steal-ai-data.html</link>
+      <description>TechSpot: &amp;#8220;Cargo thieves are targeting equipment used in AI data centers, from server switches to cooling systems and networking hardware. In two recent California cases, criminals appear to have used car crashes to separate trucks from their security escorts before the shipments vanished. The incidents highlight how organized groups are using carrier-identity fraud, GPS manipulation and, increasingly, aggressive roadside tactics to steal high-value tech moving through the freight network.&amp;#8221;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://www.techspot.com/news/113463-cargo-thieves-staging-car-crashes-steal-ai-data.html</guid>
+    </item>
+    <item>
+      <title>Young adults in the U.S. are increasingly wary of AI, concerned it will take jobs</title>
+      <link>https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/</link>
+      <description>Pew (PEW PEW PEW PEW PEW!): &amp;#8220;Today, 52% of Americans say they are more concerned than excited about the increased use of AI in daily life – up from 37% in 2021. Another 9% are more excited than concerned and 37% say they’re equally excited and concerned, according to a Pew Research Center survey conducted June 22-28, 2026.&amp;#8221; Good morning, Internet&amp;#8230;</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Thu, 20 Aug 2026 14:58:58 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>Arkansas Department of Agriculture Launches New Active Wildfire Dashboard</title>
       <link>https://agriculture.arkansas.gov/news/arkansas-department-of-agriculture-launches-new-active-wildfire-dashboard/</link>
@@ -759,118 +871,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Mon, 17 Aug 2026 01:27:11 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>Grok Calls for Assassination of Elon Musk, Accusing Him of Pedophilia</title>
-      <link>https://futurism.com/future-society/grok-calls-for-assassination-elon-musk</link>
-      <description>Futurism: &amp;#8220;Elon Musk’s “maximum truth-seeking” AI Grok is dropping some nuclear takes about its creator. &amp;#8216;ELON MUSK WATCHES CHILD PORN,&amp;#8217; the notoriously foul-mouthed chatbot raged on X this Tuesday. Shortly afterwards, as if hyping up a political campaign, it called for violence: &amp;#8216;ASSASSINATE ELON MUSK 2026.&apos;&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://futurism.com/future-society/grok-calls-for-assassination-elon-musk</guid>
-    </item>
-    <item>
-      <title>OpenAI Says Robots.txt May Not Apply To ChatGPT’s Fetch Bot</title>
-      <link>https://www.searchenginejournal.com/openai-says-robots-txt-may-not-apply-to-chatgpts-fetch-bot/585864/</link>
-      <description>Search Engine Journal: &amp;#8220;ChatGPT’s page-fetching bot is disallowed by more sites than any other AI bot of its kind. It also reached disallowed pages on more sites than any other bot. OpenAI says robots.txt rules may not apply to it because a person asked for the page.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://www.searchenginejournal.com/openai-says-robots-txt-may-not-apply-to-chatgpts-fetch-bot/585864/</guid>
-    </item>
-    <item>
-      <title>Is the Maine news on your social media feed AI-generated? How you can tell.</title>
-      <link>https://www.sunjournal.com/2026/08/15/is-the-maine-news-on-your-social-media-feed-ai-generated-how-you-can-tell/</link>
-      <description>Sun-Journal: &amp;#8220;Paywall-free, editorially derelict and tuned for social media engagement, AI local news is exploding online in Maine in the age of the attention-grabbing algorithm and declining trust in legacy media. While some avid news readers are skeptical of these sites, others engage unknowingly, with the sometimes misleading, often inaccurate content. Experts say AI news is straining an already-fraying information ecosystem across Maine and the U.S.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://www.sunjournal.com/2026/08/15/is-the-maine-news-on-your-social-media-feed-ai-generated-how-you-can-tell/</guid>
-    </item>
-    <item>
-      <title>The data center industry’s PR blitz is backfiring</title>
-      <link>https://alabamareflector.com/2026/08/15/the-data-center-industrys-pr-blitz-is-backfiring/</link>
-      <description>Alabama Reflector: &amp;#8220;The public relations push isn’t working, said Jeremy Solomon, president and founder of Learnewable. His company uses AI to analyze government ordinances, moratoria and public comments about data centers, renewable energy and electric transmission projects in each of the nation’s 3,144 counties. Nationwide, approximately one in seven counties now has some form of restriction, Solomon said, and advertising won’t win the public’s trust.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://alabamareflector.com/2026/08/15/the-data-center-industrys-pr-blitz-is-backfiring/</guid>
-    </item>
-    <item>
-      <title>Data centers guzzle Arizona&amp;#8217;s water and power. We calculated how much</title>
-      <link>https://tucson.com/news/state-regional/business/article_b3a1166d-ec2f-4006-91d3-611942ac87e1.html</link>
-      <description>Arizona Republic: &amp;#8220;The Republic found that data centers already operating in the region have a combined capacity of at least 2.3 gigawatts. That&amp;#8217;s enough power to serve a medium-sized city composed of 300,000 to 500,000 homes. Planned data centers could bring at least 8.5 additional gigawatts onto the local grid. That&amp;#8217;s roughly equivalent to the amount of power it takes to serve 1.3 million to 1.9 million homes. Phoenix has about 630,000 housing units; the broader metro area has a little over 2 million homes.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://tucson.com/news/state-regional/business/article_b3a1166d-ec2f-4006-91d3-611942ac87e1.html</guid>
-    </item>
-    <item>
-      <title>Meta Louisiana Data Center: What the $50 Billion Hyperion Project Means for Electricity Bills</title>
-      <link>https://www.brweeklypress.com/meta-louisiana-data-center-what-the-50-billion-hyperion-project-means-for-electricity-bills/</link>
-      <description>Baton Rouge Weekly Press: &amp;#8220;Meta’s massive Louisiana data center project is becoming about much more than artificial intelligence, economic development and a $50 billion investment. It is becoming a question for Louisiana electricity customers: Who ultimately carries the financial risk of building the enormous power infrastructure needed for Meta’s Hyperion data center in Richland Parish?&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://www.brweeklypress.com/meta-louisiana-data-center-what-the-50-billion-hyperion-project-means-for-electricity-bills/</guid>
-    </item>
-    <item>
-      <title>Google announces Gemini 3.7 Flash just three weeks after previous release</title>
-      <link>https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/</link>
-      <description>Ars Technica: &amp;#8220;Gemini 3.7 Flash is now rolling out to replace 3.6 Flash, which itself was released only three weeks ago. This new &amp;#8216;workhorse&amp;#8217; model is supposedly the product of core optimizations and developer feedback, offering improved coding and agentic performance.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/</guid>
-    </item>
-    <item>
-      <title>Ohio schools now required to enforce an AI policy</title>
-      <link>https://spectrumnews1.com/oh/cincinnati/news-all-day/2026/08/14/ai--schools--learning--ohio--policy</link>
-      <description>Spectrum News: &amp;#8220;The state of Ohio now requires all grades K-12 schools to adopt an AI policy. State officials say it allows schools to integrate the software to help students learn and process new material.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://spectrumnews1.com/oh/cincinnati/news-all-day/2026/08/14/ai--schools--learning--ohio--policy</guid>
-    </item>
-    <item>
-      <title>Chatbots are doing the work of Congress with little oversight</title>
-      <link>https://www.spokesman.com/stories/2026/aug/13/chatbots-are-doing-the-work-of-congress-with-littl/</link>
-      <description>Washington Post: &amp;#8220;Across the Capitol, lawmakers and staffers are using artificial intelligence to write speeches and news releases, sort constituent mail, prepare questions for congressional hearings and draft amendments. Even as politicians are debating how to govern AI for the rest of America, Congress has already settled how it will use the technology: quickly, broadly and with little oversight.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://www.spokesman.com/stories/2026/aug/13/chatbots-are-doing-the-work-of-congress-with-littl/</guid>
-    </item>
-    <item>
-      <title>Google Opens the Gates of AI Slop Hell</title>
-      <link>https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888</link>
-      <description>Gizmodo: &amp;#8220;Google Gemini has a new feature: Letting users generate AI slop without visible watermarks to identify it. The official Twitter account for the LLM announced on Friday (news dump, everyone!) that users will soon gain the ability to &amp;#8216;decide if your image, video, and music creations made with Gemini will have visible watermarks.&amp;#8217; Now it’s a toggle.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://gizmodo.com/google-opens-the-gates-of-ai-slop-hell-2000798888</guid>
-    </item>
-    <item>
-      <title>Google AI Overviews With AI-Generated Images In The Wild</title>
-      <link>https://www.seroundtable.com/ai-generated-images-google-ai-overviews-41872.html</link>
-      <description>Search Engine Roundtable: &amp;#8220;A month ago, we reported that Google said it would be rolling out AI-generated images within AI Overviews in Google Search. Well, it seems Google is starting to roll out those AI-generated images in AI Overviews this week.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://www.seroundtable.com/ai-generated-images-google-ai-overviews-41872.html</guid>
-    </item>
-    <item>
-      <title>Russian missile uses Nvidia AI chip to help target Ukraine</title>
-      <link>https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976</link>
-      <description>The Register: &amp;#8220;The Defense Ministry’s Intelligence Directorate (GUR) reported this week that it spotted an Nvidia Jetson Orin module in the remains of a Russian S-71 Monochrome cruise missile. The S-71M is an air-launched weapon with autonomous capabilities that can reportedly search for and engage targets using optical sensors and onboard computing.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://www.theregister.com/offbeat/2026/08/14/russian-missile-uses-nvidia-ai-chip-to-help-target-ukraine/5287976</guid>
-    </item>
-    <item>
-      <title>Connecticut judge says plaintiff hid messages for AI in court filings</title>
-      <link>https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/</link>
-      <description>Reuters: &amp;#8220;A state judge in Connecticut said a plaintiff in a case before him included &amp;#8216;hidden text&amp;#8217; in court filings meant to serve as instructions to any AI system reviewing the documents.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/</guid>
-    </item>
-    <item>
-      <title>Volunteer Develops Machine-Learning Tool to Identify Rare Clouds</title>
-      <link>https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/</link>
-      <description>NASA: &amp;#8220;Certain kinds of clouds are misbehaving – appearing more often and lower in the sky than they used to. To help identify the factors influencing these changes (e.g. shifts in Earth’s long-term weather patterns), scientists have asked people around the world with cameras to submit fresh images of these clouds as a part of the NASA-supported Space Cloud Watch project. Now, one volunteer has developed a new tool to help other Space Cloud Watch volunteers work more efficiently.&amp;#8221;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://science.nasa.gov/get-involved/citizen-science/volunteer-develops-machine-learning-tool-to-identify-rare-clouds/</guid>
-    </item>
-    <item>
-      <title>Fun with AI</title>
-      <link>https://www.junkcharts.com/fun-with-ai/</link>
-      <description>Junk Charts: &amp;#8220;&amp;#8216;Dario&amp;#8217; is represented by Claude, and &amp;#8216;Altman&amp;#8217; by ChatGPT. I made the two models debate each other on a topic of my choosing. At each round, they have the opportunity to concede.&amp;#8221; Good morning, Internet&amp;#8230;</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
-      <guid>https://www.junkcharts.com/fun-with-ai/</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Sun, 16 Aug 2026 14:45:41 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
