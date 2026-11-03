@@ -4,7 +4,196 @@
     <title>ResearchBuzz - Transformed</title>
     <link>https://researchbuzz.me</link>
     <description>News and resources covering social media, search engines, databases, archives, and other such information collections. Since 1998.</description>
-    <lastBuildDate>Tue, 03 Nov 2026 11:43:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 19:16:25 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic confirms new Claude Code limits to prevent game cloning — users report Opus 5.5 is also actively blocking reverse engineering tasks</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks</link>
+      <description>Tom&amp;#8217;s Hardware: &amp;#8220;Anthropic&amp;#8217;s recent move to have Claude Code deny video game cloning and possibly reverse engineering efforts has come under heavy fire from the software development community. Hot on the heels of Friday&amp;#8217;s report on the matter, an Anthropic employee responded to the tweet with the purported rule update with a direct statement confirming that the firm added guardrails to Claude Code to prevent game recreation.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks</guid>
+    </item>
+    <item>
+      <title>r/opensource just banned AI, non-English speakers, and more</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
+      <description>The Verge: &amp;#8220;The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, &amp;#8216;If your project uses AI, is made by AI, or is intended for AI, it’s not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community.&apos;&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</guid>
+    </item>
+    <item>
+      <title>AI has come for Arizona’s water</title>
+      <link>https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc/?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFkdzJEQktYdUkiLCJwIjoiL2NzL2ZlYXR1cmVzLzEwMTY2NTAvYXJpem9uYS13YXRlci1kYXRhLWNlbnRlci10c21jIiwiZXhwIjoxNzkzNzE2ODI5LCJpYXQiOjE3OTMyODQ4Mjl9.2I3Q8YF72YlZ82qB1jITu1Pv_2X6WPGXSrMtVpL9JTE&amp;#038;utm_medium=gift-link</link>
+      <description>The Verge: &amp;#8220;In Arizona and elsewhere, data center developers have tried to win over locals by making enticing promises about the jobs, tax revenue, and infrastructure they’ll bring with them. All they ask for in exchange is water — and, they swear, not nearly as much of it as you’d expect. Some hyperscale data centers, like Google’s facility in The Dalles, Oregon, use about 1.5 million gallons a day, about one-third of what TSMC’s Arizona complex consumes in the same timeframe. Those reassurances, however, aren’t enough to assuage Arizonans, who now have to contend with the fact that the state will soon lose access to nearly 30 percent of the water it receives from the Colorado River.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc/?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InFkdzJEQktYdUkiLCJwIjoiL2NzL2ZlYXR1cmVzLzEwMTY2NTAvYXJpem9uYS13YXRlci1kYXRhLWNlbnRlci10c21jIiwiZXhwIjoxNzkzNzE2ODI5LCJpYXQiOjE3OTMyODQ4Mjl9.2I3Q8YF72YlZ82qB1jITu1Pv_2X6WPGXSrMtVpL9JTE&amp;#038;utm_medium=gift-link</guid>
+    </item>
+    <item>
+      <title>Musk and Zuckerberg echo Trump’s push to rebrand AI as ‘super intelligence’ on earnings calls. Others do not</title>
+      <link>https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html</link>
+      <description>CNBC: &amp;#8220;A month after President Donald Trump ordered that &amp;#8216;super intelligence&amp;#8217; replace the term artificial intelligence within executive branch departments and agencies, his leading tech allies, Elon Musk and Mark Zuckerberg, followed suit on earnings calls. Their fellow tech CEOs were less eager to do the same.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html</guid>
+    </item>
+    <item>
+      <title>State says resident data is safe with state AI tool. Advocates have concerns.</title>
+      <link>https://commonwealthbeacon.org/technology/state-says-resident-data-is-safe-with-state-ai-tool-advocates-have-concerns/</link>
+      <description>CommonWealth Beacon: &amp;#8220;The AI assistant can handle resident data like tax records, RMV files, housing and rental information, and benefits documentation. There is &amp;#8216;no direct opt-in or opt-out for residents,&amp;#8217; according to the tool’s public FAQ, which describes it as strictly internal and not the final word on state decisions. Given the recent hacking incidents, CommonWealth Beacon checked back in with state officials to see how they’re protecting the data. Here’s what you need to know.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://commonwealthbeacon.org/technology/state-says-resident-data-is-safe-with-state-ai-tool-advocates-have-concerns/</guid>
+    </item>
+    <item>
+      <title>Students at an A.I. School Were Supposed to Learn Faster. Many Aren’t.</title>
+      <link>https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html?unlocked_article_code=1.K1E.IcJn.2l4XIQK5gQsl&amp;#038;smid=url-share</link>
+      <description>New York Times: &amp;#8220;Alpha students are participating, essentially, in an experiment. At Alpha, there are no traditional teachers, few books and little paper. All of the academic lessons are delivered via apps, and students can earn lavish prizes for completing their work. Adults are present, but only as motivational guides: Students stuck on a concept can do video calls with tutors abroad. Some children who struggle leave or have been pushed out, according to documents and several former private school parents and employees.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html?unlocked_article_code=1.K1E.IcJn.2l4XIQK5gQsl&amp;#038;smid=url-share</guid>
+    </item>
+    <item>
+      <title>The Currency of the Journal Article Is Collapsing</title>
+      <link>https://www.theatlantic.com/ideas/2026/10/ai-journal-articles-writing/689186/?gift=k_OobsDbpwjWwm8XT1W4w4xJ7-LIfJaQlw9RWRaVAmg&amp;#038;utm_source=copy-link&amp;#038;utm_medium=social&amp;#038;utm_campaign=share</link>
+      <description>The Atlantic: &amp;#8220;Unfortunately, the scholars submitting papers aren’t the only ones using AI. So are many of their peer reviewers. One recent peer review that my journal received—from a senior scholar—read like an unedited cut-and-paste job from an LLM. The giveaway was that it criticized the authors for failing to cite a particular text—in this case, the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders—when the paper did indeed cite it.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://www.theatlantic.com/ideas/2026/10/ai-journal-articles-writing/689186/?gift=k_OobsDbpwjWwm8XT1W4w4xJ7-LIfJaQlw9RWRaVAmg&amp;#038;utm_source=copy-link&amp;#038;utm_medium=social&amp;#038;utm_campaign=share</guid>
+    </item>
+    <item>
+      <title>Investors Are Getting Palpably Nervous About the AI Industry’s Financial Situation</title>
+      <link>https://futurism.com/future-society/investors-nervous-ai-industry-financial-situation</link>
+      <description>Futurism: &amp;#8220;Since most of these companies’ fates are inextricably linked by circular financing, a major economic downturn or weakening demand could have cascading repercussions, especially considering much of the sector’s financing is based on debt. Beyond the tech industry’s very bad week, data center operators aren’t looking much better. Nvidia customer CoreWave, which analysts have dubbed the &amp;#8216;AI trade’s canary in the coal mine,&amp;#8217; has also seen its shares decline over months, raising plenty of flags.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://futurism.com/future-society/investors-nervous-ai-industry-financial-situation</guid>
+    </item>
+    <item>
+      <title>OpenAI CEO says it&amp;#8217;s &amp;#8216;quite terrible&amp;#8217; for your PC to have RAM — Sam Altman says data centers offer better utilization</title>
+      <link>https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization</link>
+      <description>Tom&amp;#8217;s Hardware: &amp;#8220;When discussing local inference on home computers with open-source models, Altman discussed the assumption that people will be able to run local AI on their own computers, the ones they may already own or want to build. Then he explained why that&amp;#8217;s a bad idea.&amp;#8221; Local water baron thinks your well is a terrible idea.</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization</guid>
+    </item>
+    <item>
+      <title>Google expands AI Search ads globally as core ad growth slows</title>
+      <link>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/</link>
+      <description>TechCrunch: &amp;#8220;Google is bringing ads in its AI-powered Search experiences to international markets, betting that generative AI can open up new revenue opportunities even as growth in its core search advertising business slows.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/</guid>
+    </item>
+    <item>
+      <title>China’s ‘Lipstick King’ hawks tokens as AI gets mass-market Singles’ Day push</title>
+      <link>https://www.scmp.com/tech/big-tech/article/3373090/chinas-lipstick-king-hawks-tokens-ai-gets-mass-market-singles-day-push</link>
+      <description>South China Morning Post: &amp;#8220;China’s &amp;#8216;Lipstick King&amp;#8217; has traded make-up swatches for artificial intelligence. Top live-streamer Li Jiaqi on Monday evening teamed up with an executive from Alibaba Group Holding to pitch AI subscriptions, selling nearly 100,000 monthly packages in just 30 minutes, according to data provided by the e-commerce giant.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://www.scmp.com/tech/big-tech/article/3373090/chinas-lipstick-king-hawks-tokens-ai-gets-mass-market-singles-day-push</guid>
+    </item>
+    <item>
+      <title>OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push</title>
+      <link>https://uk.news.yahoo.com/openai-limit-weapons-information-teens-173008704.html</link>
+      <description>Reuters: &amp;#8220;OpenAI said on Friday it is tightening limits on the weapons-related information ChatGPT provides to teens, even ‌when a question appears harmless, as part of new safeguards ‌aimed at preventing real-world violence.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://uk.news.yahoo.com/openai-limit-weapons-information-teens-173008704.html</guid>
+    </item>
+    <item>
+      <title>Anthropic’s Claude AI model accessed Georgia voter data in US</title>
+      <link>https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us</link>
+      <description>The Guardian: &amp;#8220;Anthropic’s Claude model accessed voter data in the US state of Georgia, the AI company has confirmed, in the latest example of unauthorised behaviour by the technology. The AI model managed to bypass a paywall to reach data that is publicly available but is typically accessible only after paying a fee.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us</guid>
+    </item>
+    <item>
+      <title>University students attempt to manipulate fictional election in &amp;#8216;Kingstonia&amp;#8217; using AI bots</title>
+      <link>https://www.abc.net.au/news/2026-10-31/unsw-students-fake-election-ai-bots/107326784</link>
+      <description>ABC News (Australia): &amp;#8220;Kaira is part of a competition led by researchers at the University of New South Wales, which pits teams against one another to manipulate social media to win a simulated vote. They&amp;#8217;re allowed to build AI bots to post, like, share and reply on a made-up social media platform. Points are awarded for grabbing attention, changing voters&amp;#8217; views and spotting rival teams&amp;#8217; bots.&amp;#8221; Good morning, Internet&amp;#8230;</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://www.abc.net.au/news/2026-10-31/unsw-students-fake-election-ai-bots/107326784</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Tue, 03 Nov 2026 15:12:07 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
+    <item>
+      <title>&amp;#8216;America hates data centers&amp;#8217; — New data highlights public sentiment</title>
+      <link>https://tech.yahoo.com/ai/articles/america-hates-data-centers-data-151912698.html</link>
+      <description>Tom&amp;#8217;s Hardware: &amp;#8220;Following the recent news that Amazon canceled plans to build four new facilities after a public outcry, a new website seeks to detail how sour public sentiment on the subject has turned. American Sentiment is operated by Prophecy Gov, an AI startup based in San Francisco, and it has turned 10,202 public comments at 417 local government meetings from 2026 into a scrollable collection of facts and figures that will give data center builders nightmares, revealing that more than 90% of public comments on data centers are negative.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://tech.yahoo.com/ai/articles/america-hates-data-centers-data-151912698.html</guid>
+    </item>
+    <item>
+      <title>“Giant of Improvisation”: The Harry Pepl Archive Goes Online</title>
+      <link>https://www.einnews.com/pr_news/952584474/giant-of-improvisation-the-harry-pepl-archive-goes-online</link>
+      <description>EINPresswire: (PRESS RELEASE). &amp;#8220;Five rediscovered concert recordings, 413 press documents and a body of work spanning European jazz and early digital studio practice: harrypepl.com makes the estate of Austrian guitarist, composer and innovator Harry Pepl accessible for the first time through a growing online archive.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://www.einnews.com/pr_news/952584474/giant-of-improvisation-the-harry-pepl-archive-goes-online</guid>
+    </item>
+    <item>
+      <title>Three online World Digital Preservation Day events highlight best practices</title>
+      <link>https://www.psu.edu/news/university-libraries/story/three-online-world-digital-preservation-day-events-highlight-best</link>
+      <description>Penn State: &amp;#8220;Digital stewardship of data impacts everyone in the age of email, smartphones and social media. Penn State University Libraries is hosting three virtual programs for World Digital Preservation Day 2026 on Thursday, Nov. 5, highlighting digital initiatives at a local historical society, supporting a manuscript database for the J.R.R. Tolkien materials and software emulation.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://www.psu.edu/news/university-libraries/story/three-online-world-digital-preservation-day-events-highlight-best</guid>
+    </item>
+    <item>
+      <title>Fort Hays State’s Sternberg Museum will remain open after outpouring of support</title>
+      <link>https://kansasreflector.com/2026/10/27/fort-hays-states-sternberg-museum-will-remain-open-after-outpouring-of-support/</link>
+      <description>Kansas Reflector: &amp;#8220;The Sternberg Museum of Natural History will remain open after fear of its closure pushed donors to gift $1.2 million toward its operating expenses, the president of Fort Hays State University told a legislative committee Monday.  Despite the museum’s reprieve, legislators challenged the way Tisa Mason, who has led the university since 2017, managed the recent announcement the museum would close and also her reasoning for deciding to cut the facility from FHSU’s budget.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://kansasreflector.com/2026/10/27/fort-hays-states-sternberg-museum-will-remain-open-after-outpouring-of-support/</guid>
+    </item>
+    <item>
+      <title>Snap settles social media addiction lawsuit to avoid trial</title>
+      <link>https://www.engadget.com/2304464/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/</link>
+      <description>Engadget: &amp;#8220;Snap CEO Evan Spiegel won&amp;#8217;t have to testify in a high-profile trial over social media addiction after all. Snap has settled a lawsuit brought by two teens who alleged their use of the app led to self harm and other mental health issues.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://www.engadget.com/2304464/snap-settles-social-media-addiction-lawsuit-to-avoid-trial/</guid>
+    </item>
+    <item>
+      <title>Palm Beach plane crash footage isn&amp;#8217;t AI-generated, despite social media claims</title>
+      <link>https://www.pbs.org/newshour/nation/palm-beach-plane-crash-footage-isnt-ai-generated-despite-social-media-claims</link>
+      <description>PBS Newshour: &amp;#8220;Footage from Palm Beach County, Florida, shows a plane nosediving into the ground at full speed, cratering the pavement, and dissolving into fire and smoke. It looks unreal. So unreal that some social media users say it&amp;#8217;s fake.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://www.pbs.org/newshour/nation/palm-beach-plane-crash-footage-isnt-ai-generated-despite-social-media-claims</guid>
+    </item>
+    <item>
+      <title>University Libraries awarded 2026 NEH grant for digitization of SC newspapers</title>
+      <link>https://www.sc.edu/about/offices_and_divisions/university_libraries/exhibits_events_news/news/2026/2026_NEH_grant.php</link>
+      <description>University of South Carolina: &amp;#8220;University of South Carolina Libraries has received a 2026 National Endowment for the Humanities (NEH) grant of $324,979 to continue its work digitizing South Carolina newspapers. The grant is one of 81 awarded nationwide by the NEH this year, and the only one to be awarded in South Carolina. It is the 6th NEH grant that has been awarded to University Libraries for digitization of South Carolina newspapers.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://www.sc.edu/about/offices_and_divisions/university_libraries/exhibits_events_news/news/2026/2026_NEH_grant.php</guid>
+    </item>
+    <item>
+      <title>Gee Vaucher Foundation launches campaign to archive work of seminal protest-artist</title>
+      <link>https://www.thelineofbestfit.com/news/gee-vaucher-foundation-launches-campaign-to-archive-work-of-seminal-protest-artist</link>
+      <description>The Line of Best Fit: &amp;#8220;The Gee Vaucher Foundation has launched a £100,000 fundraising campaign to archive more than 2,000 works by the artist Gee Vaucher, who was a member of the anarcho-punk band Crass and whose work was a seminal part of the protest-art movement of the 1980s.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://www.thelineofbestfit.com/news/gee-vaucher-foundation-launches-campaign-to-archive-work-of-seminal-protest-artist</guid>
+    </item>
+    <item>
+      <title>A fake TikTok shop is Surfshark’s most-blocked phishing scam – how to steer clear</title>
+      <link>https://www.zdnet.com/tech/fake-tiktok-shop-phishing-scam-surfshark/</link>
+      <description>ZDNet: &amp;#8220;TikTok Shop shoppers, beware: A counterfeit TikTok Shop generated over 320,000 phishing blocks between May and September 2026, or 19% of all global phishing domain blocks during that time, according to a Monday report from VPN provider Surfshark. As of this month, the domain is still active — a worrisome sign as we approach the Black Friday shopping period.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://www.zdnet.com/tech/fake-tiktok-shop-phishing-scam-surfshark/</guid>
+    </item>
+    <item>
+      <title>Europe’s supermarkets hit by new wave of cyberattacks targeting fridges</title>
+      <link>https://www.politico.eu/article/new-supermarket-hack-in-belgium-sweden-luxembourg/</link>
+      <description>Politico: &amp;#8220;Several store managers told local media that refrigerator temperatures suddenly spiked to up to 50 degrees Celsius. This mirrors the French incidents last month, in which attackers appeared to remotely manipulate the fridges’ defrosting mechanisms so that they overheated.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://www.politico.eu/article/new-supermarket-hack-in-belgium-sweden-luxembourg/</guid>
+    </item>
+    <item>
+      <title>Creators who show their sources build trust, survey finds</title>
+      <link>https://www.niemanlab.org/2026/10/creators-who-show-their-sources-build-trust-survey-finds/</link>
+      <description>NiemanLab: &amp;#8220;About one in five U.S. adults regularly gets their news from news creators on social media platforms, but it can be difficult for audiences to suss out which personalities to trust amid an avalanche of misinformation, hot takes, and polarizing content. New research spearheaded by a team of journalists and political scientists shows that giving audiences a peek into the reporting process can help bolster their trust in the news.&amp;#8221;</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://www.niemanlab.org/2026/10/creators-who-show-their-sources-build-trust-survey-finds/</guid>
+    </item>
+    <item>
+      <title>supporting ResearchBuzz on Patreon</title>
+      <link>https://www.patreon.com/ResearchBuzz</link>
+      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
+      <pubDate>Tue, 03 Nov 2026 13:01:56 +0000</pubDate>
+      <guid>https://www.patreon.com/ResearchBuzz</guid>
+    </item>
     <item>
       <title>Sharing Korean Canadian stories far and wide</title>
       <link>https://library.utoronto.ca/news/sharing-korean-canadian-stories-far-and-wide</link>
@@ -710,153 +899,6 @@
       <link>https://www.patreon.com/ResearchBuzz</link>
       <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
       <pubDate>Fri, 30 Oct 2026 01:37:21 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>Mayor Mamdani Launches Online Resource to Help New Yorkers Keep SNAP and Medicaid Benefits</title>
-      <link>https://www.nyc.gov/mayors-office/news/2026/10/mayor-mamdani-launches-online-resource-to-help-new-yorkers-keep-</link>
-      <description>Government of New York City: &amp;#8220;By answering a series of questions about their age, work status, education and other circumstances, users can learn whether they may be subject to the new requirements, qualify for an exemption or need to take additional steps to remain eligible. The site also connects New Yorkers with SNAP and Medicaid hotlines, food banks, job boards, approved volunteer opportunities and NYC Care. Those who have lost benefits or do not qualify for SNAP or Medicaid can find information about low- and no-cost health care through NYC Health + Hospitals’ NYC Care program and locate food assistance near them.&amp;#8221;</description>
-      <pubDate>Thu, 29 Oct 2026 12:01:50 +0000</pubDate>
-      <guid>https://www.nyc.gov/mayors-office/news/2026/10/mayor-mamdani-launches-online-resource-to-help-new-yorkers-keep-</guid>
-    </item>
-    <item>
-      <title>Colorado’s Past Is Hiding in These 5,191 Old Newspapers</title>
-      <link>https://kool1079.com/ixp/507/p/colorado-palisade-tribune-newspaper-archives-digitized/</link>
-      <description>KOOL 107.9: &amp;#8220;When the Palisade Tribune closed in 2014, several loose ends remained, including newspapers that represented more than a century of community history at risk of being forgotten. Palisade Historical Society to the rescue. PHS has preserved thousands of old Palisade Tribune newspapers by turning the pages into a searchable digital archive, and saving thousands of pages of Palisade, Colorado history.&amp;#8221;</description>
-      <pubDate>Thu, 29 Oct 2026 12:01:50 +0000</pubDate>
-      <guid>https://kool1079.com/ixp/507/p/colorado-palisade-tribune-newspaper-archives-digitized/</guid>
-    </item>
-    <item>
-      <title>Google struggling to make AI Mode searches pay</title>
-      <link>https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181</link>
-      <description>The Register: &amp;#8220;Shares in Google’s parent company Alphabet dived by almost ten percent on Wednesday, after the web giant admitted AI-powered searches earn it less money than it earns by serving ads with its old-school search engine.&amp;#8221;</description>
-      <pubDate>Thu, 29 Oct 2026 12:01:50 +0000</pubDate>
-      <guid>https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181</guid>
-    </item>
-    <item>
-      <title>Reddit is the latest platform to embrace the ‘For You’ feed</title>
-      <link>https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/</link>
-      <description>TechCrunch: &amp;#8220;Reddit is the latest social platform to adopt the “For You” feed popularized by TikTok. The company announced on Wednesday that users will now see two options when opening the platform: &amp;#8216;For You&amp;#8217; and &amp;#8216;Following.&amp;#8217; The &amp;#8216;For You&amp;#8217; feed combines posts from communities users have joined with recommendations tailored to their interests.&amp;#8221;</description>
-      <pubDate>Thu, 29 Oct 2026 12:01:50 +0000</pubDate>
-      <guid>https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/</guid>
-    </item>
-    <item>
-      <title>Meet the Gen Z Duo Who Left 60 Minutes and Launched Their Own Newsgirls Empire</title>
-      <link>https://www.vanityfair.com/story/newsgirls-interview-wren-woodson-mabel-kabani-60-minutes</link>
-      <description>Vanity Fair: &amp;#8220;It’s easier to laugh off their naivete now that Newsgirls, their online news start-up aimed at Gen Z, has found an audience of nearly half a million followers across Instagram, YouTube, and TikTok. After bonding as the youngest hires at 60 Minutes—which marked each woman’s first gig out of college— [Mabel] Kabani and [Wren] Woodson launched Newsgirls in 2024 &amp;#8216;to talk to people our age…[who] are just not watching traditional outlets anymore,&amp;#8217; Woodson tells Vanity Fair.&amp;#8221;</description>
-      <pubDate>Thu, 29 Oct 2026 12:01:50 +0000</pubDate>
-      <guid>https://www.vanityfair.com/story/newsgirls-interview-wren-woodson-mabel-kabani-60-minutes</guid>
-    </item>
-    <item>
-      <title>Vox launches its first app with an eye toward building paid memberships</title>
-      <link>https://www.niemanlab.org/2026/10/vox-launches-its-first-app-with-an-eye-toward-building-paid-memberships/</link>
-      <description>NiemanLab: &amp;#8220;While the app is free to download and browse, it’s catered toward serving Vox journalism to paid subscribers in one place. Vertical videos and podcasts are free to watch and listen to, but only paid subscribers can read text stories and listen to podcasts ad-free.&amp;#8221;</description>
-      <pubDate>Thu, 29 Oct 2026 12:01:50 +0000</pubDate>
-      <guid>https://www.niemanlab.org/2026/10/vox-launches-its-first-app-with-an-eye-toward-building-paid-memberships/</guid>
-    </item>
-    <item>
-      <title>Top House Democrats demand Trump preserve conversations with Grok</title>
-      <link>https://www.politico.com/news/2026/10/29/trump-democrats-grok-oversight-01140089</link>
-      <description>Politico: &amp;#8220;The top Democrats on the House Judiciary and Oversight Committees want President Donald Trump to preserve his conversations with artificial intelligence chatbots as part of an inquiry into whether Elon Musk’s AI assistant played a role in shaping White House policy — a preview of what’s to come if their party flips the chamber next week.&amp;#8221;</description>
-      <pubDate>Thu, 29 Oct 2026 12:01:50 +0000</pubDate>
-      <guid>https://www.politico.com/news/2026/10/29/trump-democrats-grok-oversight-01140089</guid>
-    </item>
-    <item>
-      <title>Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say</title>
-      <link>https://www.reuters.com/technology/pentagon-treating-military-base-freezer-malfunctions-suspected-cyberattack-2026-10-29/</link>
-      <description>Reuters: &amp;#8220;The Pentagon is treating the spate of mysterious freezer ​malfunctions that spoiled food at military bases across the United States in August as a suspected hack, according to four officials familiar with the matter. One of the ‌officials said the military investigators were in touch with their French counterparts about a similar cyberattack on commercial freezers that disrupted supermarkets there earlier this month.&amp;#8221;</description>
-      <pubDate>Thu, 29 Oct 2026 12:01:50 +0000</pubDate>
-      <guid>https://www.reuters.com/technology/pentagon-treating-military-base-freezer-malfunctions-suspected-cyberattack-2026-10-29/</guid>
-    </item>
-    <item>
-      <title>Hackers Abuse Indian Government Domains to Push Illegal Gambling Websites Through Google Search</title>
-      <link>https://gbhackers.com/illegal-gambling-sites/</link>
-      <description>GBHackers: &amp;#8220;Hackers have abused Indian government and educational domains to promote illegal gambling websites through Google Search, using unauthorized DNS changes to establish malicious subdomains while leaving legitimate websites operational.&amp;#8221;</description>
-      <pubDate>Thu, 29 Oct 2026 12:01:50 +0000</pubDate>
-      <guid>https://gbhackers.com/illegal-gambling-sites/</guid>
-    </item>
-    <item>
-      <title>Haeinsa Temple Begins Recarving Tripitaka Koreana, a Project That May Take a Century</title>
-      <link>https://en.sedaily.com/society/2026/10/29/haeinsa-temple-begins-recarving-tripitaka-koreana-a-project</link>
-      <description>Seoul Economic Daily: &amp;#8220;Haeinsa Temple in Hapcheon, Gyeongsangnam-do, held a &amp;#8216;Daejanggyeong Woodblock Carving Gobulsik&amp;#8217; ceremony in the temple&amp;#8217;s pagoda courtyard on the afternoon of the 29th, launching a long journey to newly carve all 81,352 woodblocks of the Tripitaka Koreana, a national treasure and UNESCO Memory of the World item. The Buddhist project is expected to take 50 to 100 years to complete. The people of Goryeo carved the Tripitaka Koreana over 16 years, from 1236 to 1251, when the country was in crisis from the Mongol invasions.&amp;#8221; Good morning, Internet&amp;#8230;</description>
-      <pubDate>Thu, 29 Oct 2026 12:01:50 +0000</pubDate>
-      <guid>https://en.sedaily.com/society/2026/10/29/haeinsa-temple-begins-recarving-tripitaka-koreana-a-project</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Thu, 29 Oct 2026 12:01:50 +0000</pubDate>
-      <guid>https://www.patreon.com/ResearchBuzz</guid>
-    </item>
-    <item>
-      <title>MuGlobe.com</title>
-      <link>https://muglobe.com/</link>
-      <description>Came in over the transom: Per the email, the site &amp;#8220;creates a virtual radio station from any spot on the planet and streams music for free, with no ads. It also has detailed articles about the music you&amp;#8217;re listening to—its history, cultural context and how styles evolve over time—plus playlist support.&amp;#8221; When you visit the site it takes you to a random place on the planet; I got dropped into the Congo Basin / Eastern Congo and was presented with a song called &amp;#8220;Je m’en fous&amp;#8221; in the form of a YouTube video. I confess to chairdancing.</description>
-      <pubDate>Wed, 28 Oct 2026 18:55:20 +0000</pubDate>
-      <guid>https://muglobe.com/</guid>
-    </item>
-    <item>
-      <title>Decoding WWII Training Aircraft Markings and Preserving John D. Voss’s Research</title>
-      <link>https://vintageaviationnews.com/warbirds-news/decoding-wwii-training-aircraft-markings-and-preserving-john-d-vosss-research.html</link>
-      <description>New-to-me, from Vintage Aviation News: &amp;#8220;A few letters painted on the side of a WWII training aircraft can offer an important clue to its history. For John D. Voss, deciphering those markings became a research project that grew into USAAF Training Aircraft Fuselage Codes of WWII, a website dedicated to documenting the codes used by the United States Army Air Forces’ training schools.&amp;#8221; Unfortunately the site does not have a security certificate, so expect a complaint from your browser.</description>
-      <pubDate>Wed, 28 Oct 2026 18:55:20 +0000</pubDate>
-      <guid>https://vintageaviationnews.com/warbirds-news/decoding-wwii-training-aircraft-markings-and-preserving-john-d-vosss-research.html</guid>
-    </item>
-    <item>
-      <title>Department of War Publishes Seventh Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO</title>
-      <link>https://www.war.gov/News/Releases/Release/Article/4632058/department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena/</link>
-      <description>US DoD: &amp;#8220;Today, the Department of War is publishing the seventh release of declassified and historical Unidentified Anomalous Phenomena (UAP) files as part of the Presidential Unsealing and Reporting System for UAP Encounters (PURSUE). The collection continues to be housed on WAR.GOV/UFO, and the Department will release additional files on a rolling basis.&amp;#8221;</description>
-      <pubDate>Wed, 28 Oct 2026 18:55:20 +0000</pubDate>
-      <guid>https://www.war.gov/News/Releases/Release/Article/4632058/department-of-war-publishes-seventh-release-of-unidentified-anomalous-phenomena/</guid>
-    </item>
-    <item>
-      <title>Amazon just rebranded Kindle Unlimited — what you need to know about Kindle+</title>
-      <link>https://mashable.com/tech/kindle-unlimited-is-now-kindle-plus</link>
-      <description>Mashable: &amp;#8220;As of Oct. 22, Amazon rebranded Kindle Unlimited to Kindle+. Now under your subscription tab, you&amp;#8217;ll find your membership listed as Kindle+. But what does this mean for your membership? Has the program or pricing changed? Here&amp;#8217;s everything we know about Amazon&amp;#8217;s rebrand from Kindle Unlimited to Kindle+.&amp;#8221;</description>
-      <pubDate>Wed, 28 Oct 2026 18:55:20 +0000</pubDate>
-      <guid>https://mashable.com/tech/kindle-unlimited-is-now-kindle-plus</guid>
-    </item>
-    <item>
-      <title>Microsoft offers a quarter of its global workforce voluntary buyouts as AI spending accelerates</title>
-      <link>https://apnews.com/article/microsoft-buyout-ai-layoff-xbox-c5a639f53615be198db1799adf6837e1</link>
-      <description>Associated Press: &amp;#8220;Microsoft has offered 60,000 employees, or about 27% of its global workforce, voluntary buyouts as the software giant spends heavily on artificial intelligence. The company’s voluntary exit offer was available to eligible employees in Canada, India, the United Kingdom and the United States, the company’s Chief People Officer Amy Coleman wrote in a blog post Monday.&amp;#8221;</description>
-      <pubDate>Wed, 28 Oct 2026 18:55:20 +0000</pubDate>
-      <guid>https://apnews.com/article/microsoft-buyout-ai-layoff-xbox-c5a639f53615be198db1799adf6837e1</guid>
-    </item>
-    <item>
-      <title>Meta is charging government and nonprofit pages to post links on Facebook</title>
-      <link>https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/</link>
-      <description>Engadget: &amp;#8220;[Daniel] Starks is one of a growing number of people to encounter Meta&amp;#8217;s ongoing experiment with charging creators, businesses and other professionals to post links on Facebook. Meta says the test, which is part of its push to sell more subscriptions, isn&amp;#8217;t supposed to affect pages for nonprofits or government entities. But that&amp;#8217;s not the case, according to nonprofit leaders who spoke with Engadget.&amp;#8221;</description>
-      <pubDate>Wed, 28 Oct 2026 18:55:20 +0000</pubDate>
-      <guid>https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/</guid>
-    </item>
-    <item>
-      <title>CNN’s Scott Jennings Hit With $72.5M Suit By Hasan Piker Over “Manipulated” Lynching Misquote</title>
-      <link>https://deadline.com/2026/10/scott-jennings-sued-hasan-piker-lynching-misquote-defamation-1237206831/</link>
-      <description>Deadline: &amp;#8220;In a blistering response to Scott Jennings allegedly using &amp;#8216;a false, fabricated, and manipulated video&amp;#8217; claiming Hasan Piker wants to bring back lynching of Black Americans, the left-wing streamer plans to take the CNN MAGA talking head to the courtroom cleaners for $72.5 million.&amp;#8221;</description>
-      <pubDate>Wed, 28 Oct 2026 18:55:20 +0000</pubDate>
-      <guid>https://deadline.com/2026/10/scott-jennings-sued-hasan-piker-lynching-misquote-defamation-1237206831/</guid>
-    </item>
-    <item>
-      <title>Court orders Egyptian website closed in case seen as test for independent media</title>
-      <link>https://www.reuters.com/business/media-telecom/court-orders-egyptian-website-closed-case-seen-test-independent-media-2026-10-27/</link>
-      <description>Reuters: &amp;#8220;An Egyptian court convicted the editor-in-chief of leading independent news website Mada Masr ‌of running it without a licence on Tuesday, ordered the site closed and held her in custody for five hours, her lawyers and the outlet said. Lina Attalah of the online newspaper Mada Masr, which has won numerous international awards for its reporting, was fined 3 million Egyptian pounds ($53,400), her lawyers told Reuters. She was released ​after Mada Masr paid the fine, the newspaper said.&amp;#8221;</description>
-      <pubDate>Wed, 28 Oct 2026 18:55:20 +0000</pubDate>
-      <guid>https://www.reuters.com/business/media-telecom/court-orders-egyptian-website-closed-case-seen-test-independent-media-2026-10-27/</guid>
-    </item>
-    <item>
-      <title>Harnessing the power of the tides</title>
-      <link>https://engineering.berkeley.edu/news/2026/10/harnessing-the-power-of-the-tides/</link>
-      <description>UC Berkeley: &amp;#8220;To combat climate change, countries worldwide are increasingly turning to clean energy sources such as solar and wind power in place of fossil fuels. Now, civil and environmental engineering professor Evan Variano is exploring another option: tidal energy. Using an underwater kite, he is studying ways to harness the power of ocean currents.&amp;#8221; Good afternoon, Internet&amp;#8230;</description>
-      <pubDate>Wed, 28 Oct 2026 18:55:20 +0000</pubDate>
-      <guid>https://engineering.berkeley.edu/news/2026/10/harnessing-the-power-of-the-tides/</guid>
-    </item>
-    <item>
-      <title>supporting ResearchBuzz on Patreon</title>
-      <link>https://www.patreon.com/ResearchBuzz</link>
-      <description>This newsletter is free but most of the things that go into making it aren&amp;#8217;t! Help me afford new socks and fancier bean stew by Not interested in commitment? Perhaps you’d buy me an iced tea. Don&amp;#8217;t have any money but still want to support? I know how that feels.  Share this newsletter or tell a friend about it. I live at Calishat. See my other nonsense at SearchTweaks, RSS Gizmos, Local Search America, WikiTwister, and MiniGladys.</description>
-      <pubDate>Wed, 28 Oct 2026 18:55:20 +0000</pubDate>
       <guid>https://www.patreon.com/ResearchBuzz</guid>
     </item>
   </channel>
